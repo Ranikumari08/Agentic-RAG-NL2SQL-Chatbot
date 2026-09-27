@@ -1,32 +1,233 @@
-Built an agentic RAG + NL2SQL chatbot using LangGraph with autonomous agents handling generic queries, deep research, tool calling, and structured database queries via hybrid search, metadata filtering, chunk-based reasoning, and NL2SQL generation
+# Lifespring Agentic AI
 
-Designed a flexible ingestion pipeline supporting PDF, TXT, HTML, MP3, and web links, with scrape/crawl options, document- and chunk-level metadata extraction, and embedding storage for both RAG and NL2SQL query
+A multi-agent clinic assistant that answers policy questions, looks up live data, and performs real actions (booking, cancelling) against a Postgres-backed healthcare system — routed automatically by a LangGraph supervisor.
 
-Enabled user-defined field configurations as dynamic filters across agentic and NL2SQL workflows; used Pydantic for structured outputs and Celery with SQS for async ingestion and task orchestration
+Built for **Lifespring Clinic**, a fictional healthcare provider used as the domain for this project.
 
-Integrated support for user-defined tools (API calls) and database access via cURL and SQL execution, triggered when the supervisor agent detects the need, enabling dynamic external tool usage and real-time NL2SQL execution
+---
 
-Currently building this project:
+## What it does
 
-Concrete build is for a healthcare clinic (Lifespring Clinic): Postgres backend (via psycopg2 pool in db.py) with tables departments, doctors, patients, appointments, billing, lab_tests, medical_records, medications, prescriptions
+Ask it a question in plain language, and it figures out — on its own — whether that needs:
 
-Has agent tool modules per domain: doctors_tools.py (availability), appointment_tools.py (book/cancel), pharmacy_tools.py (medicine availability), lab_tools.py (test availability), notification_tools.py (send notification)
+- **Document knowledge** (clinic policies, insurance requirements, symptom guidance) → retrieved from PDFs via RAG
+- **Live structured data** (a doctor's fee, a patient's bill, medication stock) → answered by generating and running real SQL
+- **An action** (booking, cancelling, checking availability, sending a notification) → executed via tool calls against the database
 
-Has supporting scripts: insert_data.py (loads CSVs into Postgres), schema_check.py (verifies DB schema), test_tools.py (exercises the tool functions)
-Also has 11 clinic PDFs (billing, pharmacy policy, emergency, treatment info, symptoms guidance, follow-up care, consultation process, clinic services/overview, appointment booking, doctor profiles) as the RAG corpus alongside the CSV-backed structured data
+A single query can need more than one of these — *"Is Dr. Kapoor free tomorrow, and what does a consultation cost?"* triggers both the tool-calling agent and the NL2SQL agent, and their answers are blended into one coherent response.
 
-Project folder is named Lifespring_Agentic_AI, structured as: nl2sql/data (CSVs + generate_data.py + insert_data.py), rag/ (the 11 PDFs), tools/ (db.py, appointment_tools.py, doctors_tools.py, lab_tools.py, notification_tools.py, pharmacy_tools.py, schema_check.py, test_tools.py, requirements.txt, .env)
+The assistant also remembers the conversation: *"cancel that appointment"* correctly resolves to whatever was booked earlier in the same session, with no ID required.
 
-Data generation, CSV creation, and Postgres insertion are already done via VS Code; virtual environment is already set up
+---
 
-Target architecture: one supervisor agent receives the query and routes to three sub-agents — a RAG agent, an NL2SQL agent, and a tool-calling agent — which together complete the flow
+## Architecture
 
-Project structure preference: all agent files (rag_agent.py, and the upcoming NL2SQL agent and tool-calling agent) live together under one agent/ folder, alongside the existing rag/ (docs) and tools/ (tool functions) folders
+```
+                         ┌─────────────────────┐
+                         │   User query          │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │  Supervisor (router)   │
+                         │  LangGraph + Groq      │
+                         │  JSON-mode classifier  │
+                         └──────────┬───────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+      ┌───────▼───────┐   ┌─────────▼────────┐   ┌────────▼────────┐
+      │   RAG agent     │   │   NL2SQL agent    │   │ Tool-calling agent│
+      │                 │   │                   │   │                   │
+      │ ChromaDB +      │   │ Generates SQL,    │   │ Wraps 5 domain    │
+      │ Groq generation │   │ guarded to SELECT │   │ tools (booking,   │
+      │ over 11 clinic  │   │ only, runs via     │   │ pharmacy, labs,   │
+      │ policy PDFs     │   │ psycopg2 pool      │   │ availability,     │
+      │                 │   │                   │   │ notifications)     │
+      └───────┬───────┘   └─────────┬────────┘   └────────┬────────┘
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │  Merge (only if 2+     │
+                         │  agents fired)         │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │      Final answer      │
+                         └───────────────────────┘
+```
 
-RAG agent (agent/rag_agent.py) and ingestion script (ingest_pdfs.py) are working end-to-end: chunks the 11 PDFs (flatten-then-size-split approach, ~1000 char chunks, 3 per doc, 33 total) into ChromaDB via its built-in ONNX embedding function, retrieves via similarity search, and generates answers via Groq (openai/gpt-oss-120b)
+Conversation memory (LangGraph `InMemorySaver`, keyed by `session_id`) threads the last few turns into what the router and each agent see, so follow-ups resolve correctly without any agent needing its own memory.
 
-NL2SQL agent (agent/nl2sql_agent.py) built and tested successfully: generates SQL via Groq against the confirmed Postgres schema (departments, doctors, patients, appointments, billing, lab_tests, medical_records, medications, prescriptions), guards against non-SELECT/stacked queries, executes via tools/db.py's existing connection pool, and summarizes results in natural language — passed lookup, aggregation, empty-result, and write-action-refusal test cases
+---
 
-Tool-calling agent (agent/tool_calling_agent.py) built and tested successfully: wraps the 5 existing tool modules (doctors, appointment book/cancel, pharmacy, lab, notification) as Groq function-calling tools, with a multi-round dispatch loop, argument-parsing/unknown-tool error handling, and a guard against runaway tool-call loops — passed availability check, medicine check, real appointment booking (wrote to Postgres), and correctly made zero tool calls on an off-topic query
+## Tech stack
 
-All three sub-agents (RAG, NL2SQL, tool-calling) are now built and individually tested; next step is the supervisor agent + LangGraph routing between them
+| Layer | Technology |
+|---|---|
+| Orchestration | LangGraph (supervisor + routing graph) |
+| LLM | Groq (`openai/gpt-oss-120b` — free, open-weight) |
+| RAG | ChromaDB (built-in ONNX embeddings), pypdf |
+| Structured data | PostgreSQL, psycopg2 (connection-pooled) |
+| Tool calling | Groq function-calling API |
+| API | FastAPI |
+| Frontend | Vanilla HTML/CSS/JS (no build step) |
+
+---
+
+## Project structure
+
+```
+Lifespring_Agentic_AI/
+├── agent/
+│   ├── rag_agent.py            # RAG retrieval + generation
+│   ├── nl2sql_agent.py         # NL → SQL generation, guarded execution
+│   ├── tool_calling_agent.py   # Wraps tools/ as LLM function-calling tools
+│   └── supervisor.py           # LangGraph router, memory, multi-intent merge
+├── frontend/
+│   └── index.html              # Chat UI, served at /ui
+├── nl2sql/data/
+│   ├── *.csv                   # Source data: patients, doctors, billing, etc.
+│   ├── generate_data.py        # Synthetic data generation
+│   └── insert_data.py          # Loads CSVs into Postgres
+├── rag/
+│   ├── *.pdf                   # 11 clinic policy/info documents
+│   └── chroma_db/              # Generated by ingest_pdfs.py (gitignored)
+├── tools/
+│   ├── db.py                   # Shared Postgres connection pool
+│   ├── doctors_tools.py        # check_doctor_availability
+│   ├── appointment_tools.py    # book_appointment, cancel_appointment
+│   ├── pharmacy_tools.py       # check_medicine_availability
+│   ├── lab_tools.py            # check_lab_test_availability
+│   ├── notification_tools.py   # send_notification
+│   ├── schema_check.py         # Prints live Postgres schema
+│   ├── test_tools.py           # Exercises the tool functions directly
+│   └── requirements.txt        # DB-layer dependencies
+├── app.py                      # FastAPI entry point (/chat, /health, /ui)
+├── ingest_pdfs.py               # Chunks + embeds the 11 PDFs into ChromaDB
+├── requirements.txt             # Agent/API-layer dependencies
+├── .env.example
+└── .gitignore
+```
+
+---
+
+## Setup
+
+### 1. Clone and create a virtual environment
+
+```bash
+git clone <this-repo-url>
+cd Lifespring_Agentic_AI
+python -m venv venv
+venv\Scripts\activate        # Windows
+# source venv/bin/activate   # macOS/Linux
+
+pip install -r requirements.txt
+pip install -r tools/requirements.txt
+```
+
+### 2. Configure environment variables
+
+Copy `.env.example` to `tools/.env` and fill in:
+
+```
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=lifespring_healthcare
+DB_USER=postgres
+DB_PASSWORD=your_postgres_password
+
+GROQ_API_KEY=your_groq_api_key
+```
+
+Get a free Groq API key at [console.groq.com/keys](https://console.groq.com/keys) — no credit card required.
+
+### 3. Set up Postgres
+
+Create the database and tables (see `tools/schema_check.py` for the expected schema: `departments`, `doctors`, `patients`, `appointments`, `billing`, `lab_tests`, `medical_records`, `medications`, `prescriptions`), then load the sample data:
+
+```bash
+cd nl2sql/data
+python insert_data.py
+cd ../..
+```
+
+### 4. Ingest the RAG documents
+
+```bash
+python ingest_pdfs.py --pdf_dir rag/ --persist_dir rag/chroma_db
+```
+
+### 5. Run it
+
+**As a script**, testing all three agents plus the supervisor:
+
+```bash
+python agent/supervisor.py
+```
+
+**As an API + UI:**
+
+```bash
+uvicorn app:app --reload
+```
+
+Then open **http://127.0.0.1:8000/ui** for the chat interface, or **http://127.0.0.1:8000/docs** for the interactive API docs.
+
+---
+
+## API
+
+### `POST /chat`
+
+```json
+{
+  "message": "What is Dr. Ayesha Kapoor's consultation fee?",
+  "session_id": "optional-string"
+}
+```
+
+`session_id` groups messages into one conversation for memory/follow-up resolution. Omit it to get a fresh one auto-generated in the response — reuse that value on your next call to continue the same conversation.
+
+**Response:**
+
+```json
+{
+  "answer": "Dr. Ayesha Kapoor's consultation fee is ₹800.00.",
+  "routes": ["nl2sql"],
+  "session_id": "a1b2c3d4-..."
+}
+```
+
+`routes` shows which sub-agent(s) handled the query — `rag`, `nl2sql`, `tool`, or a combination.
+
+### `GET /health`
+
+Returns `{"status": "ok"}`.
+
+---
+
+## Design notes
+
+A few decisions worth calling out, since they came from real iteration rather than being obvious upfront:
+
+- **PDF chunking is flatten-then-size-split, not regex-on-headers.** An earlier version tried to detect section boundaries via regex on physical PDF lines, which broke across `pypdf` versions — the same file produced clean headings on one machine and garbled ones on another, because line-break insertion during text extraction is version-dependent. Flattening all whitespace before chunking removes that dependency entirely.
+- **ChromaDB's distance metric is explicitly set to cosine.** The default (`l2`, unbounded squared Euclidean) silently broke a confidence-threshold check that assumed a bounded similarity score.
+- **The NL2SQL agent only ever generates `SELECT`.** A regex guard rejects any mutating keyword or stacked statement before it reaches Postgres, regardless of what the model generates.
+- **Multi-intent queries thread the full original query into each fired agent**, rather than splitting the question into sub-questions first — the agents are good enough at extracting what's relevant to them, and query-splitting is its own fragile problem.
+- **Conversation memory threads recent turns into the query text itself**, rather than giving each sub-agent its own memory — keeps the sub-agent functions simple (still just `agent(query: str) -> str`) while still resolving references like "that appointment."
+
+---
+
+## Known limitations
+
+- Conversation memory is in-process (`InMemorySaver`) — restarting the server clears all sessions. Swap in a Postgres/Redis checkpointer for persistence across restarts.
+- The router is single-shot per turn; a query needing three agents will still only route to at most three, but very long compound questions may need explicit splitting for full accuracy.
+- `notification_tools.py`'s SMS/email dispatch is a stub — wire in a real gateway (Twilio, SES, etc.) before this leaves demo status.
+
+---
+
+## License
+
+Portfolio/educational project — not intended for real clinical use.
