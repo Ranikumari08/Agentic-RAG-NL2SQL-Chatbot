@@ -26,5 +26,7 @@ Project structure preference: all agent files (rag_agent.py, and the upcoming NL
 RAG agent (agent/rag_agent.py) and ingestion script (ingest_pdfs.py) are working end-to-end: chunks the 11 PDFs (flatten-then-size-split approach, ~1000 char chunks, 3 per doc, 33 total) into ChromaDB via its built-in ONNX embedding function, retrieves via similarity search, and generates answers via Groq (openai/gpt-oss-120b)
 
 NL2SQL agent (agent/nl2sql_agent.py) built and tested successfully: generates SQL via Groq against the confirmed Postgres schema (departments, doctors, patients, appointments, billing, lab_tests, medical_records, medications, prescriptions), guards against non-SELECT/stacked queries, executes via tools/db.py's existing connection pool, and summarizes results in natural language — passed lookup, aggregation, empty-result, and write-action-refusal test cases
+
 Tool-calling agent (agent/tool_calling_agent.py) built and tested successfully: wraps the 5 existing tool modules (doctors, appointment book/cancel, pharmacy, lab, notification) as Groq function-calling tools, with a multi-round dispatch loop, argument-parsing/unknown-tool error handling, and a guard against runaway tool-call loops — passed availability check, medicine check, real appointment booking (wrote to Postgres), and correctly made zero tool calls on an off-topic query
+
 All three sub-agents (RAG, NL2SQL, tool-calling) are now built and individually tested; next step is the supervisor agent + LangGraph routing between them
