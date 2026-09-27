@@ -1,0 +1,1501 @@
+record_id,patient_id,appointment_id,doctor_id,diagnosis,symptoms,record_date,severity,notes
+MR0001,P217,A1070,D002,Hypertension,Cough and cold,2025-09-06,Severe,Patient evaluated during consultation.
+MR0002,P268,A1049,D002,Diabetes,Abdominal discomfort,2026-11-28,Severe,Patient evaluated during consultation.
+MR0003,P253,A0487,D001,Gastritis,Joint pain,2025-09-06,Moderate,Patient evaluated during consultation.
+MR0004,P079,A1256,D005,Common Cold,Abdominal discomfort,2025-10-05,Mild,Patient evaluated during consultation.
+MR0005,P231,A0736,D002,Migraine,Dizziness,2025-11-04,Moderate,Patient evaluated during consultation.
+MR0006,P074,A1018,D001,Vitamin D Deficiency,Fever and body pain,2026-01-17,Mild,Patient evaluated during consultation.
+MR0007,P194,A1953,D001,Hypertension,Shortness of breath,2025-01-15,Severe,Patient evaluated during consultation.
+MR0008,P225,A1823,D004,Diabetes,Headache and fatigue,2025-11-20,Mild,Patient evaluated during consultation.
+MR0009,P177,A1673,D003,Arthritis,Cough and cold,2025-04-30,Mild,Patient evaluated during consultation.
+MR0010,P067,A0270,D003,Migraine,Fever and body pain,2026-08-14,Severe,Patient evaluated during consultation.
+MR0011,P260,A1805,D003,Hypertension,Headache and fatigue,2026-03-06,Severe,Patient evaluated during consultation.
+MR0012,P203,A0796,D004,Common Cold,Joint pain,2026-11-28,Moderate,Patient evaluated during consultation.
+MR0013,P119,A0753,D003,Gastritis,Headache and fatigue,2025-12-05,Severe,Patient evaluated during consultation.
+MR0014,P139,A0206,D001,Asthma,Fever and body pain,2025-01-05,Severe,Patient evaluated during consultation.
+MR0015,P189,A1249,D002,Arthritis,Shortness of breath,2025-04-19,Severe,Patient evaluated during consultation.
+MR0016,P149,A0711,D001,Fever,Joint pain,2025-03-12,Moderate,Patient evaluated during consultation.
+MR0017,P008,A1129,D001,Fever,Abdominal discomfort,2025-01-12,Moderate,Patient evaluated during consultation.
+MR0018,P109,A0132,D005,Diabetes,Cough and cold,2025-02-07,Moderate,Patient evaluated during consultation.
+MR0019,P021,A1259,D001,Migraine,Fever and body pain,2026-02-21,Severe,Patient evaluated during consultation.
+MR0020,P262,A0666,D005,Arthritis,High blood pressure,2025-06-13,Mild,Patient evaluated during consultation.
+MR0021,P070,A0352,D004,Common Cold,Increased thirst,2025-09-10,Moderate,Patient evaluated during consultation.
+MR0022,P047,A0390,D004,Asthma,Abdominal discomfort,2025-01-02,Severe,Patient evaluated during consultation.
+MR0023,P198,A1650,D003,Gastritis,Cough and cold,2026-10-07,Severe,Patient evaluated during consultation.
+MR0024,P159,A1841,D002,Respiratory Infection,Abdominal discomfort,2026-09-09,Mild,Patient evaluated during consultation.
+MR0025,P272,A0453,D004,Respiratory Infection,Shortness of breath,2025-01-16,Mild,Patient evaluated during consultation.
+MR0026,P097,A0708,D001,Arthritis,High blood pressure,2025-02-24,Mild,Patient evaluated during consultation.
+MR0027,P013,A0553,D002,Asthma,Increased thirst,2026-11-27,Moderate,Patient evaluated during consultation.
+MR0028,P067,A1352,D005,Common Cold,Increased thirst,2026-05-25,Severe,Patient evaluated during consultation.
+MR0029,P037,A1795,D003,Hypertension,High blood pressure,2026-05-03,Mild,Patient evaluated during consultation.
+MR0030,P106,A1066,D004,Gastritis,Headache and fatigue,2026-02-13,Severe,Patient evaluated during consultation.
+MR0031,P208,A1220,D004,Diabetes,Dizziness,2025-02-17,Severe,Patient evaluated during consultation.
+MR0032,P276,A0232,D004,Diabetes,Abdominal discomfort,2026-10-23,Moderate,Patient evaluated during consultation.
+MR0033,P112,A0598,D005,Hypertension,High blood pressure,2025-01-01,Severe,Patient evaluated during consultation.
+MR0034,P283,A0849,D001,Fever,High blood pressure,2026-08-21,Severe,Patient evaluated during consultation.
+MR0035,P254,A1812,D004,Common Cold,Headache and fatigue,2026-07-29,Severe,Patient evaluated during consultation.
+MR0036,P287,A0042,D005,Respiratory Infection,Fever and body pain,2025-06-22,Severe,Patient evaluated during consultation.
+MR0037,P141,A0587,D001,Hypertension,Fever and body pain,2025-09-25,Moderate,Patient evaluated during consultation.
+MR0038,P117,A1432,D004,Gastritis,Shortness of breath,2025-08-29,Mild,Patient evaluated during consultation.
+MR0039,P289,A0743,D002,Fever,Shortness of breath,2025-08-01,Moderate,Patient evaluated during consultation.
+MR0040,P040,A0277,D002,Common Cold,High blood pressure,2025-05-29,Moderate,Patient evaluated during consultation.
+MR0041,P062,A1387,D002,Gastritis,Abdominal discomfort,2026-06-11,Mild,Patient evaluated during consultation.
+MR0042,P177,A1950,D002,Hypertension,Abdominal discomfort,2026-04-28,Mild,Patient evaluated during consultation.
+MR0043,P013,A0049,D004,Thyroid Disorder,Cough and cold,2025-09-24,Mild,Patient evaluated during consultation.
+MR0044,P044,A1215,D002,Anemia,Increased thirst,2025-05-24,Moderate,Patient evaluated during consultation.
+MR0045,P175,A1772,D002,Arthritis,High blood pressure,2026-07-11,Severe,Patient evaluated during consultation.
+MR0046,P273,A0339,D005,Thyroid Disorder,Increased thirst,2025-05-14,Moderate,Patient evaluated during consultation.
+MR0047,P268,A1049,D002,Gastritis,Increased thirst,2026-11-28,Moderate,Patient evaluated during consultation.
+MR0048,P176,A1304,D005,Common Cold,Abdominal discomfort,2026-01-05,Severe,Patient evaluated during consultation.
+MR0049,P281,A0043,D004,Respiratory Infection,Headache and fatigue,2025-11-09,Severe,Patient evaluated during consultation.
+MR0050,P010,A0141,D003,Common Cold,Abdominal discomfort,2025-09-08,Moderate,Patient evaluated during consultation.
+MR0051,P233,A0955,D004,Diabetes,Joint pain,2026-12-09,Severe,Patient evaluated during consultation.
+MR0052,P142,A1756,D004,Thyroid Disorder,Joint pain,2025-06-14,Moderate,Patient evaluated during consultation.
+MR0053,P201,A1399,D001,Asthma,Fever and body pain,2026-07-16,Moderate,Patient evaluated during consultation.
+MR0054,P276,A1708,D002,Anemia,Increased thirst,2025-03-27,Mild,Patient evaluated during consultation.
+MR0055,P285,A0716,D002,Asthma,Cough and cold,2025-12-20,Moderate,Patient evaluated during consultation.
+MR0056,P099,A0850,D004,Thyroid Disorder,Joint pain,2026-11-11,Mild,Patient evaluated during consultation.
+MR0057,P273,A1892,D005,Thyroid Disorder,High blood pressure,2025-08-02,Moderate,Patient evaluated during consultation.
+MR0058,P066,A1715,D003,Hypertension,Joint pain,2025-11-23,Moderate,Patient evaluated during consultation.
+MR0059,P190,A1185,D001,Hypertension,High blood pressure,2026-10-11,Moderate,Patient evaluated during consultation.
+MR0060,P154,A1212,D003,Respiratory Infection,Headache and fatigue,2025-05-05,Severe,Patient evaluated during consultation.
+MR0061,P166,A1695,D003,Thyroid Disorder,Abdominal discomfort,2025-06-13,Severe,Patient evaluated during consultation.
+MR0062,P049,A0438,D004,Asthma,Cough and cold,2026-05-01,Mild,Patient evaluated during consultation.
+MR0063,P055,A1388,D005,Fever,Cough and cold,2026-04-04,Mild,Patient evaluated during consultation.
+MR0064,P127,A1450,D003,Common Cold,Cough and cold,2025-01-27,Severe,Patient evaluated during consultation.
+MR0065,P289,A1163,D003,Common Cold,Abdominal discomfort,2025-06-21,Severe,Patient evaluated during consultation.
+MR0066,P279,A1489,D002,Hypertension,Dizziness,2025-05-15,Mild,Patient evaluated during consultation.
+MR0067,P262,A0666,D005,Asthma,Headache and fatigue,2025-06-13,Mild,Patient evaluated during consultation.
+MR0068,P015,A1573,D003,Vitamin D Deficiency,Headache and fatigue,2026-12-06,Mild,Patient evaluated during consultation.
+MR0069,P003,A0362,D003,Fever,Joint pain,2026-01-20,Moderate,Patient evaluated during consultation.
+MR0070,P059,A0709,D003,Vitamin D Deficiency,High blood pressure,2025-01-16,Severe,Patient evaluated during consultation.
+MR0071,P101,A1093,D002,Migraine,Joint pain,2025-08-26,Mild,Patient evaluated during consultation.
+MR0072,P260,A1027,D001,Fever,Cough and cold,2025-07-28,Mild,Patient evaluated during consultation.
+MR0073,P180,A0689,D004,Vitamin D Deficiency,Headache and fatigue,2025-06-29,Moderate,Patient evaluated during consultation.
+MR0074,P238,A1683,D001,Thyroid Disorder,Joint pain,2025-10-15,Mild,Patient evaluated during consultation.
+MR0075,P232,A0867,D004,Respiratory Infection,Dizziness,2025-06-01,Severe,Patient evaluated during consultation.
+MR0076,P037,A1439,D005,Vitamin D Deficiency,Fever and body pain,2025-09-14,Moderate,Patient evaluated during consultation.
+MR0077,P123,A1144,D001,Hypertension,Dizziness,2026-09-13,Mild,Patient evaluated during consultation.
+MR0078,P245,A0019,D001,Common Cold,Abdominal discomfort,2025-06-12,Severe,Patient evaluated during consultation.
+MR0079,P159,A0474,D002,Vitamin D Deficiency,Abdominal discomfort,2025-04-05,Mild,Patient evaluated during consultation.
+MR0080,P245,A1665,D001,Fever,Fever and body pain,2026-06-20,Moderate,Patient evaluated during consultation.
+MR0081,P025,A1143,D002,Common Cold,Fever and body pain,2026-04-25,Severe,Patient evaluated during consultation.
+MR0082,P168,A0464,D004,Diabetes,Headache and fatigue,2025-07-18,Severe,Patient evaluated during consultation.
+MR0083,P286,A0496,D003,Vitamin D Deficiency,Increased thirst,2025-09-29,Moderate,Patient evaluated during consultation.
+MR0084,P240,A0842,D004,Common Cold,Joint pain,2026-04-26,Mild,Patient evaluated during consultation.
+MR0085,P123,A1479,D003,Arthritis,Abdominal discomfort,2025-09-24,Severe,Patient evaluated during consultation.
+MR0086,P056,A0951,D001,Fever,Joint pain,2026-02-22,Severe,Patient evaluated during consultation.
+MR0087,P001,A0785,D003,Asthma,Abdominal discomfort,2025-07-24,Mild,Patient evaluated during consultation.
+MR0088,P104,A1368,D004,Migraine,Fever and body pain,2026-10-22,Moderate,Patient evaluated during consultation.
+MR0089,P012,A1370,D004,Migraine,Cough and cold,2025-06-06,Mild,Patient evaluated during consultation.
+MR0090,P227,A0824,D001,Fever,Headache and fatigue,2025-08-18,Moderate,Patient evaluated during consultation.
+MR0091,P123,A0300,D003,Migraine,Increased thirst,2025-01-25,Severe,Patient evaluated during consultation.
+MR0092,P246,A0920,D003,Arthritis,Dizziness,2026-04-02,Severe,Patient evaluated during consultation.
+MR0093,P193,A0861,D005,Vitamin D Deficiency,High blood pressure,2026-07-08,Severe,Patient evaluated during consultation.
+MR0094,P171,A0877,D002,Asthma,Increased thirst,2025-11-04,Mild,Patient evaluated during consultation.
+MR0095,P296,A1969,D005,Migraine,High blood pressure,2026-09-11,Moderate,Patient evaluated during consultation.
+MR0096,P197,A0812,D002,Asthma,Dizziness,2026-11-16,Severe,Patient evaluated during consultation.
+MR0097,P026,A0635,D003,Asthma,Headache and fatigue,2025-06-29,Moderate,Patient evaluated during consultation.
+MR0098,P091,A1930,D002,Fever,Cough and cold,2025-11-03,Mild,Patient evaluated during consultation.
+MR0099,P132,A0296,D002,Arthritis,Joint pain,2025-02-11,Moderate,Patient evaluated during consultation.
+MR0100,P025,A1143,D002,Migraine,Increased thirst,2026-04-25,Mild,Patient evaluated during consultation.
+MR0101,P034,A1064,D002,Diabetes,Cough and cold,2025-05-14,Mild,Patient evaluated during consultation.
+MR0102,P246,A0378,D001,Asthma,High blood pressure,2025-09-04,Moderate,Patient evaluated during consultation.
+MR0103,P078,A1245,D002,Common Cold,Joint pain,2026-08-04,Mild,Patient evaluated during consultation.
+MR0104,P081,A0927,D004,Asthma,Shortness of breath,2025-12-25,Severe,Patient evaluated during consultation.
+MR0105,P071,A1009,D005,Asthma,Dizziness,2026-12-19,Severe,Patient evaluated during consultation.
+MR0106,P094,A1123,D004,Common Cold,Increased thirst,2025-11-17,Severe,Patient evaluated during consultation.
+MR0107,P109,A0388,D002,Anemia,Joint pain,2026-03-25,Moderate,Patient evaluated during consultation.
+MR0108,P260,A1027,D001,Asthma,Dizziness,2025-07-28,Mild,Patient evaluated during consultation.
+MR0109,P127,A1329,D001,Diabetes,Joint pain,2026-03-16,Moderate,Patient evaluated during consultation.
+MR0110,P233,A1386,D002,Respiratory Infection,Increased thirst,2026-12-17,Mild,Patient evaluated during consultation.
+MR0111,P201,A1622,D003,Vitamin D Deficiency,Dizziness,2026-06-27,Mild,Patient evaluated during consultation.
+MR0112,P008,A0986,D001,Vitamin D Deficiency,Headache and fatigue,2026-04-19,Moderate,Patient evaluated during consultation.
+MR0113,P277,A0064,D005,Vitamin D Deficiency,Increased thirst,2025-07-03,Mild,Patient evaluated during consultation.
+MR0114,P164,A0529,D003,Arthritis,Fever and body pain,2025-11-03,Severe,Patient evaluated during consultation.
+MR0115,P234,A0145,D003,Asthma,Abdominal discomfort,2025-02-23,Severe,Patient evaluated during consultation.
+MR0116,P053,A0749,D004,Common Cold,Increased thirst,2026-04-10,Severe,Patient evaluated during consultation.
+MR0117,P019,A0866,D004,Thyroid Disorder,Abdominal discomfort,2025-03-29,Moderate,Patient evaluated during consultation.
+MR0118,P240,A1359,D003,Fever,Joint pain,2026-10-19,Mild,Patient evaluated during consultation.
+MR0119,P069,A1875,D005,Arthritis,Abdominal discomfort,2025-10-25,Mild,Patient evaluated during consultation.
+MR0120,P100,A1120,D003,Arthritis,High blood pressure,2026-04-14,Mild,Patient evaluated during consultation.
+MR0121,P065,A0661,D003,Hypertension,Increased thirst,2026-08-03,Mild,Patient evaluated during consultation.
+MR0122,P032,A1820,D003,Fever,Increased thirst,2025-08-02,Moderate,Patient evaluated during consultation.
+MR0123,P027,A0775,D005,Gastritis,Shortness of breath,2026-09-20,Moderate,Patient evaluated during consultation.
+MR0124,P207,A0650,D005,Thyroid Disorder,Dizziness,2025-12-06,Mild,Patient evaluated during consultation.
+MR0125,P033,A1103,D003,Anemia,High blood pressure,2026-03-27,Moderate,Patient evaluated during consultation.
+MR0126,P286,A0152,D002,Fever,High blood pressure,2026-07-19,Moderate,Patient evaluated during consultation.
+MR0127,P156,A0461,D002,Common Cold,Fever and body pain,2026-04-09,Moderate,Patient evaluated during consultation.
+MR0128,P122,A1084,D004,Common Cold,Headache and fatigue,2025-04-11,Moderate,Patient evaluated during consultation.
+MR0129,P223,A0393,D002,Vitamin D Deficiency,Dizziness,2026-12-18,Moderate,Patient evaluated during consultation.
+MR0130,P066,A0823,D005,Respiratory Infection,Increased thirst,2025-12-13,Severe,Patient evaluated during consultation.
+MR0131,P108,A1815,D001,Fever,Cough and cold,2025-03-22,Severe,Patient evaluated during consultation.
+MR0132,P176,A0677,D002,Respiratory Infection,Headache and fatigue,2025-04-20,Severe,Patient evaluated during consultation.
+MR0133,P284,A1580,D004,Common Cold,Headache and fatigue,2025-08-02,Mild,Patient evaluated during consultation.
+MR0134,P186,A1291,D002,Anemia,Cough and cold,2025-03-12,Severe,Patient evaluated during consultation.
+MR0135,P143,A1324,D002,Fever,Cough and cold,2026-08-25,Severe,Patient evaluated during consultation.
+MR0136,P162,A1414,D003,Migraine,Shortness of breath,2026-04-11,Mild,Patient evaluated during consultation.
+MR0137,P093,A1442,D002,Diabetes,Fever and body pain,2025-03-22,Moderate,Patient evaluated during consultation.
+MR0138,P294,A0693,D002,Migraine,Fever and body pain,2026-10-14,Severe,Patient evaluated during consultation.
+MR0139,P171,A1074,D002,Arthritis,High blood pressure,2026-08-20,Mild,Patient evaluated during consultation.
+MR0140,P241,A0911,D002,Fever,Shortness of breath,2025-08-24,Mild,Patient evaluated during consultation.
+MR0141,P154,A1647,D002,Gastritis,Fever and body pain,2025-06-29,Mild,Patient evaluated during consultation.
+MR0142,P085,A0465,D005,Migraine,Increased thirst,2026-05-23,Mild,Patient evaluated during consultation.
+MR0143,P223,A0818,D003,Migraine,Fever and body pain,2025-09-08,Mild,Patient evaluated during consultation.
+MR0144,P110,A0966,D003,Arthritis,Shortness of breath,2025-01-30,Severe,Patient evaluated during consultation.
+MR0145,P071,A1996,D004,Diabetes,Dizziness,2026-04-30,Mild,Patient evaluated during consultation.
+MR0146,P288,A0419,D001,Thyroid Disorder,Increased thirst,2025-04-04,Mild,Patient evaluated during consultation.
+MR0147,P127,A0667,D005,Diabetes,Dizziness,2026-12-30,Mild,Patient evaluated during consultation.
+MR0148,P143,A0376,D003,Anemia,Shortness of breath,2026-08-19,Severe,Patient evaluated during consultation.
+MR0149,P052,A1537,D003,Thyroid Disorder,Cough and cold,2026-06-04,Mild,Patient evaluated during consultation.
+MR0150,P253,A0767,D005,Anemia,Abdominal discomfort,2026-11-21,Severe,Patient evaluated during consultation.
+MR0151,P097,A0708,D001,Hypertension,Cough and cold,2025-02-24,Severe,Patient evaluated during consultation.
+MR0152,P018,A1727,D005,Diabetes,Increased thirst,2026-01-22,Mild,Patient evaluated during consultation.
+MR0153,P192,A0075,D005,Anemia,Dizziness,2025-03-26,Mild,Patient evaluated during consultation.
+MR0154,P233,A0831,D004,Thyroid Disorder,Increased thirst,2025-05-30,Mild,Patient evaluated during consultation.
+MR0155,P039,A0904,D003,Fever,Joint pain,2025-03-22,Moderate,Patient evaluated during consultation.
+MR0156,P146,A0078,D004,Thyroid Disorder,Cough and cold,2025-08-10,Severe,Patient evaluated during consultation.
+MR0157,P088,A1913,D005,Vitamin D Deficiency,Fever and body pain,2026-03-04,Severe,Patient evaluated during consultation.
+MR0158,P105,A1300,D003,Gastritis,Increased thirst,2025-04-30,Moderate,Patient evaluated during consultation.
+MR0159,P300,A0174,D004,Asthma,Shortness of breath,2025-03-02,Moderate,Patient evaluated during consultation.
+MR0160,P129,A1532,D005,Anemia,Increased thirst,2025-04-04,Severe,Patient evaluated during consultation.
+MR0161,P277,A0851,D005,Fever,Joint pain,2026-11-28,Mild,Patient evaluated during consultation.
+MR0162,P136,A0989,D005,Arthritis,Increased thirst,2025-05-26,Severe,Patient evaluated during consultation.
+MR0163,P179,A0517,D004,Anemia,Increased thirst,2025-02-23,Mild,Patient evaluated during consultation.
+MR0164,P234,A1511,D003,Respiratory Infection,Shortness of breath,2025-02-28,Severe,Patient evaluated during consultation.
+MR0165,P026,A0428,D002,Fever,Cough and cold,2026-11-02,Severe,Patient evaluated during consultation.
+MR0166,P114,A1562,D001,Anemia,Fever and body pain,2025-03-25,Moderate,Patient evaluated during consultation.
+MR0167,P130,A1753,D005,Asthma,Shortness of breath,2026-08-29,Mild,Patient evaluated during consultation.
+MR0168,P240,A0151,D004,Diabetes,Increased thirst,2025-08-26,Severe,Patient evaluated during consultation.
+MR0169,P144,A1218,D004,Gastritis,Increased thirst,2025-06-08,Mild,Patient evaluated during consultation.
+MR0170,P221,A0115,D002,Thyroid Disorder,Cough and cold,2025-01-20,Severe,Patient evaluated during consultation.
+MR0171,P150,A1155,D005,Respiratory Infection,Increased thirst,2026-07-25,Moderate,Patient evaluated during consultation.
+MR0172,P267,A1838,D005,Arthritis,Increased thirst,2025-10-21,Severe,Patient evaluated during consultation.
+MR0173,P265,A0606,D004,Vitamin D Deficiency,Abdominal discomfort,2026-07-10,Mild,Patient evaluated during consultation.
+MR0174,P131,A1278,D004,Anemia,Joint pain,2026-10-21,Severe,Patient evaluated during consultation.
+MR0175,P167,A0268,D002,Common Cold,Fever and body pain,2025-01-26,Severe,Patient evaluated during consultation.
+MR0176,P098,A0608,D002,Diabetes,High blood pressure,2025-06-05,Moderate,Patient evaluated during consultation.
+MR0177,P096,A1564,D004,Respiratory Infection,Shortness of breath,2026-08-02,Moderate,Patient evaluated during consultation.
+MR0178,P158,A1943,D001,Arthritis,Headache and fatigue,2026-10-07,Severe,Patient evaluated during consultation.
+MR0179,P032,A0777,D003,Common Cold,High blood pressure,2026-08-27,Severe,Patient evaluated during consultation.
+MR0180,P233,A0955,D004,Diabetes,High blood pressure,2026-12-09,Moderate,Patient evaluated during consultation.
+MR0181,P241,A0911,D002,Asthma,Joint pain,2025-08-24,Moderate,Patient evaluated during consultation.
+MR0182,P172,A1496,D002,Thyroid Disorder,High blood pressure,2025-11-12,Mild,Patient evaluated during consultation.
+MR0183,P145,A0463,D001,Arthritis,Increased thirst,2026-07-22,Mild,Patient evaluated during consultation.
+MR0184,P078,A1315,D001,Migraine,Fever and body pain,2025-04-23,Moderate,Patient evaluated during consultation.
+MR0185,P204,A1483,D001,Respiratory Infection,Abdominal discomfort,2026-01-08,Severe,Patient evaluated during consultation.
+MR0186,P289,A0112,D005,Thyroid Disorder,Headache and fatigue,2025-08-21,Severe,Patient evaluated during consultation.
+MR0187,P198,A1891,D002,Migraine,Joint pain,2025-09-24,Moderate,Patient evaluated during consultation.
+MR0188,P218,A0898,D002,Arthritis,High blood pressure,2025-05-23,Mild,Patient evaluated during consultation.
+MR0189,P299,A1897,D004,Common Cold,Joint pain,2025-04-20,Moderate,Patient evaluated during consultation.
+MR0190,P160,A1071,D001,Asthma,Fever and body pain,2026-11-29,Severe,Patient evaluated during consultation.
+MR0191,P299,A0745,D004,Migraine,High blood pressure,2025-10-31,Severe,Patient evaluated during consultation.
+MR0192,P282,A1856,D005,Common Cold,Headache and fatigue,2025-04-19,Mild,Patient evaluated during consultation.
+MR0193,P017,A0551,D003,Asthma,Fever and body pain,2026-03-30,Severe,Patient evaluated during consultation.
+MR0194,P247,A1799,D003,Thyroid Disorder,Abdominal discomfort,2025-11-23,Mild,Patient evaluated during consultation.
+MR0195,P097,A1514,D005,Fever,Dizziness,2025-12-31,Severe,Patient evaluated during consultation.
+MR0196,P094,A1956,D002,Gastritis,High blood pressure,2025-02-22,Severe,Patient evaluated during consultation.
+MR0197,P009,A0198,D004,Respiratory Infection,Headache and fatigue,2026-11-29,Severe,Patient evaluated during consultation.
+MR0198,P243,A1017,D003,Thyroid Disorder,Cough and cold,2025-12-24,Moderate,Patient evaluated during consultation.
+MR0199,P085,A1088,D002,Anemia,Joint pain,2026-11-18,Moderate,Patient evaluated during consultation.
+MR0200,P299,A0568,D003,Gastritis,Shortness of breath,2026-04-19,Mild,Patient evaluated during consultation.
+MR0201,P087,A0471,D002,Asthma,Shortness of breath,2026-09-17,Mild,Patient evaluated during consultation.
+MR0202,P242,A0846,D005,Diabetes,High blood pressure,2026-03-04,Mild,Patient evaluated during consultation.
+MR0203,P073,A0729,D005,Respiratory Infection,Shortness of breath,2025-04-02,Moderate,Patient evaluated during consultation.
+MR0204,P017,A0892,D004,Asthma,Shortness of breath,2026-05-19,Moderate,Patient evaluated during consultation.
+MR0205,P133,A0788,D005,Migraine,Increased thirst,2026-08-31,Mild,Patient evaluated during consultation.
+MR0206,P256,A0514,D001,Vitamin D Deficiency,Headache and fatigue,2025-04-04,Moderate,Patient evaluated during consultation.
+MR0207,P193,A0817,D004,Vitamin D Deficiency,Shortness of breath,2025-04-20,Severe,Patient evaluated during consultation.
+MR0208,P181,A0124,D003,Hypertension,Headache and fatigue,2026-09-01,Severe,Patient evaluated during consultation.
+MR0209,P144,A0186,D002,Vitamin D Deficiency,Increased thirst,2025-08-04,Moderate,Patient evaluated during consultation.
+MR0210,P223,A1742,D001,Diabetes,High blood pressure,2025-04-13,Moderate,Patient evaluated during consultation.
+MR0211,P096,A0547,D004,Arthritis,Cough and cold,2025-03-23,Severe,Patient evaluated during consultation.
+MR0212,P131,A0327,D001,Diabetes,Fever and body pain,2025-05-09,Moderate,Patient evaluated during consultation.
+MR0213,P288,A0698,D003,Arthritis,Cough and cold,2025-03-05,Moderate,Patient evaluated during consultation.
+MR0214,P295,A0577,D004,Anemia,Shortness of breath,2025-03-08,Severe,Patient evaluated during consultation.
+MR0215,P218,A1488,D005,Anemia,Joint pain,2026-07-13,Mild,Patient evaluated during consultation.
+MR0216,P032,A1820,D003,Vitamin D Deficiency,Increased thirst,2025-08-02,Severe,Patient evaluated during consultation.
+MR0217,P029,A0449,D001,Hypertension,Headache and fatigue,2025-05-30,Mild,Patient evaluated during consultation.
+MR0218,P068,A1377,D003,Arthritis,Cough and cold,2025-04-30,Moderate,Patient evaluated during consultation.
+MR0219,P061,A0740,D002,Common Cold,Abdominal discomfort,2025-04-08,Mild,Patient evaluated during consultation.
+MR0220,P078,A1512,D003,Common Cold,High blood pressure,2025-08-25,Severe,Patient evaluated during consultation.
+MR0221,P182,A0003,D005,Respiratory Infection,Headache and fatigue,2026-06-16,Mild,Patient evaluated during consultation.
+MR0222,P166,A1695,D003,Diabetes,Headache and fatigue,2025-06-13,Severe,Patient evaluated during consultation.
+MR0223,P123,A1479,D003,Gastritis,Headache and fatigue,2025-09-24,Severe,Patient evaluated during consultation.
+MR0224,P197,A0018,D003,Thyroid Disorder,Increased thirst,2025-01-13,Severe,Patient evaluated during consultation.
+MR0225,P291,A0024,D003,Asthma,Headache and fatigue,2025-05-26,Severe,Patient evaluated during consultation.
+MR0226,P191,A1855,D003,Common Cold,Fever and body pain,2026-08-20,Severe,Patient evaluated during consultation.
+MR0227,P106,A0793,D001,Fever,Fever and body pain,2026-06-05,Moderate,Patient evaluated during consultation.
+MR0228,P277,A1464,D003,Arthritis,Headache and fatigue,2025-08-13,Severe,Patient evaluated during consultation.
+MR0229,P049,A0438,D004,Fever,Abdominal discomfort,2026-05-01,Mild,Patient evaluated during consultation.
+MR0230,P131,A0304,D001,Anemia,Abdominal discomfort,2025-03-20,Severe,Patient evaluated during consultation.
+MR0231,P175,A1047,D003,Arthritis,Fever and body pain,2026-06-12,Moderate,Patient evaluated during consultation.
+MR0232,P055,A0498,D001,Respiratory Infection,Cough and cold,2025-04-03,Mild,Patient evaluated during consultation.
+MR0233,P094,A0036,D002,Fever,Increased thirst,2026-12-02,Severe,Patient evaluated during consultation.
+MR0234,P284,A1423,D004,Asthma,Headache and fatigue,2026-07-18,Moderate,Patient evaluated during consultation.
+MR0235,P153,A0902,D004,Fever,Dizziness,2025-04-01,Moderate,Patient evaluated during consultation.
+MR0236,P020,A1140,D001,Diabetes,Fever and body pain,2026-03-31,Moderate,Patient evaluated during consultation.
+MR0237,P193,A1831,D002,Thyroid Disorder,Shortness of breath,2025-02-13,Severe,Patient evaluated during consultation.
+MR0238,P004,A0403,D001,Arthritis,Fever and body pain,2026-01-16,Moderate,Patient evaluated during consultation.
+MR0239,P118,A1785,D005,Diabetes,Abdominal discomfort,2026-01-04,Mild,Patient evaluated during consultation.
+MR0240,P266,A0358,D003,Thyroid Disorder,Joint pain,2025-05-08,Severe,Patient evaluated during consultation.
+MR0241,P063,A0965,D005,Migraine,Headache and fatigue,2025-10-23,Severe,Patient evaluated during consultation.
+MR0242,P120,A1908,D001,Respiratory Infection,Fever and body pain,2026-10-29,Mild,Patient evaluated during consultation.
+MR0243,P267,A1838,D005,Arthritis,Shortness of breath,2025-10-21,Moderate,Patient evaluated during consultation.
+MR0244,P263,A0215,D002,Common Cold,Increased thirst,2025-01-21,Mild,Patient evaluated during consultation.
+MR0245,P203,A1033,D001,Arthritis,Shortness of breath,2025-02-02,Moderate,Patient evaluated during consultation.
+MR0246,P261,A0140,D003,Diabetes,Cough and cold,2025-03-01,Severe,Patient evaluated during consultation.
+MR0247,P217,A1070,D002,Fever,Abdominal discomfort,2025-09-06,Severe,Patient evaluated during consultation.
+MR0248,P196,A1026,D003,Arthritis,Fever and body pain,2025-01-31,Moderate,Patient evaluated during consultation.
+MR0249,P288,A0698,D003,Asthma,Headache and fatigue,2025-03-05,Mild,Patient evaluated during consultation.
+MR0250,P143,A0933,D002,Gastritis,High blood pressure,2026-12-27,Severe,Patient evaluated during consultation.
+MR0251,P053,A0749,D004,Asthma,Fever and body pain,2026-04-10,Moderate,Patient evaluated during consultation.
+MR0252,P085,A0230,D002,Common Cold,High blood pressure,2025-02-07,Moderate,Patient evaluated during consultation.
+MR0253,P022,A1448,D002,Fever,High blood pressure,2026-02-19,Mild,Patient evaluated during consultation.
+MR0254,P220,A1977,D004,Respiratory Infection,High blood pressure,2025-01-04,Severe,Patient evaluated during consultation.
+MR0255,P026,A0635,D003,Gastritis,Fever and body pain,2025-06-29,Moderate,Patient evaluated during consultation.
+MR0256,P086,A1839,D002,Anemia,Dizziness,2026-06-08,Moderate,Patient evaluated during consultation.
+MR0257,P161,A0218,D004,Gastritis,Dizziness,2026-10-06,Mild,Patient evaluated during consultation.
+MR0258,P143,A0308,D002,Respiratory Infection,Shortness of breath,2026-12-05,Moderate,Patient evaluated during consultation.
+MR0259,P118,A1785,D005,Thyroid Disorder,High blood pressure,2026-01-04,Mild,Patient evaluated during consultation.
+MR0260,P149,A0711,D001,Common Cold,Cough and cold,2025-03-12,Moderate,Patient evaluated during consultation.
+MR0261,P111,A0404,D003,Asthma,Dizziness,2026-07-17,Moderate,Patient evaluated during consultation.
+MR0262,P088,A0239,D005,Diabetes,Fever and body pain,2025-11-12,Moderate,Patient evaluated during consultation.
+MR0263,P129,A0787,D001,Hypertension,Dizziness,2025-11-21,Moderate,Patient evaluated during consultation.
+MR0264,P251,A1028,D005,Asthma,Cough and cold,2025-01-01,Severe,Patient evaluated during consultation.
+MR0265,P175,A1641,D002,Vitamin D Deficiency,Fever and body pain,2025-10-09,Moderate,Patient evaluated during consultation.
+MR0266,P084,A1406,D005,Hypertension,Abdominal discomfort,2026-12-01,Severe,Patient evaluated during consultation.
+MR0267,P108,A1287,D005,Common Cold,Abdominal discomfort,2025-05-10,Mild,Patient evaluated during consultation.
+MR0268,P253,A0574,D003,Respiratory Infection,High blood pressure,2025-10-23,Moderate,Patient evaluated during consultation.
+MR0269,P093,A1917,D003,Thyroid Disorder,Shortness of breath,2026-10-16,Moderate,Patient evaluated during consultation.
+MR0270,P261,A1724,D003,Diabetes,Fever and body pain,2025-02-24,Moderate,Patient evaluated during consultation.
+MR0271,P149,A1482,D003,Fever,Cough and cold,2025-04-10,Moderate,Patient evaluated during consultation.
+MR0272,P178,A1528,D004,Fever,Abdominal discomfort,2025-09-11,Mild,Patient evaluated during consultation.
+MR0273,P104,A1368,D004,Arthritis,Fever and body pain,2026-10-22,Mild,Patient evaluated during consultation.
+MR0274,P100,A0794,D005,Arthritis,Dizziness,2025-04-18,Severe,Patient evaluated during consultation.
+MR0275,P267,A1948,D001,Migraine,Cough and cold,2026-09-23,Moderate,Patient evaluated during consultation.
+MR0276,P050,A0810,D004,Migraine,High blood pressure,2026-05-08,Severe,Patient evaluated during consultation.
+MR0277,P243,A1017,D003,Common Cold,Cough and cold,2025-12-24,Severe,Patient evaluated during consultation.
+MR0278,P058,A1845,D003,Migraine,Headache and fatigue,2025-10-25,Mild,Patient evaluated during consultation.
+MR0279,P172,A1522,D001,Migraine,Abdominal discomfort,2025-02-22,Severe,Patient evaluated during consultation.
+MR0280,P136,A1189,D003,Fever,Shortness of breath,2025-08-18,Mild,Patient evaluated during consultation.
+MR0281,P280,A1182,D003,Hypertension,Headache and fatigue,2026-12-06,Moderate,Patient evaluated during consultation.
+MR0282,P103,A1661,D002,Fever,Fever and body pain,2026-05-06,Mild,Patient evaluated during consultation.
+MR0283,P280,A1599,D001,Thyroid Disorder,Headache and fatigue,2026-02-04,Mild,Patient evaluated during consultation.
+MR0284,P197,A0893,D002,Gastritis,Increased thirst,2026-12-08,Moderate,Patient evaluated during consultation.
+MR0285,P158,A1943,D001,Vitamin D Deficiency,Dizziness,2026-10-07,Severe,Patient evaluated during consultation.
+MR0286,P245,A0285,D001,Common Cold,High blood pressure,2026-07-08,Mild,Patient evaluated during consultation.
+MR0287,P004,A0718,D002,Vitamin D Deficiency,Dizziness,2026-10-21,Severe,Patient evaluated during consultation.
+MR0288,P209,A1543,D004,Fever,Cough and cold,2026-08-14,Mild,Patient evaluated during consultation.
+MR0289,P261,A0140,D003,Respiratory Infection,Fever and body pain,2025-03-01,Moderate,Patient evaluated during consultation.
+MR0290,P190,A0169,D004,Gastritis,Fever and body pain,2026-01-04,Moderate,Patient evaluated during consultation.
+MR0291,P222,A1935,D003,Respiratory Infection,Cough and cold,2025-09-14,Mild,Patient evaluated during consultation.
+MR0292,P169,A0921,D003,Thyroid Disorder,Shortness of breath,2025-02-09,Mild,Patient evaluated during consultation.
+MR0293,P092,A1517,D005,Migraine,Dizziness,2025-01-30,Moderate,Patient evaluated during consultation.
+MR0294,P061,A0886,D004,Vitamin D Deficiency,Shortness of breath,2025-05-08,Severe,Patient evaluated during consultation.
+MR0295,P197,A0018,D003,Arthritis,Headache and fatigue,2025-01-13,Severe,Patient evaluated during consultation.
+MR0296,P071,A1035,D004,Asthma,Joint pain,2025-05-31,Severe,Patient evaluated during consultation.
+MR0297,P055,A0430,D003,Hypertension,Headache and fatigue,2026-07-22,Severe,Patient evaluated during consultation.
+MR0298,P300,A1449,D002,Respiratory Infection,Dizziness,2025-11-27,Mild,Patient evaluated during consultation.
+MR0299,P291,A0983,D001,Anemia,High blood pressure,2025-12-05,Severe,Patient evaluated during consultation.
+MR0300,P039,A0660,D003,Gastritis,Headache and fatigue,2026-01-20,Moderate,Patient evaluated during consultation.
+MR0301,P209,A0413,D001,Fever,Dizziness,2026-01-07,Moderate,Patient evaluated during consultation.
+MR0302,P300,A1829,D004,Migraine,Abdominal discomfort,2026-01-07,Severe,Patient evaluated during consultation.
+MR0303,P251,A1734,D005,Diabetes,Fever and body pain,2025-10-07,Severe,Patient evaluated during consultation.
+MR0304,P045,A0502,D001,Asthma,Fever and body pain,2026-04-24,Mild,Patient evaluated during consultation.
+MR0305,P109,A0388,D002,Diabetes,Dizziness,2026-03-25,Mild,Patient evaluated during consultation.
+MR0306,P129,A0787,D001,Hypertension,Fever and body pain,2025-11-21,Severe,Patient evaluated during consultation.
+MR0307,P097,A0231,D004,Vitamin D Deficiency,Headache and fatigue,2026-04-12,Moderate,Patient evaluated during consultation.
+MR0308,P013,A0721,D002,Thyroid Disorder,Increased thirst,2026-01-04,Moderate,Patient evaluated during consultation.
+MR0309,P221,A0333,D004,Respiratory Infection,Cough and cold,2026-02-27,Severe,Patient evaluated during consultation.
+MR0310,P284,A1423,D004,Asthma,Increased thirst,2026-07-18,Severe,Patient evaluated during consultation.
+MR0311,P145,A1227,D005,Migraine,Joint pain,2025-09-29,Mild,Patient evaluated during consultation.
+MR0312,P009,A1774,D003,Vitamin D Deficiency,Cough and cold,2025-10-05,Severe,Patient evaluated during consultation.
+MR0313,P214,A1462,D001,Arthritis,Dizziness,2026-04-24,Severe,Patient evaluated during consultation.
+MR0314,P098,A1410,D001,Fever,High blood pressure,2025-03-10,Moderate,Patient evaluated during consultation.
+MR0315,P239,A1286,D002,Diabetes,Cough and cold,2026-07-14,Mild,Patient evaluated during consultation.
+MR0316,P055,A0959,D002,Common Cold,Increased thirst,2026-02-06,Severe,Patient evaluated during consultation.
+MR0317,P169,A1400,D001,Respiratory Infection,Dizziness,2025-06-10,Moderate,Patient evaluated during consultation.
+MR0318,P056,A1264,D003,Thyroid Disorder,Dizziness,2026-12-03,Severe,Patient evaluated during consultation.
+MR0319,P107,A1262,D003,Thyroid Disorder,Shortness of breath,2026-11-15,Moderate,Patient evaluated during consultation.
+MR0320,P004,A0718,D002,Arthritis,Joint pain,2026-10-21,Severe,Patient evaluated during consultation.
+MR0321,P205,A1557,D003,Migraine,Headache and fatigue,2026-04-06,Mild,Patient evaluated during consultation.
+MR0322,P047,A1503,D004,Respiratory Infection,Headache and fatigue,2026-12-09,Mild,Patient evaluated during consultation.
+MR0323,P222,A1780,D005,Gastritis,Joint pain,2025-12-28,Mild,Patient evaluated during consultation.
+MR0324,P265,A0755,D004,Asthma,Headache and fatigue,2025-01-06,Mild,Patient evaluated during consultation.
+MR0325,P049,A1858,D003,Common Cold,Joint pain,2025-08-11,Moderate,Patient evaluated during consultation.
+MR0326,P060,A0655,D003,Arthritis,Shortness of breath,2026-11-11,Severe,Patient evaluated during consultation.
+MR0327,P016,A0146,D001,Respiratory Infection,High blood pressure,2026-11-13,Severe,Patient evaluated during consultation.
+MR0328,P155,A0009,D005,Migraine,Dizziness,2026-07-21,Mild,Patient evaluated during consultation.
+MR0329,P178,A1171,D005,Anemia,Dizziness,2025-12-05,Mild,Patient evaluated during consultation.
+MR0330,P233,A0831,D004,Asthma,Shortness of breath,2025-05-30,Mild,Patient evaluated during consultation.
+MR0331,P276,A1708,D002,Thyroid Disorder,Cough and cold,2025-03-27,Moderate,Patient evaluated during consultation.
+MR0332,P175,A0035,D004,Gastritis,Cough and cold,2025-06-30,Severe,Patient evaluated during consultation.
+MR0333,P166,A0434,D003,Gastritis,High blood pressure,2026-01-13,Mild,Patient evaluated during consultation.
+MR0334,P286,A0473,D005,Hypertension,Shortness of breath,2026-04-29,Moderate,Patient evaluated during consultation.
+MR0335,P163,A0885,D002,Anemia,Joint pain,2025-10-03,Mild,Patient evaluated during consultation.
+MR0336,P276,A1708,D002,Migraine,Joint pain,2025-03-27,Moderate,Patient evaluated during consultation.
+MR0337,P106,A1451,D003,Fever,Fever and body pain,2025-10-17,Severe,Patient evaluated during consultation.
+MR0338,P156,A1435,D004,Gastritis,Joint pain,2025-08-29,Moderate,Patient evaluated during consultation.
+MR0339,P198,A1650,D003,Thyroid Disorder,High blood pressure,2026-10-07,Severe,Patient evaluated during consultation.
+MR0340,P066,A1715,D003,Arthritis,Abdominal discomfort,2025-11-23,Severe,Patient evaluated during consultation.
+MR0341,P214,A0158,D002,Fever,Abdominal discomfort,2026-05-29,Severe,Patient evaluated during consultation.
+MR0342,P177,A1598,D001,Respiratory Infection,Abdominal discomfort,2025-07-26,Moderate,Patient evaluated during consultation.
+MR0343,P179,A0259,D003,Arthritis,Fever and body pain,2025-09-17,Moderate,Patient evaluated during consultation.
+MR0344,P225,A0727,D005,Anemia,Fever and body pain,2025-10-24,Severe,Patient evaluated during consultation.
+MR0345,P123,A0375,D003,Migraine,Dizziness,2025-04-03,Severe,Patient evaluated during consultation.
+MR0346,P033,A0364,D004,Thyroid Disorder,Fever and body pain,2026-09-02,Severe,Patient evaluated during consultation.
+MR0347,P222,A1046,D001,Vitamin D Deficiency,Fever and body pain,2026-05-29,Mild,Patient evaluated during consultation.
+MR0348,P239,A1947,D002,Anemia,Headache and fatigue,2025-07-03,Severe,Patient evaluated during consultation.
+MR0349,P163,A0885,D002,Gastritis,Dizziness,2025-10-03,Moderate,Patient evaluated during consultation.
+MR0350,P194,A1953,D001,Gastritis,Fever and body pain,2025-01-15,Mild,Patient evaluated during consultation.
+MR0351,P204,A0316,D002,Arthritis,Increased thirst,2026-07-12,Severe,Patient evaluated during consultation.
+MR0352,P218,A0243,D001,Arthritis,Shortness of breath,2025-08-16,Severe,Patient evaluated during consultation.
+MR0353,P093,A1572,D004,Common Cold,Fever and body pain,2026-08-21,Mild,Patient evaluated during consultation.
+MR0354,P280,A1182,D003,Arthritis,Headache and fatigue,2026-12-06,Mild,Patient evaluated during consultation.
+MR0355,P265,A0606,D004,Migraine,Cough and cold,2026-07-10,Moderate,Patient evaluated during consultation.
+MR0356,P265,A0007,D004,Asthma,High blood pressure,2025-09-26,Severe,Patient evaluated during consultation.
+MR0357,P169,A0848,D002,Hypertension,Abdominal discomfort,2025-10-08,Mild,Patient evaluated during consultation.
+MR0358,P214,A1640,D001,Migraine,Shortness of breath,2026-02-09,Mild,Patient evaluated during consultation.
+MR0359,P086,A1839,D002,Asthma,Abdominal discomfort,2026-06-08,Moderate,Patient evaluated during consultation.
+MR0360,P260,A1600,D004,Asthma,Fever and body pain,2025-10-04,Severe,Patient evaluated during consultation.
+MR0361,P162,A1414,D003,Anemia,Headache and fatigue,2026-04-11,Mild,Patient evaluated during consultation.
+MR0362,P256,A1068,D004,Respiratory Infection,Abdominal discomfort,2026-04-08,Severe,Patient evaluated during consultation.
+MR0363,P123,A1076,D004,Respiratory Infection,Cough and cold,2025-02-18,Mild,Patient evaluated during consultation.
+MR0364,P139,A1495,D005,Anemia,Shortness of breath,2026-07-07,Moderate,Patient evaluated during consultation.
+MR0365,P152,A0607,D003,Arthritis,Increased thirst,2026-12-02,Mild,Patient evaluated during consultation.
+MR0366,P168,A0531,D003,Migraine,Fever and body pain,2026-04-27,Moderate,Patient evaluated during consultation.
+MR0367,P034,A0114,D002,Asthma,High blood pressure,2026-10-17,Moderate,Patient evaluated during consultation.
+MR0368,P166,A0314,D002,Vitamin D Deficiency,Cough and cold,2026-10-28,Severe,Patient evaluated during consultation.
+MR0369,P100,A0794,D005,Diabetes,Headache and fatigue,2025-04-18,Severe,Patient evaluated during consultation.
+MR0370,P299,A1609,D002,Gastritis,Shortness of breath,2026-09-03,Moderate,Patient evaluated during consultation.
+MR0371,P057,A0017,D005,Respiratory Infection,Increased thirst,2026-02-17,Mild,Patient evaluated during consultation.
+MR0372,P282,A1044,D002,Diabetes,Headache and fatigue,2025-06-10,Severe,Patient evaluated during consultation.
+MR0373,P004,A0718,D002,Asthma,Fever and body pain,2026-10-21,Moderate,Patient evaluated during consultation.
+MR0374,P055,A0367,D001,Thyroid Disorder,Headache and fatigue,2025-10-26,Moderate,Patient evaluated during consultation.
+MR0375,P098,A1198,D002,Asthma,High blood pressure,2026-06-06,Moderate,Patient evaluated during consultation.
+MR0376,P143,A0948,D004,Fever,High blood pressure,2026-04-23,Severe,Patient evaluated during consultation.
+MR0377,P287,A1351,D001,Migraine,Joint pain,2025-01-11,Mild,Patient evaluated during consultation.
+MR0378,P165,A0442,D002,Vitamin D Deficiency,Abdominal discomfort,2026-04-15,Severe,Patient evaluated during consultation.
+MR0379,P067,A1352,D005,Arthritis,Fever and body pain,2026-05-25,Moderate,Patient evaluated during consultation.
+MR0380,P172,A0389,D004,Diabetes,Cough and cold,2026-11-24,Moderate,Patient evaluated during consultation.
+MR0381,P128,A0197,D001,Arthritis,Increased thirst,2026-08-07,Moderate,Patient evaluated during consultation.
+MR0382,P122,A1813,D003,Asthma,High blood pressure,2026-11-03,Severe,Patient evaluated during consultation.
+MR0383,P251,A0123,D001,Vitamin D Deficiency,Joint pain,2025-06-25,Severe,Patient evaluated during consultation.
+MR0384,P031,A0576,D003,Thyroid Disorder,Shortness of breath,2025-03-08,Moderate,Patient evaluated during consultation.
+MR0385,P076,A0312,D003,Gastritis,Fever and body pain,2025-01-02,Severe,Patient evaluated during consultation.
+MR0386,P283,A0326,D001,Gastritis,Cough and cold,2026-12-07,Moderate,Patient evaluated during consultation.
+MR0387,P226,A0938,D004,Fever,Increased thirst,2025-05-01,Severe,Patient evaluated during consultation.
+MR0388,P090,A1973,D002,Asthma,Dizziness,2026-05-30,Moderate,Patient evaluated during consultation.
+MR0389,P162,A1878,D004,Migraine,Dizziness,2025-04-28,Severe,Patient evaluated during consultation.
+MR0390,P100,A0008,D004,Diabetes,Abdominal discomfort,2025-03-31,Moderate,Patient evaluated during consultation.
+MR0391,P197,A1419,D002,Vitamin D Deficiency,Shortness of breath,2026-06-11,Severe,Patient evaluated during consultation.
+MR0392,P225,A1823,D004,Common Cold,Dizziness,2025-11-20,Moderate,Patient evaluated during consultation.
+MR0393,P026,A0428,D002,Asthma,Shortness of breath,2026-11-02,Mild,Patient evaluated during consultation.
+MR0394,P043,A0884,D005,Asthma,Cough and cold,2026-10-09,Moderate,Patient evaluated during consultation.
+MR0395,P043,A1645,D003,Hypertension,High blood pressure,2025-02-10,Mild,Patient evaluated during consultation.
+MR0396,P147,A0128,D003,Fever,Shortness of breath,2026-11-01,Mild,Patient evaluated during consultation.
+MR0397,P112,A0437,D005,Respiratory Infection,Dizziness,2026-12-28,Mild,Patient evaluated during consultation.
+MR0398,P137,A0730,D003,Migraine,Joint pain,2026-08-25,Severe,Patient evaluated during consultation.
+MR0399,P225,A0727,D005,Gastritis,Increased thirst,2025-10-24,Mild,Patient evaluated during consultation.
+MR0400,P209,A1077,D001,Fever,Fever and body pain,2026-11-27,Severe,Patient evaluated during consultation.
+MR0401,P294,A1766,D002,Diabetes,Increased thirst,2025-08-23,Mild,Patient evaluated during consultation.
+MR0402,P066,A1963,D001,Hypertension,Shortness of breath,2025-03-23,Severe,Patient evaluated during consultation.
+MR0403,P024,A1029,D001,Fever,Increased thirst,2025-02-15,Moderate,Patient evaluated during consultation.
+MR0404,P198,A1385,D001,Diabetes,Dizziness,2026-11-05,Severe,Patient evaluated during consultation.
+MR0405,P249,A0557,D005,Gastritis,Cough and cold,2025-05-04,Severe,Patient evaluated during consultation.
+MR0406,P204,A0316,D002,Gastritis,Shortness of breath,2026-07-12,Mild,Patient evaluated during consultation.
+MR0407,P143,A1591,D005,Migraine,Abdominal discomfort,2026-11-08,Severe,Patient evaluated during consultation.
+MR0408,P171,A0629,D001,Hypertension,Cough and cold,2026-11-26,Severe,Patient evaluated during consultation.
+MR0409,P026,A0635,D003,Gastritis,Abdominal discomfort,2025-06-29,Mild,Patient evaluated during consultation.
+MR0410,P092,A0844,D004,Common Cold,High blood pressure,2025-03-29,Mild,Patient evaluated during consultation.
+MR0411,P157,A1862,D002,Hypertension,Increased thirst,2025-11-10,Mild,Patient evaluated during consultation.
+MR0412,P090,A0086,D004,Fever,Dizziness,2025-12-07,Moderate,Patient evaluated during consultation.
+MR0413,P183,A1014,D003,Hypertension,Abdominal discomfort,2025-08-02,Moderate,Patient evaluated during consultation.
+MR0414,P096,A0309,D005,Vitamin D Deficiency,High blood pressure,2025-06-09,Severe,Patient evaluated during consultation.
+MR0415,P006,A1346,D005,Asthma,Dizziness,2026-06-23,Mild,Patient evaluated during consultation.
+MR0416,P055,A1759,D002,Common Cold,Fever and body pain,2025-12-02,Severe,Patient evaluated during consultation.
+MR0417,P251,A1734,D005,Thyroid Disorder,Joint pain,2025-10-07,Mild,Patient evaluated during consultation.
+MR0418,P079,A1627,D004,Arthritis,Joint pain,2026-10-07,Moderate,Patient evaluated during consultation.
+MR0419,P033,A0952,D001,Diabetes,Shortness of breath,2026-10-03,Severe,Patient evaluated during consultation.
+MR0420,P253,A0574,D003,Vitamin D Deficiency,Cough and cold,2025-10-23,Mild,Patient evaluated during consultation.
+MR0421,P073,A1551,D003,Thyroid Disorder,Shortness of breath,2026-10-08,Mild,Patient evaluated during consultation.
+MR0422,P132,A0340,D003,Hypertension,Abdominal discomfort,2025-10-05,Severe,Patient evaluated during consultation.
+MR0423,P090,A1804,D001,Migraine,High blood pressure,2025-07-03,Moderate,Patient evaluated during consultation.
+MR0424,P113,A1757,D003,Asthma,Increased thirst,2025-06-04,Moderate,Patient evaluated during consultation.
+MR0425,P076,A0312,D003,Common Cold,Dizziness,2025-01-02,Mild,Patient evaluated during consultation.
+MR0426,P099,A0235,D001,Gastritis,Shortness of breath,2025-04-15,Severe,Patient evaluated during consultation.
+MR0427,P038,A1790,D001,Common Cold,Cough and cold,2025-03-02,Moderate,Patient evaluated during consultation.
+MR0428,P123,A1225,D005,Asthma,Increased thirst,2025-05-11,Moderate,Patient evaluated during consultation.
+MR0429,P161,A0218,D004,Common Cold,Cough and cold,2026-10-06,Severe,Patient evaluated during consultation.
+MR0430,P146,A1921,D003,Asthma,Shortness of breath,2026-11-07,Moderate,Patient evaluated during consultation.
+MR0431,P050,A0040,D002,Fever,Fever and body pain,2026-11-03,Moderate,Patient evaluated during consultation.
+MR0432,P105,A0494,D005,Arthritis,Dizziness,2026-10-30,Moderate,Patient evaluated during consultation.
+MR0433,P197,A0018,D003,Migraine,Headache and fatigue,2025-01-13,Severe,Patient evaluated during consultation.
+MR0434,P115,A1445,D002,Common Cold,Cough and cold,2025-04-04,Moderate,Patient evaluated during consultation.
+MR0435,P089,A1626,D001,Arthritis,Abdominal discomfort,2025-03-20,Severe,Patient evaluated during consultation.
+MR0436,P079,A0392,D004,Diabetes,Headache and fatigue,2026-12-23,Severe,Patient evaluated during consultation.
+MR0437,P106,A1972,D005,Respiratory Infection,Headache and fatigue,2026-01-17,Moderate,Patient evaluated during consultation.
+MR0438,P281,A0043,D004,Migraine,Abdominal discomfort,2025-11-09,Severe,Patient evaluated during consultation.
+MR0439,P229,A1534,D003,Asthma,Headache and fatigue,2026-04-24,Mild,Patient evaluated during consultation.
+MR0440,P239,A1255,D005,Hypertension,High blood pressure,2025-06-16,Moderate,Patient evaluated during consultation.
+MR0441,P161,A0038,D004,Common Cold,Joint pain,2026-05-05,Mild,Patient evaluated during consultation.
+MR0442,P084,A0188,D001,Anemia,High blood pressure,2025-01-11,Moderate,Patient evaluated during consultation.
+MR0443,P100,A0686,D002,Gastritis,Fever and body pain,2025-11-28,Moderate,Patient evaluated during consultation.
+MR0444,P067,A0270,D003,Fever,Shortness of breath,2026-08-14,Severe,Patient evaluated during consultation.
+MR0445,P155,A0154,D001,Anemia,Increased thirst,2026-04-23,Moderate,Patient evaluated during consultation.
+MR0446,P023,A0249,D001,Hypertension,Cough and cold,2026-06-15,Moderate,Patient evaluated during consultation.
+MR0447,P087,A1554,D002,Thyroid Disorder,Shortness of breath,2025-03-31,Severe,Patient evaluated during consultation.
+MR0448,P236,A1610,D003,Gastritis,Increased thirst,2026-04-27,Severe,Patient evaluated during consultation.
+MR0449,P257,A1099,D001,Thyroid Disorder,Fever and body pain,2025-09-22,Severe,Patient evaluated during consultation.
+MR0450,P228,A0357,D004,Thyroid Disorder,Shortness of breath,2025-06-27,Mild,Patient evaluated during consultation.
+MR0451,P207,A1717,D003,Migraine,Joint pain,2025-07-02,Moderate,Patient evaluated during consultation.
+MR0452,P004,A0269,D005,Hypertension,Joint pain,2025-01-07,Mild,Patient evaluated during consultation.
+MR0453,P070,A1477,D003,Hypertension,Cough and cold,2025-11-16,Moderate,Patient evaluated during consultation.
+MR0454,P085,A0465,D005,Anemia,Dizziness,2026-05-23,Moderate,Patient evaluated during consultation.
+MR0455,P064,A0354,D003,Gastritis,Shortness of breath,2026-02-21,Moderate,Patient evaluated during consultation.
+MR0456,P006,A1346,D005,Asthma,High blood pressure,2026-06-23,Mild,Patient evaluated during consultation.
+MR0457,P125,A1398,D005,Fever,Fever and body pain,2026-02-13,Severe,Patient evaluated during consultation.
+MR0458,P086,A1839,D002,Migraine,Shortness of breath,2026-06-08,Moderate,Patient evaluated during consultation.
+MR0459,P063,A0944,D003,Migraine,Abdominal discomfort,2026-12-18,Mild,Patient evaluated during consultation.
+MR0460,P287,A0096,D003,Arthritis,Increased thirst,2026-05-29,Severe,Patient evaluated during consultation.
+MR0461,P046,A0857,D004,Respiratory Infection,Shortness of breath,2025-02-09,Severe,Patient evaluated during consultation.
+MR0462,P199,A1003,D002,Asthma,Headache and fatigue,2026-09-26,Severe,Patient evaluated during consultation.
+MR0463,P251,A1597,D005,Asthma,Shortness of breath,2025-05-12,Moderate,Patient evaluated during consultation.
+MR0464,P288,A0582,D005,Arthritis,Fever and body pain,2026-06-11,Moderate,Patient evaluated during consultation.
+MR0465,P071,A1559,D004,Thyroid Disorder,Joint pain,2025-05-10,Moderate,Patient evaluated during consultation.
+MR0466,P058,A0278,D005,Thyroid Disorder,Increased thirst,2026-02-18,Severe,Patient evaluated during consultation.
+MR0467,P087,A0471,D002,Common Cold,Shortness of breath,2026-09-17,Mild,Patient evaluated during consultation.
+MR0468,P031,A1938,D004,Arthritis,Shortness of breath,2026-04-17,Mild,Patient evaluated during consultation.
+MR0469,P151,A1794,D004,Diabetes,Abdominal discomfort,2026-01-12,Moderate,Patient evaluated during consultation.
+MR0470,P172,A0183,D005,Asthma,Fever and body pain,2026-10-31,Moderate,Patient evaluated during consultation.
+MR0471,P115,A1152,D004,Asthma,Dizziness,2025-09-27,Severe,Patient evaluated during consultation.
+MR0472,P043,A0179,D004,Arthritis,Joint pain,2026-07-17,Mild,Patient evaluated during consultation.
+MR0473,P025,A1143,D002,Gastritis,Abdominal discomfort,2026-04-25,Mild,Patient evaluated during consultation.
+MR0474,P080,A1666,D004,Migraine,Fever and body pain,2025-05-22,Mild,Patient evaluated during consultation.
+MR0475,P040,A0669,D002,Hypertension,Abdominal discomfort,2025-05-13,Severe,Patient evaluated during consultation.
+MR0476,P207,A1824,D001,Hypertension,Fever and body pain,2025-12-24,Mild,Patient evaluated during consultation.
+MR0477,P071,A0637,D003,Common Cold,Joint pain,2026-07-23,Mild,Patient evaluated during consultation.
+MR0478,P080,A0325,D001,Vitamin D Deficiency,Joint pain,2025-07-14,Moderate,Patient evaluated during consultation.
+MR0479,P129,A1671,D001,Common Cold,Increased thirst,2025-08-18,Moderate,Patient evaluated during consultation.
+MR0480,P056,A0951,D001,Diabetes,Dizziness,2026-02-22,Severe,Patient evaluated during consultation.
+MR0481,P245,A1188,D001,Thyroid Disorder,Fever and body pain,2026-12-30,Moderate,Patient evaluated during consultation.
+MR0482,P271,A0725,D001,Gastritis,Abdominal discomfort,2026-07-03,Severe,Patient evaluated during consultation.
+MR0483,P167,A1349,D002,Hypertension,Cough and cold,2025-08-20,Mild,Patient evaluated during consultation.
+MR0484,P058,A0492,D001,Thyroid Disorder,Joint pain,2025-08-05,Mild,Patient evaluated during consultation.
+MR0485,P171,A0877,D002,Hypertension,Cough and cold,2025-11-04,Severe,Patient evaluated during consultation.
+MR0486,P017,A1840,D001,Anemia,Dizziness,2026-11-04,Mild,Patient evaluated during consultation.
+MR0487,P044,A1002,D005,Thyroid Disorder,Shortness of breath,2025-08-16,Moderate,Patient evaluated during consultation.
+MR0488,P165,A0442,D002,Thyroid Disorder,Headache and fatigue,2026-04-15,Mild,Patient evaluated during consultation.
+MR0489,P206,A0750,D004,Gastritis,Headache and fatigue,2025-05-03,Moderate,Patient evaluated during consultation.
+MR0490,P291,A1320,D002,Fever,Cough and cold,2025-10-06,Severe,Patient evaluated during consultation.
+MR0491,P074,A0039,D004,Diabetes,Shortness of breath,2025-06-20,Mild,Patient evaluated during consultation.
+MR0492,P284,A1976,D003,Fever,High blood pressure,2026-06-17,Moderate,Patient evaluated during consultation.
+MR0493,P254,A1812,D004,Fever,Dizziness,2026-07-29,Moderate,Patient evaluated during consultation.
+MR0494,P071,A1035,D004,Gastritis,High blood pressure,2025-05-31,Mild,Patient evaluated during consultation.
+MR0495,P233,A0831,D004,Common Cold,Headache and fatigue,2025-05-30,Mild,Patient evaluated during consultation.
+MR0496,P020,A0060,D005,Migraine,Cough and cold,2026-03-27,Severe,Patient evaluated during consultation.
+MR0497,P076,A1792,D004,Gastritis,Increased thirst,2026-08-07,Moderate,Patient evaluated during consultation.
+MR0498,P140,A1085,D001,Common Cold,Joint pain,2025-10-16,Severe,Patient evaluated during consultation.
+MR0499,P123,A1260,D005,Arthritis,Headache and fatigue,2026-08-21,Mild,Patient evaluated during consultation.
+MR0500,P271,A0683,D001,Vitamin D Deficiency,Cough and cold,2025-11-30,Mild,Patient evaluated during consultation.
+MR0501,P182,A0281,D004,Vitamin D Deficiency,Fever and body pain,2026-08-08,Severe,Patient evaluated during consultation.
+MR0502,P088,A0684,D002,Diabetes,Increased thirst,2025-07-26,Severe,Patient evaluated during consultation.
+MR0503,P259,A1193,D002,Migraine,Shortness of breath,2026-02-14,Severe,Patient evaluated during consultation.
+MR0504,P022,A1288,D003,Anemia,Cough and cold,2026-08-29,Mild,Patient evaluated during consultation.
+MR0505,P181,A0124,D003,Fever,Increased thirst,2026-09-01,Severe,Patient evaluated during consultation.
+MR0506,P296,A0641,D001,Vitamin D Deficiency,High blood pressure,2026-04-25,Mild,Patient evaluated during consultation.
+MR0507,P294,A0693,D002,Migraine,Headache and fatigue,2026-10-14,Severe,Patient evaluated during consultation.
+MR0508,P163,A1151,D001,Asthma,High blood pressure,2025-06-28,Severe,Patient evaluated during consultation.
+MR0509,P283,A1816,D005,Gastritis,Shortness of breath,2026-01-11,Moderate,Patient evaluated during consultation.
+MR0510,P180,A0738,D004,Arthritis,Dizziness,2025-03-30,Moderate,Patient evaluated during consultation.
+MR0511,P095,A0088,D005,Arthritis,Joint pain,2026-03-14,Severe,Patient evaluated during consultation.
+MR0512,P262,A1283,D004,Vitamin D Deficiency,Fever and body pain,2025-11-28,Mild,Patient evaluated during consultation.
+MR0513,P136,A0204,D001,Gastritis,Cough and cold,2026-05-11,Severe,Patient evaluated during consultation.
+MR0514,P111,A0222,D005,Migraine,High blood pressure,2025-05-23,Severe,Patient evaluated during consultation.
+MR0515,P070,A1817,D004,Diabetes,Abdominal discomfort,2026-10-05,Severe,Patient evaluated during consultation.
+MR0516,P254,A0809,D005,Thyroid Disorder,Shortness of breath,2026-05-28,Moderate,Patient evaluated during consultation.
+MR0517,P079,A0934,D001,Anemia,High blood pressure,2026-03-19,Mild,Patient evaluated during consultation.
+MR0518,P245,A1665,D001,Asthma,Joint pain,2026-06-20,Moderate,Patient evaluated during consultation.
+MR0519,P141,A0587,D001,Fever,Cough and cold,2025-09-25,Moderate,Patient evaluated during consultation.
+MR0520,P237,A0688,D002,Vitamin D Deficiency,Abdominal discomfort,2026-03-06,Moderate,Patient evaluated during consultation.
+MR0521,P166,A0434,D003,Common Cold,Dizziness,2026-01-13,Moderate,Patient evaluated during consultation.
+MR0522,P133,A1507,D002,Gastritis,Joint pain,2025-12-16,Moderate,Patient evaluated during consultation.
+MR0523,P134,A1022,D001,Respiratory Infection,Dizziness,2025-09-01,Mild,Patient evaluated during consultation.
+MR0524,P137,A1055,D001,Gastritis,High blood pressure,2026-11-18,Moderate,Patient evaluated during consultation.
+MR0525,P118,A0068,D004,Thyroid Disorder,High blood pressure,2026-10-06,Mild,Patient evaluated during consultation.
+MR0526,P253,A0030,D002,Common Cold,High blood pressure,2026-09-01,Mild,Patient evaluated during consultation.
+MR0527,P238,A1509,D003,Migraine,Headache and fatigue,2025-10-08,Moderate,Patient evaluated during consultation.
+MR0528,P055,A0520,D001,Arthritis,High blood pressure,2025-04-17,Severe,Patient evaluated during consultation.
+MR0529,P158,A0405,D002,Migraine,Joint pain,2026-06-13,Severe,Patient evaluated during consultation.
+MR0530,P136,A0229,D001,Fever,Cough and cold,2025-05-31,Severe,Patient evaluated during consultation.
+MR0531,P100,A0686,D002,Thyroid Disorder,Headache and fatigue,2025-11-28,Mild,Patient evaluated during consultation.
+MR0532,P087,A0076,D005,Common Cold,Increased thirst,2025-09-02,Moderate,Patient evaluated during consultation.
+MR0533,P126,A1391,D002,Asthma,Abdominal discomfort,2026-07-17,Moderate,Patient evaluated during consultation.
+MR0534,P167,A0268,D002,Diabetes,Dizziness,2025-01-26,Severe,Patient evaluated during consultation.
+MR0535,P160,A1951,D002,Gastritis,Joint pain,2025-05-24,Mild,Patient evaluated during consultation.
+MR0536,P162,A1414,D003,Anemia,Cough and cold,2026-04-11,Severe,Patient evaluated during consultation.
+MR0537,P171,A0877,D002,Asthma,Shortness of breath,2025-11-04,Moderate,Patient evaluated during consultation.
+MR0538,P281,A1676,D002,Migraine,High blood pressure,2025-01-05,Moderate,Patient evaluated during consultation.
+MR0539,P278,A0799,D003,Arthritis,Shortness of breath,2025-01-20,Severe,Patient evaluated during consultation.
+MR0540,P115,A1919,D002,Diabetes,Joint pain,2025-11-20,Severe,Patient evaluated during consultation.
+MR0541,P275,A0504,D003,Anemia,Joint pain,2026-02-19,Severe,Patient evaluated during consultation.
+MR0542,P285,A0716,D002,Arthritis,Cough and cold,2025-12-20,Severe,Patient evaluated during consultation.
+MR0543,P294,A0601,D004,Fever,Dizziness,2025-03-04,Moderate,Patient evaluated during consultation.
+MR0544,P136,A0229,D001,Asthma,Shortness of breath,2025-05-31,Severe,Patient evaluated during consultation.
+MR0545,P017,A0892,D004,Diabetes,High blood pressure,2026-05-19,Mild,Patient evaluated during consultation.
+MR0546,P173,A1904,D002,Respiratory Infection,High blood pressure,2025-03-16,Moderate,Patient evaluated during consultation.
+MR0547,P249,A1706,D002,Arthritis,Increased thirst,2026-08-08,Severe,Patient evaluated during consultation.
+MR0548,P192,A1024,D002,Common Cold,Dizziness,2025-11-12,Mild,Patient evaluated during consultation.
+MR0549,P096,A0547,D004,Common Cold,High blood pressure,2025-03-23,Mild,Patient evaluated during consultation.
+MR0550,P085,A0879,D004,Thyroid Disorder,Joint pain,2025-09-04,Mild,Patient evaluated during consultation.
+MR0551,P291,A0024,D003,Gastritis,Abdominal discomfort,2025-05-26,Mild,Patient evaluated during consultation.
+MR0552,P098,A1410,D001,Hypertension,Shortness of breath,2025-03-10,Severe,Patient evaluated during consultation.
+MR0553,P173,A1697,D001,Respiratory Infection,Fever and body pain,2026-09-28,Mild,Patient evaluated during consultation.
+MR0554,P016,A1146,D003,Fever,Abdominal discomfort,2026-08-13,Severe,Patient evaluated during consultation.
+MR0555,P093,A1572,D004,Thyroid Disorder,Increased thirst,2026-08-21,Moderate,Patient evaluated during consultation.
+MR0556,P193,A0476,D004,Fever,Joint pain,2025-08-27,Mild,Patient evaluated during consultation.
+MR0557,P037,A1795,D003,Arthritis,Abdominal discomfort,2026-05-03,Mild,Patient evaluated during consultation.
+MR0558,P071,A1754,D004,Asthma,Abdominal discomfort,2026-06-06,Moderate,Patient evaluated during consultation.
+MR0559,P163,A1151,D001,Gastritis,Headache and fatigue,2025-06-28,Severe,Patient evaluated during consultation.
+MR0560,P182,A0116,D001,Diabetes,Increased thirst,2025-08-13,Severe,Patient evaluated during consultation.
+MR0561,P177,A1673,D003,Anemia,Increased thirst,2025-04-30,Moderate,Patient evaluated during consultation.
+MR0562,P282,A1658,D005,Migraine,Fever and body pain,2025-04-16,Moderate,Patient evaluated during consultation.
+MR0563,P247,A0527,D002,Vitamin D Deficiency,Abdominal discomfort,2025-05-26,Moderate,Patient evaluated during consultation.
+MR0564,P151,A1367,D004,Gastritis,Abdominal discomfort,2026-10-27,Mild,Patient evaluated during consultation.
+MR0565,P249,A0675,D004,Vitamin D Deficiency,Cough and cold,2025-05-01,Severe,Patient evaluated during consultation.
+MR0566,P006,A1689,D005,Vitamin D Deficiency,Joint pain,2026-12-29,Moderate,Patient evaluated during consultation.
+MR0567,P037,A0919,D004,Respiratory Infection,Headache and fatigue,2026-09-23,Mild,Patient evaluated during consultation.
+MR0568,P197,A1192,D003,Thyroid Disorder,Dizziness,2026-04-24,Severe,Patient evaluated during consultation.
+MR0569,P268,A1364,D001,Arthritis,Increased thirst,2025-10-19,Mild,Patient evaluated during consultation.
+MR0570,P153,A1770,D001,Common Cold,High blood pressure,2025-09-12,Moderate,Patient evaluated during consultation.
+MR0571,P250,A0294,D001,Arthritis,Joint pain,2026-05-01,Severe,Patient evaluated during consultation.
+MR0572,P163,A0272,D005,Asthma,Shortness of breath,2025-05-20,Moderate,Patient evaluated during consultation.
+MR0573,P255,A1042,D004,Arthritis,Dizziness,2025-09-03,Mild,Patient evaluated during consultation.
+MR0574,P265,A0414,D003,Thyroid Disorder,High blood pressure,2025-12-11,Severe,Patient evaluated during consultation.
+MR0575,P270,A0960,D001,Diabetes,Dizziness,2026-02-15,Moderate,Patient evaluated during consultation.
+MR0576,P060,A1868,D001,Arthritis,Dizziness,2026-08-07,Moderate,Patient evaluated during consultation.
+MR0577,P249,A1706,D002,Migraine,Fever and body pain,2026-08-08,Severe,Patient evaluated during consultation.
+MR0578,P103,A1381,D004,Thyroid Disorder,Increased thirst,2026-08-10,Moderate,Patient evaluated during consultation.
+MR0579,P293,A0645,D003,Fever,Abdominal discomfort,2026-03-18,Severe,Patient evaluated during consultation.
+MR0580,P040,A1915,D002,Arthritis,High blood pressure,2025-07-31,Moderate,Patient evaluated during consultation.
+MR0581,P012,A1491,D003,Arthritis,Headache and fatigue,2026-08-19,Mild,Patient evaluated during consultation.
+MR0582,P288,A0419,D001,Respiratory Infection,Fever and body pain,2025-04-04,Severe,Patient evaluated during consultation.
+MR0583,P249,A1117,D005,Fever,Dizziness,2025-11-17,Moderate,Patient evaluated during consultation.
+MR0584,P022,A0840,D005,Asthma,Joint pain,2025-04-02,Severe,Patient evaluated during consultation.
+MR0585,P166,A0434,D003,Hypertension,Joint pain,2026-01-13,Mild,Patient evaluated during consultation.
+MR0586,P131,A1205,D005,Hypertension,Fever and body pain,2026-06-09,Moderate,Patient evaluated during consultation.
+MR0587,P262,A0435,D003,Asthma,Fever and body pain,2026-12-09,Moderate,Patient evaluated during consultation.
+MR0588,P159,A0825,D001,Vitamin D Deficiency,High blood pressure,2025-10-09,Moderate,Patient evaluated during consultation.
+MR0589,P297,A1231,D004,Gastritis,Dizziness,2026-06-13,Mild,Patient evaluated during consultation.
+MR0590,P289,A1424,D003,Fever,Dizziness,2025-08-16,Severe,Patient evaluated during consultation.
+MR0591,P263,A1086,D002,Anemia,High blood pressure,2025-11-11,Severe,Patient evaluated during consultation.
+MR0592,P248,A0343,D003,Hypertension,Headache and fatigue,2026-06-26,Moderate,Patient evaluated during consultation.
+MR0593,P265,A1778,D003,Diabetes,High blood pressure,2026-02-09,Severe,Patient evaluated during consultation.
+MR0594,P296,A0025,D004,Common Cold,Dizziness,2026-12-30,Severe,Patient evaluated during consultation.
+MR0595,P172,A1522,D001,Thyroid Disorder,Headache and fatigue,2025-02-22,Severe,Patient evaluated during consultation.
+MR0596,P185,A1041,D004,Asthma,Fever and body pain,2026-08-22,Mild,Patient evaluated during consultation.
+MR0597,P015,A0164,D003,Migraine,High blood pressure,2025-07-18,Mild,Patient evaluated during consultation.
+MR0598,P091,A1297,D002,Hypertension,Shortness of breath,2025-06-19,Moderate,Patient evaluated during consultation.
+MR0599,P097,A0708,D001,Anemia,Headache and fatigue,2025-02-24,Moderate,Patient evaluated during consultation.
+MR0600,P197,A1192,D003,Gastritis,Fever and body pain,2026-04-24,Severe,Patient evaluated during consultation.
+MR0601,P061,A1167,D002,Gastritis,Joint pain,2026-01-12,Moderate,Patient evaluated during consultation.
+MR0602,P137,A1055,D001,Thyroid Disorder,Fever and body pain,2026-11-18,Severe,Patient evaluated during consultation.
+MR0603,P260,A0984,D004,Gastritis,Increased thirst,2026-08-20,Moderate,Patient evaluated during consultation.
+MR0604,P066,A1048,D001,Migraine,Headache and fatigue,2025-07-23,Severe,Patient evaluated during consultation.
+MR0605,P130,A1709,D004,Fever,Joint pain,2025-01-01,Mild,Patient evaluated during consultation.
+MR0606,P085,A0465,D005,Respiratory Infection,Shortness of breath,2026-05-23,Mild,Patient evaluated during consultation.
+MR0607,P006,A0697,D001,Arthritis,Joint pain,2025-06-07,Mild,Patient evaluated during consultation.
+MR0608,P220,A0976,D002,Asthma,Fever and body pain,2026-08-18,Moderate,Patient evaluated during consultation.
+MR0609,P222,A1046,D001,Arthritis,Fever and body pain,2026-05-29,Moderate,Patient evaluated during consultation.
+MR0610,P105,A1786,D001,Diabetes,Shortness of breath,2026-03-11,Severe,Patient evaluated during consultation.
+MR0611,P278,A1057,D004,Asthma,Cough and cold,2025-01-26,Mild,Patient evaluated during consultation.
+MR0612,P253,A0030,D002,Fever,Joint pain,2026-09-01,Moderate,Patient evaluated during consultation.
+MR0613,P235,A1685,D003,Anemia,Increased thirst,2026-04-16,Severe,Patient evaluated during consultation.
+MR0614,P053,A1162,D005,Asthma,Cough and cold,2025-01-26,Severe,Patient evaluated during consultation.
+MR0615,P263,A1086,D002,Asthma,Abdominal discomfort,2025-11-11,Mild,Patient evaluated during consultation.
+MR0616,P198,A0271,D005,Thyroid Disorder,Dizziness,2025-11-21,Severe,Patient evaluated during consultation.
+MR0617,P284,A0452,D002,Asthma,Joint pain,2026-12-04,Mild,Patient evaluated during consultation.
+MR0618,P092,A0624,D002,Arthritis,Cough and cold,2025-05-26,Moderate,Patient evaluated during consultation.
+MR0619,P046,A0548,D002,Anemia,High blood pressure,2025-08-13,Moderate,Patient evaluated during consultation.
+MR0620,P232,A1105,D005,Thyroid Disorder,Increased thirst,2026-03-13,Severe,Patient evaluated during consultation.
+MR0621,P237,A0286,D001,Hypertension,Shortness of breath,2026-06-14,Mild,Patient evaluated during consultation.
+MR0622,P294,A1584,D005,Hypertension,High blood pressure,2025-09-10,Severe,Patient evaluated during consultation.
+MR0623,P091,A1930,D002,Respiratory Infection,Dizziness,2025-11-03,Mild,Patient evaluated during consultation.
+MR0624,P205,A1521,D003,Hypertension,Shortness of breath,2025-12-09,Mild,Patient evaluated during consultation.
+MR0625,P299,A0595,D002,Asthma,Joint pain,2025-07-27,Moderate,Patient evaluated during consultation.
+MR0626,P163,A0409,D003,Thyroid Disorder,Cough and cold,2026-08-10,Mild,Patient evaluated during consultation.
+MR0627,P180,A1703,D003,Arthritis,Shortness of breath,2025-04-01,Moderate,Patient evaluated during consultation.
+MR0628,P148,A0937,D005,Hypertension,High blood pressure,2025-04-29,Severe,Patient evaluated during consultation.
+MR0629,P036,A1751,D001,Arthritis,Shortness of breath,2025-08-01,Severe,Patient evaluated during consultation.
+MR0630,P053,A0477,D002,Anemia,Fever and body pain,2026-04-11,Moderate,Patient evaluated during consultation.
+MR0631,P159,A1164,D001,Diabetes,Abdominal discomfort,2025-10-31,Severe,Patient evaluated during consultation.
+MR0632,P078,A1888,D002,Asthma,Fever and body pain,2025-08-02,Severe,Patient evaluated during consultation.
+MR0633,P129,A0876,D005,Vitamin D Deficiency,Increased thirst,2026-09-04,Mild,Patient evaluated during consultation.
+MR0634,P131,A0327,D001,Diabetes,Abdominal discomfort,2025-05-09,Severe,Patient evaluated during consultation.
+MR0635,P287,A1505,D002,Thyroid Disorder,Headache and fatigue,2025-05-17,Moderate,Patient evaluated during consultation.
+MR0636,P065,A0962,D005,Fever,Cough and cold,2026-01-20,Moderate,Patient evaluated during consultation.
+MR0637,P203,A1961,D003,Asthma,Joint pain,2025-08-16,Moderate,Patient evaluated during consultation.
+MR0638,P198,A1385,D001,Gastritis,Cough and cold,2026-11-05,Severe,Patient evaluated during consultation.
+MR0639,P120,A1789,D001,Arthritis,Cough and cold,2026-09-29,Mild,Patient evaluated during consultation.
+MR0640,P078,A1884,D004,Migraine,Joint pain,2025-02-11,Severe,Patient evaluated during consultation.
+MR0641,P165,A1273,D005,Hypertension,Fever and body pain,2025-03-09,Moderate,Patient evaluated during consultation.
+MR0642,P276,A1762,D005,Hypertension,Cough and cold,2026-04-15,Moderate,Patient evaluated during consultation.
+MR0643,P092,A0053,D003,Migraine,Increased thirst,2025-12-31,Moderate,Patient evaluated during consultation.
+MR0644,P094,A1455,D001,Fever,Shortness of breath,2026-05-30,Mild,Patient evaluated during consultation.
+MR0645,P143,A0376,D003,Arthritis,Cough and cold,2026-08-19,Severe,Patient evaluated during consultation.
+MR0646,P276,A0232,D004,Diabetes,High blood pressure,2026-10-23,Mild,Patient evaluated during consultation.
+MR0647,P145,A0463,D001,Asthma,Shortness of breath,2026-07-22,Mild,Patient evaluated during consultation.
+MR0648,P211,A0891,D001,Asthma,Headache and fatigue,2025-07-27,Severe,Patient evaluated during consultation.
+MR0649,P273,A0339,D005,Thyroid Disorder,Fever and body pain,2025-05-14,Moderate,Patient evaluated during consultation.
+MR0650,P125,A1623,D004,Migraine,Abdominal discomfort,2026-04-02,Moderate,Patient evaluated during consultation.
+MR0651,P277,A0417,D002,Anemia,Abdominal discomfort,2025-01-14,Moderate,Patient evaluated during consultation.
+MR0652,P115,A0054,D002,Vitamin D Deficiency,Dizziness,2026-07-28,Severe,Patient evaluated during consultation.
+MR0653,P180,A1725,D002,Arthritis,Dizziness,2026-09-05,Moderate,Patient evaluated during consultation.
+MR0654,P029,A0137,D002,Respiratory Infection,Abdominal discomfort,2026-12-17,Moderate,Patient evaluated during consultation.
+MR0655,P057,A0276,D002,Hypertension,Cough and cold,2025-11-09,Moderate,Patient evaluated during consultation.
+MR0656,P019,A1150,D003,Vitamin D Deficiency,Joint pain,2025-02-16,Mild,Patient evaluated during consultation.
+MR0657,P190,A1590,D003,Migraine,Joint pain,2026-05-08,Severe,Patient evaluated during consultation.
+MR0658,P211,A1118,D003,Migraine,Abdominal discomfort,2025-11-05,Severe,Patient evaluated during consultation.
+MR0659,P096,A0547,D004,Diabetes,Increased thirst,2025-03-23,Severe,Patient evaluated during consultation.
+MR0660,P290,A1437,D004,Anemia,Shortness of breath,2025-01-27,Moderate,Patient evaluated during consultation.
+MR0661,P068,A1975,D004,Thyroid Disorder,Headache and fatigue,2026-07-16,Severe,Patient evaluated during consultation.
+MR0662,P255,A0382,D002,Common Cold,Abdominal discomfort,2025-08-14,Mild,Patient evaluated during consultation.
+MR0663,P234,A0145,D003,Arthritis,Headache and fatigue,2025-02-23,Mild,Patient evaluated during consultation.
+MR0664,P054,A0048,D003,Fever,Abdominal discomfort,2026-01-20,Severe,Patient evaluated during consultation.
+MR0665,P089,A1149,D004,Migraine,Increased thirst,2026-08-31,Severe,Patient evaluated during consultation.
+MR0666,P063,A0768,D002,Thyroid Disorder,Headache and fatigue,2025-02-18,Severe,Patient evaluated during consultation.
+MR0667,P086,A1257,D003,Vitamin D Deficiency,Headache and fatigue,2025-08-28,Moderate,Patient evaluated during consultation.
+MR0668,P082,A1716,D003,Thyroid Disorder,Shortness of breath,2026-01-24,Severe,Patient evaluated during consultation.
+MR0669,P047,A1503,D004,Gastritis,Increased thirst,2026-12-09,Moderate,Patient evaluated during consultation.
+MR0670,P090,A1973,D002,Respiratory Infection,Abdominal discomfort,2026-05-30,Moderate,Patient evaluated during consultation.
+MR0671,P157,A1862,D002,Asthma,High blood pressure,2025-11-10,Severe,Patient evaluated during consultation.
+MR0672,P122,A1699,D005,Arthritis,Abdominal discomfort,2026-06-30,Severe,Patient evaluated during consultation.
+MR0673,P075,A0098,D003,Respiratory Infection,Dizziness,2025-03-11,Moderate,Patient evaluated during consultation.
+MR0674,P169,A1549,D003,Common Cold,Dizziness,2025-04-20,Moderate,Patient evaluated during consultation.
+MR0675,P066,A1396,D003,Asthma,Joint pain,2026-08-19,Moderate,Patient evaluated during consultation.
+MR0676,P149,A0711,D001,Arthritis,High blood pressure,2025-03-12,Mild,Patient evaluated during consultation.
+MR0677,P146,A0873,D003,Thyroid Disorder,Abdominal discomfort,2025-11-16,Mild,Patient evaluated during consultation.
+MR0678,P235,A1347,D002,Diabetes,Dizziness,2025-09-29,Severe,Patient evaluated during consultation.
+MR0679,P228,A1861,D005,Respiratory Infection,Headache and fatigue,2025-08-03,Moderate,Patient evaluated during consultation.
+MR0680,P110,A0966,D003,Vitamin D Deficiency,Shortness of breath,2025-01-30,Moderate,Patient evaluated during consultation.
+MR0681,P155,A0154,D001,Fever,High blood pressure,2026-04-23,Moderate,Patient evaluated during consultation.
+MR0682,P211,A0407,D004,Hypertension,High blood pressure,2025-06-09,Moderate,Patient evaluated during consultation.
+MR0683,P139,A1495,D005,Diabetes,High blood pressure,2026-07-07,Severe,Patient evaluated during consultation.
+MR0684,P114,A1653,D001,Fever,Increased thirst,2026-04-14,Mild,Patient evaluated during consultation.
+MR0685,P035,A0170,D001,Vitamin D Deficiency,Dizziness,2025-04-21,Mild,Patient evaluated during consultation.
+MR0686,P027,A1989,D004,Asthma,Joint pain,2025-10-01,Mild,Patient evaluated during consultation.
+MR0687,P104,A1241,D001,Respiratory Infection,Cough and cold,2026-10-25,Mild,Patient evaluated during consultation.
+MR0688,P001,A0785,D003,Arthritis,Joint pain,2025-07-24,Mild,Patient evaluated during consultation.
+MR0689,P225,A1823,D004,Arthritis,High blood pressure,2025-11-20,Mild,Patient evaluated during consultation.
+MR0690,P034,A0662,D005,Gastritis,Increased thirst,2026-04-23,Mild,Patient evaluated during consultation.
+MR0691,P290,A1168,D002,Fever,Shortness of breath,2026-01-21,Moderate,Patient evaluated during consultation.
+MR0692,P091,A0530,D004,Migraine,Shortness of breath,2025-03-08,Severe,Patient evaluated during consultation.
+MR0693,P117,A0764,D004,Fever,High blood pressure,2025-12-02,Moderate,Patient evaluated during consultation.
+MR0694,P098,A1586,D005,Hypertension,Shortness of breath,2026-04-10,Mild,Patient evaluated during consultation.
+MR0695,P004,A1965,D005,Thyroid Disorder,Abdominal discomfort,2025-10-23,Mild,Patient evaluated during consultation.
+MR0696,P177,A1950,D002,Anemia,Shortness of breath,2026-04-28,Severe,Patient evaluated during consultation.
+MR0697,P001,A0625,D004,Fever,Increased thirst,2026-09-07,Moderate,Patient evaluated during consultation.
+MR0698,P155,A1490,D005,Common Cold,Cough and cold,2026-08-15,Severe,Patient evaluated during consultation.
+MR0699,P134,A1106,D003,Asthma,Dizziness,2025-06-17,Severe,Patient evaluated during consultation.
+MR0700,P229,A0987,D002,Vitamin D Deficiency,Fever and body pain,2026-12-18,Severe,Patient evaluated during consultation.
+MR0701,P094,A1748,D001,Fever,High blood pressure,2025-04-05,Moderate,Patient evaluated during consultation.
+MR0702,P046,A0126,D002,Asthma,Headache and fatigue,2026-02-03,Mild,Patient evaluated during consultation.
+MR0703,P286,A0152,D002,Anemia,Headache and fatigue,2026-07-19,Moderate,Patient evaluated during consultation.
+MR0704,P070,A1817,D004,Fever,Dizziness,2026-10-05,Moderate,Patient evaluated during consultation.
+MR0705,P233,A0338,D002,Anemia,Dizziness,2025-05-30,Severe,Patient evaluated during consultation.
+MR0706,P257,A1870,D002,Migraine,Joint pain,2026-11-27,Mild,Patient evaluated during consultation.
+MR0707,P130,A0560,D004,Gastritis,Increased thirst,2026-09-16,Severe,Patient evaluated during consultation.
+MR0708,P100,A0794,D005,Vitamin D Deficiency,Cough and cold,2025-04-18,Mild,Patient evaluated during consultation.
+MR0709,P183,A0602,D005,Arthritis,High blood pressure,2026-02-04,Severe,Patient evaluated during consultation.
+MR0710,P156,A1923,D001,Vitamin D Deficiency,Headache and fatigue,2026-01-05,Mild,Patient evaluated during consultation.
+MR0711,P036,A1751,D001,Fever,High blood pressure,2025-08-01,Mild,Patient evaluated during consultation.
+MR0712,P131,A1327,D001,Anemia,Shortness of breath,2026-11-18,Mild,Patient evaluated during consultation.
+MR0713,P127,A1258,D005,Respiratory Infection,Shortness of breath,2025-02-26,Severe,Patient evaluated during consultation.
+MR0714,P239,A0274,D001,Migraine,Fever and body pain,2025-03-06,Moderate,Patient evaluated during consultation.
+MR0715,P247,A0185,D001,Vitamin D Deficiency,Shortness of breath,2026-08-11,Moderate,Patient evaluated during consultation.
+MR0716,P044,A0908,D005,Common Cold,Headache and fatigue,2026-03-05,Severe,Patient evaluated during consultation.
+MR0717,P096,A0547,D004,Respiratory Infection,Cough and cold,2025-03-23,Mild,Patient evaluated during consultation.
+MR0718,P297,A1165,D001,Asthma,Increased thirst,2025-04-25,Moderate,Patient evaluated during consultation.
+MR0719,P203,A0796,D004,Arthritis,Headache and fatigue,2026-11-28,Moderate,Patient evaluated during consultation.
+MR0720,P012,A0422,D001,Gastritis,Headache and fatigue,2026-07-26,Mild,Patient evaluated during consultation.
+MR0721,P211,A0407,D004,Hypertension,Joint pain,2025-06-09,Severe,Patient evaluated during consultation.
+MR0722,P056,A1234,D003,Gastritis,Shortness of breath,2025-12-03,Severe,Patient evaluated during consultation.
+MR0723,P053,A0749,D004,Gastritis,Dizziness,2026-04-10,Mild,Patient evaluated during consultation.
+MR0724,P102,A0401,D001,Vitamin D Deficiency,Joint pain,2025-07-25,Moderate,Patient evaluated during consultation.
+MR0725,P269,A0511,D004,Vitamin D Deficiency,Fever and body pain,2026-08-07,Mild,Patient evaluated during consultation.
+MR0726,P174,A1447,D001,Arthritis,Increased thirst,2026-08-29,Moderate,Patient evaluated during consultation.
+MR0727,P231,A0106,D003,Respiratory Infection,Dizziness,2025-12-31,Severe,Patient evaluated during consultation.
+MR0728,P017,A1274,D004,Hypertension,Fever and body pain,2025-01-12,Severe,Patient evaluated during consultation.
+MR0729,P193,A0311,D005,Hypertension,High blood pressure,2025-12-16,Mild,Patient evaluated during consultation.
+MR0730,P198,A1891,D002,Hypertension,Cough and cold,2025-09-24,Mild,Patient evaluated during consultation.
+MR0731,P207,A0650,D005,Arthritis,Abdominal discomfort,2025-12-06,Moderate,Patient evaluated during consultation.
+MR0732,P063,A0768,D002,Migraine,Increased thirst,2025-02-18,Moderate,Patient evaluated during consultation.
+MR0733,P156,A1781,D002,Hypertension,Joint pain,2026-08-10,Moderate,Patient evaluated during consultation.
+MR0734,P172,A0183,D005,Common Cold,Cough and cold,2026-10-31,Moderate,Patient evaluated during consultation.
+MR0735,P197,A0208,D002,Migraine,Abdominal discomfort,2026-06-20,Moderate,Patient evaluated during consultation.
+MR0736,P296,A1097,D004,Anemia,Headache and fatigue,2026-02-25,Severe,Patient evaluated during consultation.
+MR0737,P094,A0175,D001,Common Cold,Increased thirst,2025-12-21,Moderate,Patient evaluated during consultation.
+MR0738,P212,A1620,D003,Diabetes,Fever and body pain,2025-03-05,Mild,Patient evaluated during consultation.
+MR0739,P087,A0420,D004,Fever,Increased thirst,2026-07-13,Mild,Patient evaluated during consultation.
+MR0740,P049,A1746,D005,Respiratory Infection,Dizziness,2025-08-31,Mild,Patient evaluated during consultation.
+MR0741,P276,A1655,D001,Asthma,High blood pressure,2026-03-31,Moderate,Patient evaluated during consultation.
+MR0742,P092,A0844,D004,Migraine,Cough and cold,2025-03-29,Moderate,Patient evaluated during consultation.
+MR0743,P164,A1008,D005,Gastritis,Cough and cold,2026-10-03,Mild,Patient evaluated during consultation.
+MR0744,P019,A0906,D004,Diabetes,Joint pain,2025-06-21,Severe,Patient evaluated during consultation.
+MR0745,P272,A1184,D004,Hypertension,Fever and body pain,2025-08-17,Severe,Patient evaluated during consultation.
+MR0746,P284,A1423,D004,Common Cold,Headache and fatigue,2026-07-18,Moderate,Patient evaluated during consultation.
+MR0747,P145,A1637,D003,Common Cold,Cough and cold,2026-09-10,Mild,Patient evaluated during consultation.
+MR0748,P212,A0704,D003,Common Cold,Increased thirst,2025-07-17,Mild,Patient evaluated during consultation.
+MR0749,P191,A1413,D003,Respiratory Infection,Joint pain,2025-08-15,Mild,Patient evaluated during consultation.
+MR0750,P008,A0184,D005,Arthritis,Fever and body pain,2026-06-23,Mild,Patient evaluated during consultation.
+MR0751,P168,A0915,D003,Fever,Fever and body pain,2026-12-20,Severe,Patient evaluated during consultation.
+MR0752,P271,A0436,D001,Anemia,Dizziness,2026-10-02,Severe,Patient evaluated during consultation.
+MR0753,P098,A0953,D003,Diabetes,Headache and fatigue,2025-10-01,Moderate,Patient evaluated during consultation.
+MR0754,P031,A1552,D004,Gastritis,Abdominal discomfort,2026-09-16,Moderate,Patient evaluated during consultation.
+MR0755,P186,A1394,D003,Common Cold,Fever and body pain,2025-03-07,Severe,Patient evaluated during consultation.
+MR0756,P200,A1499,D004,Migraine,Headache and fatigue,2025-07-08,Mild,Patient evaluated during consultation.
+MR0757,P207,A1717,D003,Respiratory Infection,Increased thirst,2025-07-02,Moderate,Patient evaluated during consultation.
+MR0758,P227,A0318,D005,Thyroid Disorder,Increased thirst,2025-07-03,Moderate,Patient evaluated during consultation.
+MR0759,P290,A1437,D004,Diabetes,Fever and body pain,2025-01-27,Mild,Patient evaluated during consultation.
+MR0760,P165,A1322,D005,Hypertension,High blood pressure,2026-09-23,Mild,Patient evaluated during consultation.
+MR0761,P250,A1860,D001,Respiratory Infection,Abdominal discomfort,2026-10-09,Moderate,Patient evaluated during consultation.
+MR0762,P101,A1207,D004,Migraine,Shortness of breath,2025-02-10,Moderate,Patient evaluated during consultation.
+MR0763,P171,A0629,D001,Anemia,Shortness of breath,2026-11-26,Mild,Patient evaluated during consultation.
+MR0764,P293,A0645,D003,Migraine,Shortness of breath,2026-03-18,Mild,Patient evaluated during consultation.
+MR0765,P164,A0529,D003,Asthma,Increased thirst,2025-11-03,Severe,Patient evaluated during consultation.
+MR0766,P101,A0728,D002,Common Cold,Dizziness,2025-09-27,Severe,Patient evaluated during consultation.
+MR0767,P101,A0728,D002,Vitamin D Deficiency,Cough and cold,2025-09-27,Moderate,Patient evaluated during consultation.
+MR0768,P300,A0552,D003,Thyroid Disorder,Joint pain,2026-01-10,Severe,Patient evaluated during consultation.
+MR0769,P198,A0271,D005,Vitamin D Deficiency,Fever and body pain,2025-11-21,Severe,Patient evaluated during consultation.
+MR0770,P153,A0105,D001,Hypertension,Dizziness,2026-01-31,Moderate,Patient evaluated during consultation.
+MR0771,P264,A1652,D003,Common Cold,High blood pressure,2026-10-21,Moderate,Patient evaluated during consultation.
+MR0772,P100,A1120,D003,Fever,Cough and cold,2026-04-14,Severe,Patient evaluated during consultation.
+MR0773,P251,A1734,D005,Respiratory Infection,Increased thirst,2025-10-07,Severe,Patient evaluated during consultation.
+MR0774,P024,A1955,D003,Asthma,Dizziness,2025-11-27,Moderate,Patient evaluated during consultation.
+MR0775,P125,A0593,D003,Migraine,Abdominal discomfort,2025-05-23,Severe,Patient evaluated during consultation.
+MR0776,P066,A0981,D004,Common Cold,Dizziness,2026-01-19,Severe,Patient evaluated during consultation.
+MR0777,P197,A1419,D002,Asthma,Joint pain,2026-06-11,Severe,Patient evaluated during consultation.
+MR0778,P268,A0260,D001,Arthritis,Fever and body pain,2026-07-04,Severe,Patient evaluated during consultation.
+MR0779,P239,A1286,D002,Common Cold,Dizziness,2026-07-14,Mild,Patient evaluated during consultation.
+MR0780,P022,A1448,D002,Hypertension,Dizziness,2026-02-19,Mild,Patient evaluated during consultation.
+MR0781,P245,A1745,D001,Common Cold,Increased thirst,2026-02-22,Mild,Patient evaluated during consultation.
+MR0782,P097,A0292,D002,Gastritis,Fever and body pain,2026-03-17,Moderate,Patient evaluated during consultation.
+MR0783,P158,A1943,D001,Common Cold,Joint pain,2026-10-07,Mild,Patient evaluated during consultation.
+MR0784,P115,A1152,D004,Thyroid Disorder,Headache and fatigue,2025-09-27,Severe,Patient evaluated during consultation.
+MR0785,P240,A1359,D003,Fever,Increased thirst,2026-10-19,Moderate,Patient evaluated during consultation.
+MR0786,P300,A0552,D003,Diabetes,Cough and cold,2026-01-10,Severe,Patient evaluated during consultation.
+MR0787,P170,A0011,D002,Common Cold,Increased thirst,2026-05-04,Severe,Patient evaluated during consultation.
+MR0788,P100,A0686,D002,Respiratory Infection,Cough and cold,2025-11-28,Severe,Patient evaluated during consultation.
+MR0789,P127,A1069,D003,Respiratory Infection,Abdominal discomfort,2025-03-30,Mild,Patient evaluated during consultation.
+MR0790,P023,A1611,D002,Common Cold,Headache and fatigue,2025-10-31,Moderate,Patient evaluated during consultation.
+MR0791,P012,A0335,D004,Common Cold,Abdominal discomfort,2026-01-11,Moderate,Patient evaluated during consultation.
+MR0792,P143,A0948,D004,Respiratory Infection,Joint pain,2026-04-23,Severe,Patient evaluated during consultation.
+MR0793,P299,A0707,D005,Diabetes,Fever and body pain,2026-10-04,Severe,Patient evaluated during consultation.
+MR0794,P167,A0671,D004,Asthma,Joint pain,2026-08-22,Moderate,Patient evaluated during consultation.
+MR0795,P063,A0965,D005,Anemia,Cough and cold,2025-10-23,Moderate,Patient evaluated during consultation.
+MR0796,P019,A1150,D003,Hypertension,High blood pressure,2025-02-16,Mild,Patient evaluated during consultation.
+MR0797,P249,A0618,D002,Asthma,Increased thirst,2026-01-29,Moderate,Patient evaluated during consultation.
+MR0798,P284,A1423,D004,Thyroid Disorder,Shortness of breath,2026-07-18,Severe,Patient evaluated during consultation.
+MR0799,P257,A0266,D001,Migraine,Increased thirst,2025-10-31,Mild,Patient evaluated during consultation.
+MR0800,P164,A1821,D002,Diabetes,Headache and fatigue,2025-03-26,Mild,Patient evaluated during consultation.
+MR0801,P105,A1893,D002,Thyroid Disorder,Headache and fatigue,2026-07-25,Mild,Patient evaluated during consultation.
+MR0802,P254,A0493,D005,Respiratory Infection,Dizziness,2025-10-11,Mild,Patient evaluated during consultation.
+MR0803,P010,A0141,D003,Fever,High blood pressure,2025-09-08,Mild,Patient evaluated during consultation.
+MR0804,P033,A0952,D001,Vitamin D Deficiency,Headache and fatigue,2026-10-03,Mild,Patient evaluated during consultation.
+MR0805,P008,A0726,D005,Anemia,Shortness of breath,2026-11-22,Mild,Patient evaluated during consultation.
+MR0806,P078,A1884,D004,Respiratory Infection,Increased thirst,2025-02-11,Moderate,Patient evaluated during consultation.
+MR0807,P222,A0789,D003,Diabetes,Shortness of breath,2026-10-13,Mild,Patient evaluated during consultation.
+MR0808,P111,A0404,D003,Common Cold,High blood pressure,2026-07-17,Mild,Patient evaluated during consultation.
+MR0809,P021,A1259,D001,Gastritis,High blood pressure,2026-02-21,Severe,Patient evaluated during consultation.
+MR0810,P066,A0981,D004,Gastritis,Fever and body pain,2026-01-19,Moderate,Patient evaluated during consultation.
+MR0811,P283,A0443,D003,Gastritis,Joint pain,2025-11-02,Moderate,Patient evaluated during consultation.
+MR0812,P118,A0833,D001,Common Cold,High blood pressure,2025-10-23,Moderate,Patient evaluated during consultation.
+MR0813,P262,A1007,D002,Fever,High blood pressure,2026-06-13,Severe,Patient evaluated during consultation.
+MR0814,P016,A1146,D003,Respiratory Infection,Dizziness,2026-08-13,Moderate,Patient evaluated during consultation.
+MR0815,P196,A0964,D002,Arthritis,High blood pressure,2026-06-08,Moderate,Patient evaluated during consultation.
+MR0816,P100,A1120,D003,Common Cold,Fever and body pain,2026-04-14,Severe,Patient evaluated during consultation.
+MR0817,P275,A1833,D001,Anemia,Cough and cold,2026-01-02,Mild,Patient evaluated during consultation.
+MR0818,P080,A1672,D001,Asthma,Joint pain,2025-10-27,Severe,Patient evaluated during consultation.
+MR0819,P021,A1259,D001,Thyroid Disorder,Joint pain,2026-02-21,Severe,Patient evaluated during consultation.
+MR0820,P039,A0904,D003,Gastritis,High blood pressure,2025-03-22,Moderate,Patient evaluated during consultation.
+MR0821,P037,A0663,D002,Asthma,Increased thirst,2026-07-26,Mild,Patient evaluated during consultation.
+MR0822,P240,A0972,D005,Arthritis,High blood pressure,2026-05-09,Severe,Patient evaluated during consultation.
+MR0823,P168,A0531,D003,Arthritis,Increased thirst,2026-04-27,Mild,Patient evaluated during consultation.
+MR0824,P147,A1698,D001,Asthma,Dizziness,2026-02-22,Severe,Patient evaluated during consultation.
+MR0825,P206,A0750,D004,Thyroid Disorder,Dizziness,2025-05-03,Moderate,Patient evaluated during consultation.
+MR0826,P131,A1662,D004,Diabetes,Joint pain,2026-04-16,Severe,Patient evaluated during consultation.
+MR0827,P158,A1362,D005,Asthma,Joint pain,2025-03-04,Severe,Patient evaluated during consultation.
+MR0828,P246,A1740,D003,Fever,Shortness of breath,2025-08-30,Moderate,Patient evaluated during consultation.
+MR0829,P088,A0290,D004,Common Cold,Fever and body pain,2025-08-20,Mild,Patient evaluated during consultation.
+MR0830,P038,A1593,D005,Diabetes,High blood pressure,2025-05-02,Severe,Patient evaluated during consultation.
+MR0831,P022,A1448,D002,Anemia,Shortness of breath,2026-02-19,Mild,Patient evaluated during consultation.
+MR0832,P129,A0342,D004,Diabetes,High blood pressure,2025-01-19,Severe,Patient evaluated during consultation.
+MR0833,P063,A0488,D003,Thyroid Disorder,Headache and fatigue,2026-03-04,Mild,Patient evaluated during consultation.
+MR0834,P220,A1204,D002,Gastritis,Increased thirst,2026-10-30,Moderate,Patient evaluated during consultation.
+MR0835,P067,A1352,D005,Vitamin D Deficiency,Shortness of breath,2026-05-25,Moderate,Patient evaluated during consultation.
+MR0836,P209,A0516,D004,Asthma,Headache and fatigue,2025-10-28,Severe,Patient evaluated during consultation.
+MR0837,P094,A0036,D002,Asthma,Increased thirst,2026-12-02,Moderate,Patient evaluated during consultation.
+MR0838,P145,A1733,D004,Respiratory Infection,Fever and body pain,2026-10-09,Moderate,Patient evaluated during consultation.
+MR0839,P121,A0814,D002,Gastritis,Increased thirst,2026-03-19,Mild,Patient evaluated during consultation.
+MR0840,P037,A0663,D002,Arthritis,Shortness of breath,2026-07-26,Severe,Patient evaluated during consultation.
+MR0841,P094,A1748,D001,Diabetes,Headache and fatigue,2025-04-05,Mild,Patient evaluated during consultation.
+MR0842,P060,A1166,D004,Gastritis,Shortness of breath,2026-08-03,Mild,Patient evaluated during consultation.
+MR0843,P284,A0452,D002,Common Cold,Cough and cold,2026-12-04,Moderate,Patient evaluated during consultation.
+MR0844,P153,A0105,D001,Hypertension,Joint pain,2026-01-31,Mild,Patient evaluated during consultation.
+MR0845,P038,A1593,D005,Vitamin D Deficiency,Cough and cold,2025-05-02,Mild,Patient evaluated during consultation.
+MR0846,P119,A0332,D001,Common Cold,Fever and body pain,2026-12-28,Severe,Patient evaluated during consultation.
+MR0847,P211,A1118,D003,Respiratory Infection,Shortness of breath,2025-11-05,Mild,Patient evaluated during consultation.
+MR0848,P157,A1898,D003,Respiratory Infection,High blood pressure,2026-02-25,Moderate,Patient evaluated during consultation.
+MR0849,P239,A0556,D002,Fever,Shortness of breath,2026-01-26,Mild,Patient evaluated during consultation.
+MR0850,P104,A1241,D001,Anemia,Fever and body pain,2026-10-25,Moderate,Patient evaluated during consultation.
+MR0851,P232,A1200,D003,Migraine,High blood pressure,2025-02-21,Mild,Patient evaluated during consultation.
+MR0852,P268,A0260,D001,Hypertension,Increased thirst,2026-07-04,Severe,Patient evaluated during consultation.
+MR0853,P233,A0546,D003,Vitamin D Deficiency,Abdominal discomfort,2025-12-24,Moderate,Patient evaluated during consultation.
+MR0854,P255,A1237,D001,Respiratory Infection,Headache and fatigue,2026-12-23,Moderate,Patient evaluated during consultation.
+MR0855,P264,A1607,D005,Hypertension,Joint pain,2025-04-30,Moderate,Patient evaluated during consultation.
+MR0856,P286,A0152,D002,Thyroid Disorder,Fever and body pain,2026-07-19,Moderate,Patient evaluated during consultation.
+MR0857,P130,A1753,D005,Gastritis,Increased thirst,2026-08-29,Severe,Patient evaluated during consultation.
+MR0858,P065,A0585,D002,Migraine,Headache and fatigue,2025-09-14,Severe,Patient evaluated during consultation.
+MR0859,P003,A0362,D003,Migraine,Joint pain,2026-01-20,Moderate,Patient evaluated during consultation.
+MR0860,P190,A0410,D004,Migraine,Abdominal discomfort,2025-12-13,Moderate,Patient evaluated during consultation.
+MR0861,P293,A1363,D004,Gastritis,Joint pain,2026-08-24,Mild,Patient evaluated during consultation.
+MR0862,P129,A0342,D004,Vitamin D Deficiency,Joint pain,2025-01-19,Severe,Patient evaluated during consultation.
+MR0863,P164,A1008,D005,Fever,Cough and cold,2026-10-03,Severe,Patient evaluated during consultation.
+MR0864,P066,A1963,D001,Arthritis,Shortness of breath,2025-03-23,Moderate,Patient evaluated during consultation.
+MR0865,P108,A0505,D003,Common Cold,Dizziness,2025-07-05,Mild,Patient evaluated during consultation.
+MR0866,P242,A0322,D003,Diabetes,Cough and cold,2026-01-15,Moderate,Patient evaluated during consultation.
+MR0867,P042,A1743,D003,Vitamin D Deficiency,High blood pressure,2025-10-19,Moderate,Patient evaluated during consultation.
+MR0868,P077,A0620,D003,Diabetes,Increased thirst,2026-03-21,Mild,Patient evaluated during consultation.
+MR0869,P093,A1917,D003,Respiratory Infection,Joint pain,2026-10-16,Severe,Patient evaluated during consultation.
+MR0870,P122,A0872,D002,Vitamin D Deficiency,Joint pain,2026-12-03,Severe,Patient evaluated during consultation.
+MR0871,P174,A1139,D004,Respiratory Infection,High blood pressure,2026-01-26,Moderate,Patient evaluated during consultation.
+MR0872,P034,A0423,D004,Migraine,Headache and fatigue,2026-05-24,Severe,Patient evaluated during consultation.
+MR0873,P269,A0692,D001,Fever,Increased thirst,2026-07-06,Mild,Patient evaluated during consultation.
+MR0874,P143,A0948,D004,Anemia,Shortness of breath,2026-04-23,Mild,Patient evaluated during consultation.
+MR0875,P098,A1198,D002,Migraine,Cough and cold,2026-06-06,Severe,Patient evaluated during consultation.
+MR0876,P123,A1225,D005,Anemia,Fever and body pain,2025-05-11,Severe,Patient evaluated during consultation.
+MR0877,P127,A1450,D003,Diabetes,Joint pain,2025-01-27,Moderate,Patient evaluated during consultation.
+MR0878,P070,A1477,D003,Respiratory Infection,Cough and cold,2025-11-16,Moderate,Patient evaluated during consultation.
+MR0879,P100,A0686,D002,Hypertension,High blood pressure,2025-11-28,Severe,Patient evaluated during consultation.
+MR0880,P067,A1352,D005,Migraine,Shortness of breath,2026-05-25,Moderate,Patient evaluated during consultation.
+MR0881,P185,A1621,D004,Thyroid Disorder,Dizziness,2025-04-09,Mild,Patient evaluated during consultation.
+MR0882,P078,A1245,D002,Thyroid Disorder,Shortness of breath,2026-08-04,Mild,Patient evaluated during consultation.
+MR0883,P257,A0469,D002,Migraine,High blood pressure,2026-12-01,Mild,Patient evaluated during consultation.
+MR0884,P165,A1322,D005,Respiratory Infection,Shortness of breath,2026-09-23,Severe,Patient evaluated during consultation.
+MR0885,P202,A0687,D003,Thyroid Disorder,Increased thirst,2026-01-17,Moderate,Patient evaluated during consultation.
+MR0886,P201,A1465,D003,Common Cold,High blood pressure,2025-01-07,Severe,Patient evaluated during consultation.
+MR0887,P094,A1062,D005,Hypertension,Headache and fatigue,2025-04-20,Mild,Patient evaluated during consultation.
+MR0888,P066,A1190,D001,Fever,Cough and cold,2025-01-27,Severe,Patient evaluated during consultation.
+MR0889,P066,A1715,D003,Anemia,Fever and body pain,2025-11-23,Mild,Patient evaluated during consultation.
+MR0890,P280,A1121,D002,Migraine,Headache and fatigue,2026-03-22,Severe,Patient evaluated during consultation.
+MR0891,P049,A1268,D004,Gastritis,Joint pain,2026-10-12,Severe,Patient evaluated during consultation.
+MR0892,P122,A1001,D003,Anemia,Cough and cold,2025-11-26,Moderate,Patient evaluated during consultation.
+MR0893,P026,A0084,D002,Thyroid Disorder,Fever and body pain,2026-09-19,Severe,Patient evaluated during consultation.
+MR0894,P265,A0606,D004,Arthritis,Headache and fatigue,2026-07-10,Mild,Patient evaluated during consultation.
+MR0895,P244,A0621,D003,Vitamin D Deficiency,Shortness of breath,2025-02-13,Severe,Patient evaluated during consultation.
+MR0896,P053,A1460,D002,Asthma,Cough and cold,2025-08-29,Severe,Patient evaluated during consultation.
+MR0897,P023,A1982,D003,Migraine,Fever and body pain,2025-06-06,Mild,Patient evaluated during consultation.
+MR0898,P193,A1831,D002,Common Cold,Increased thirst,2025-02-13,Severe,Patient evaluated during consultation.
+MR0899,P250,A1860,D001,Diabetes,Fever and body pain,2026-10-09,Mild,Patient evaluated during consultation.
+MR0900,P281,A1202,D003,Migraine,Fever and body pain,2026-01-27,Mild,Patient evaluated during consultation.
+MR0901,P154,A0037,D004,Migraine,Joint pain,2025-10-25,Moderate,Patient evaluated during consultation.
+MR0902,P037,A1439,D005,Thyroid Disorder,Joint pain,2025-09-14,Severe,Patient evaluated during consultation.
+MR0903,P246,A0013,D002,Common Cold,Shortness of breath,2026-05-18,Mild,Patient evaluated during consultation.
+MR0904,P102,A1279,D001,Fever,Joint pain,2025-07-23,Moderate,Patient evaluated during consultation.
+MR0905,P206,A1175,D003,Migraine,Shortness of breath,2025-11-15,Severe,Patient evaluated during consultation.
+MR0906,P079,A1310,D002,Hypertension,Abdominal discomfort,2025-12-25,Moderate,Patient evaluated during consultation.
+MR0907,P094,A1748,D001,Common Cold,Dizziness,2025-04-05,Mild,Patient evaluated during consultation.
+MR0908,P029,A0457,D004,Anemia,Cough and cold,2026-04-10,Severe,Patient evaluated during consultation.
+MR0909,P246,A1740,D003,Fever,Increased thirst,2025-08-30,Moderate,Patient evaluated during consultation.
+MR0910,P071,A1035,D004,Gastritis,Dizziness,2025-05-31,Mild,Patient evaluated during consultation.
+MR0911,P087,A0804,D001,Migraine,Increased thirst,2025-02-21,Mild,Patient evaluated during consultation.
+MR0912,P271,A0683,D001,Fever,Cough and cold,2025-11-30,Mild,Patient evaluated during consultation.
+MR0913,P078,A0087,D004,Arthritis,Headache and fatigue,2025-01-13,Moderate,Patient evaluated during consultation.
+MR0914,P041,A0881,D005,Arthritis,Increased thirst,2025-08-27,Mild,Patient evaluated during consultation.
+MR0915,P221,A0333,D004,Asthma,Dizziness,2026-02-27,Mild,Patient evaluated during consultation.
+MR0916,P061,A0740,D002,Anemia,Shortness of breath,2025-04-08,Severe,Patient evaluated during consultation.
+MR0917,P066,A0981,D004,Anemia,Cough and cold,2026-01-19,Mild,Patient evaluated during consultation.
+MR0918,P037,A1314,D003,Migraine,Headache and fatigue,2026-12-17,Moderate,Patient evaluated during consultation.
+MR0919,P195,A1284,D005,Hypertension,Increased thirst,2026-09-02,Severe,Patient evaluated during consultation.
+MR0920,P246,A1740,D003,Asthma,Dizziness,2025-08-30,Severe,Patient evaluated during consultation.
+MR0921,P275,A0399,D005,Vitamin D Deficiency,High blood pressure,2026-01-15,Mild,Patient evaluated during consultation.
+MR0922,P123,A0970,D004,Anemia,High blood pressure,2026-07-23,Moderate,Patient evaluated during consultation.
+MR0923,P276,A1655,D001,Gastritis,Increased thirst,2026-03-31,Mild,Patient evaluated during consultation.
+MR0924,P242,A0065,D003,Common Cold,Increased thirst,2026-03-31,Moderate,Patient evaluated during consultation.
+MR0925,P137,A1055,D001,Common Cold,Cough and cold,2026-11-18,Mild,Patient evaluated during consultation.
+MR0926,P207,A0696,D004,Fever,Shortness of breath,2026-01-19,Severe,Patient evaluated during consultation.
+MR0927,P297,A1165,D001,Thyroid Disorder,Dizziness,2025-04-25,Mild,Patient evaluated during consultation.
+MR0928,P251,A1028,D005,Asthma,Increased thirst,2025-01-01,Moderate,Patient evaluated during consultation.
+MR0929,P022,A0090,D002,Thyroid Disorder,High blood pressure,2025-12-14,Severe,Patient evaluated during consultation.
+MR0930,P223,A0288,D002,Arthritis,Dizziness,2026-05-09,Mild,Patient evaluated during consultation.
+MR0931,P057,A0017,D005,Diabetes,Fever and body pain,2026-02-17,Severe,Patient evaluated during consultation.
+MR0932,P247,A0527,D002,Common Cold,Cough and cold,2025-05-26,Mild,Patient evaluated during consultation.
+MR0933,P112,A1475,D002,Thyroid Disorder,Fever and body pain,2025-02-06,Mild,Patient evaluated during consultation.
+MR0934,P247,A0985,D005,Asthma,Cough and cold,2025-01-04,Severe,Patient evaluated during consultation.
+MR0935,P134,A0381,D001,Thyroid Disorder,Cough and cold,2025-11-13,Severe,Patient evaluated during consultation.
+MR0936,P106,A0334,D001,Fever,Dizziness,2025-12-21,Severe,Patient evaluated during consultation.
+MR0937,P111,A0404,D003,Anemia,Dizziness,2026-07-17,Severe,Patient evaluated during consultation.
+MR0938,P141,A1336,D005,Respiratory Infection,Cough and cold,2026-08-05,Mild,Patient evaluated during consultation.
+MR0939,P005,A1707,D001,Hypertension,Fever and body pain,2025-07-13,Mild,Patient evaluated during consultation.
+MR0940,P190,A1827,D004,Arthritis,Increased thirst,2026-11-14,Severe,Patient evaluated during consultation.
+MR0941,P122,A1579,D002,Anemia,Fever and body pain,2026-09-14,Mild,Patient evaluated during consultation.
+MR0942,P300,A1449,D002,Common Cold,Headache and fatigue,2025-11-27,Mild,Patient evaluated during consultation.
+MR0943,P226,A0700,D004,Fever,Fever and body pain,2026-04-20,Moderate,Patient evaluated during consultation.
+MR0944,P029,A0361,D004,Respiratory Infection,Fever and body pain,2026-09-13,Moderate,Patient evaluated during consultation.
+MR0945,P294,A0693,D002,Common Cold,High blood pressure,2026-10-14,Moderate,Patient evaluated during consultation.
+MR0946,P112,A1475,D002,Diabetes,Dizziness,2025-02-06,Mild,Patient evaluated during consultation.
+MR0947,P271,A0683,D001,Anemia,High blood pressure,2025-11-30,Moderate,Patient evaluated during consultation.
+MR0948,P132,A1681,D005,Hypertension,Increased thirst,2025-01-12,Severe,Patient evaluated during consultation.
+MR0949,P269,A0497,D003,Respiratory Infection,Headache and fatigue,2026-06-20,Severe,Patient evaluated during consultation.
+MR0950,P129,A0876,D005,Asthma,High blood pressure,2026-09-04,Mild,Patient evaluated during consultation.
+MR0951,P153,A0105,D001,Gastritis,High blood pressure,2026-01-31,Severe,Patient evaluated during consultation.
+MR0952,P280,A1224,D003,Diabetes,Cough and cold,2026-09-09,Mild,Patient evaluated during consultation.
+MR0953,P184,A0044,D001,Respiratory Infection,Cough and cold,2026-05-01,Severe,Patient evaluated during consultation.
+MR0954,P160,A1847,D004,Diabetes,Shortness of breath,2026-01-15,Moderate,Patient evaluated during consultation.
+MR0955,P291,A0983,D001,Anemia,Fever and body pain,2025-12-05,Mild,Patient evaluated during consultation.
+MR0956,P033,A1103,D003,Arthritis,Dizziness,2026-03-27,Mild,Patient evaluated during consultation.
+MR0957,P141,A0176,D003,Hypertension,Shortness of breath,2026-11-22,Moderate,Patient evaluated during consultation.
+MR0958,P268,A0058,D002,Hypertension,High blood pressure,2026-11-16,Mild,Patient evaluated during consultation.
+MR0959,P034,A0829,D002,Arthritis,Fever and body pain,2026-01-04,Mild,Patient evaluated during consultation.
+MR0960,P144,A1218,D004,Fever,Dizziness,2025-06-08,Moderate,Patient evaluated during consultation.
+MR0961,P023,A1982,D003,Respiratory Infection,Headache and fatigue,2025-06-06,Mild,Patient evaluated during consultation.
+MR0962,P082,A1566,D005,Arthritis,Fever and body pain,2026-01-04,Severe,Patient evaluated during consultation.
+MR0963,P107,A0157,D004,Thyroid Disorder,Cough and cold,2026-04-30,Mild,Patient evaluated during consultation.
+MR0964,P050,A0040,D002,Vitamin D Deficiency,Headache and fatigue,2026-11-03,Mild,Patient evaluated during consultation.
+MR0965,P026,A0635,D003,Hypertension,Fever and body pain,2025-06-29,Severe,Patient evaluated during consultation.
+MR0966,P246,A0378,D001,Vitamin D Deficiency,High blood pressure,2025-09-04,Moderate,Patient evaluated during consultation.
+MR0967,P014,A0072,D003,Vitamin D Deficiency,High blood pressure,2025-03-26,Severe,Patient evaluated during consultation.
+MR0968,P098,A0108,D003,Vitamin D Deficiency,Headache and fatigue,2026-10-21,Severe,Patient evaluated during consultation.
+MR0969,P062,A1387,D002,Asthma,Joint pain,2026-06-11,Mild,Patient evaluated during consultation.
+MR0970,P068,A1837,D005,Gastritis,Dizziness,2025-04-14,Moderate,Patient evaluated during consultation.
+MR0971,P169,A0648,D005,Respiratory Infection,Dizziness,2025-12-10,Severe,Patient evaluated during consultation.
+MR0972,P273,A0177,D002,Thyroid Disorder,Headache and fatigue,2026-02-24,Moderate,Patient evaluated during consultation.
+MR0973,P137,A1095,D002,Hypertension,Abdominal discomfort,2026-01-04,Moderate,Patient evaluated during consultation.
+MR0974,P127,A0004,D003,Asthma,Joint pain,2025-07-11,Severe,Patient evaluated during consultation.
+MR0975,P143,A0933,D002,Anemia,High blood pressure,2026-12-27,Severe,Patient evaluated during consultation.
+MR0976,P055,A0890,D004,Gastritis,Fever and body pain,2025-01-25,Moderate,Patient evaluated during consultation.
+MR0977,P243,A1017,D003,Fever,Increased thirst,2025-12-24,Moderate,Patient evaluated during consultation.
+MR0978,P081,A0626,D003,Diabetes,Dizziness,2026-05-18,Mild,Patient evaluated during consultation.
+MR0979,P226,A1872,D003,Anemia,Cough and cold,2025-12-16,Moderate,Patient evaluated during consultation.
+MR0980,P060,A1166,D004,Respiratory Infection,Joint pain,2026-08-03,Mild,Patient evaluated during consultation.
+MR0981,P122,A1084,D004,Common Cold,Cough and cold,2025-04-11,Severe,Patient evaluated during consultation.
+MR0982,P073,A1612,D002,Diabetes,Abdominal discomfort,2026-07-27,Moderate,Patient evaluated during consultation.
+MR0983,P053,A0832,D001,Hypertension,Headache and fatigue,2026-06-06,Mild,Patient evaluated during consultation.
+MR0984,P215,A1508,D004,Vitamin D Deficiency,Cough and cold,2025-01-01,Moderate,Patient evaluated during consultation.
+MR0985,P067,A1378,D005,Hypertension,Shortness of breath,2026-02-01,Moderate,Patient evaluated during consultation.
+MR0986,P201,A1399,D001,Respiratory Infection,Abdominal discomfort,2026-07-16,Mild,Patient evaluated during consultation.
+MR0987,P136,A1189,D003,Hypertension,Fever and body pain,2025-08-18,Severe,Patient evaluated during consultation.
+MR0988,P191,A1201,D001,Respiratory Infection,Abdominal discomfort,2026-04-07,Moderate,Patient evaluated during consultation.
+MR0989,P067,A0270,D003,Respiratory Infection,High blood pressure,2026-08-14,Moderate,Patient evaluated during consultation.
+MR0990,P067,A1108,D004,Fever,Joint pain,2026-10-09,Mild,Patient evaluated during consultation.
+MR0991,P002,A0695,D004,Anemia,Abdominal discomfort,2025-11-02,Mild,Patient evaluated during consultation.
+MR0992,P141,A0513,D004,Thyroid Disorder,Cough and cold,2025-05-22,Moderate,Patient evaluated during consultation.
+MR0993,P036,A1751,D001,Anemia,Cough and cold,2025-08-01,Severe,Patient evaluated during consultation.
+MR0994,P052,A1537,D003,Fever,Joint pain,2026-06-04,Mild,Patient evaluated during consultation.
+MR0995,P196,A0964,D002,Diabetes,Increased thirst,2026-06-08,Severe,Patient evaluated during consultation.
+MR0996,P281,A1158,D002,Migraine,Joint pain,2026-02-05,Mild,Patient evaluated during consultation.
+MR0997,P268,A0395,D004,Thyroid Disorder,Abdominal discomfort,2025-07-07,Mild,Patient evaluated during consultation.
+MR0998,P125,A0611,D001,Vitamin D Deficiency,Dizziness,2026-11-26,Mild,Patient evaluated during consultation.
+MR0999,P097,A0336,D004,Arthritis,Dizziness,2026-03-24,Mild,Patient evaluated during consultation.
+MR1000,P216,A0566,D001,Hypertension,Shortness of breath,2026-04-03,Severe,Patient evaluated during consultation.
+MR1001,P153,A1063,D005,Hypertension,Shortness of breath,2025-10-25,Mild,Patient evaluated during consultation.
+MR1002,P065,A0542,D004,Thyroid Disorder,Headache and fatigue,2025-04-22,Severe,Patient evaluated during consultation.
+MR1003,P037,A1314,D003,Migraine,Cough and cold,2026-12-17,Severe,Patient evaluated during consultation.
+MR1004,P209,A0583,D001,Anemia,Fever and body pain,2026-01-04,Moderate,Patient evaluated during consultation.
+MR1005,P188,A0344,D005,Fever,Abdominal discomfort,2025-01-26,Severe,Patient evaluated during consultation.
+MR1006,P052,A0041,D004,Respiratory Infection,Abdominal discomfort,2026-04-16,Moderate,Patient evaluated during consultation.
+MR1007,P206,A0120,D002,Anemia,Shortness of breath,2025-08-16,Moderate,Patient evaluated during consultation.
+MR1008,P267,A1838,D005,Fever,Abdominal discomfort,2025-10-21,Moderate,Patient evaluated during consultation.
+MR1009,P017,A1274,D004,Vitamin D Deficiency,Headache and fatigue,2025-01-12,Moderate,Patient evaluated during consultation.
+MR1010,P070,A0657,D003,Fever,High blood pressure,2025-02-08,Moderate,Patient evaluated during consultation.
+MR1011,P079,A1256,D005,Fever,Cough and cold,2025-10-05,Severe,Patient evaluated during consultation.
+MR1012,P300,A1449,D002,Fever,Abdominal discomfort,2025-11-27,Severe,Patient evaluated during consultation.
+MR1013,P116,A0770,D005,Gastritis,Fever and body pain,2025-10-13,Mild,Patient evaluated during consultation.
+MR1014,P214,A0685,D005,Arthritis,Fever and body pain,2025-10-18,Severe,Patient evaluated during consultation.
+MR1015,P287,A0096,D003,Arthritis,Increased thirst,2026-05-29,Severe,Patient evaluated during consultation.
+MR1016,P078,A1315,D001,Common Cold,Cough and cold,2025-04-23,Severe,Patient evaluated during consultation.
+MR1017,P207,A1717,D003,Diabetes,Abdominal discomfort,2025-07-02,Moderate,Patient evaluated during consultation.
+MR1018,P195,A1238,D002,Thyroid Disorder,Cough and cold,2026-03-28,Moderate,Patient evaluated during consultation.
+MR1019,P039,A0330,D004,Respiratory Infection,Cough and cold,2025-12-10,Mild,Patient evaluated during consultation.
+MR1020,P104,A1628,D001,Diabetes,Fever and body pain,2025-09-17,Severe,Patient evaluated during consultation.
+MR1021,P276,A0337,D002,Respiratory Infection,Dizziness,2026-04-01,Moderate,Patient evaluated during consultation.
+MR1022,P299,A0595,D002,Gastritis,Dizziness,2025-07-27,Mild,Patient evaluated during consultation.
+MR1023,P154,A0242,D004,Asthma,Abdominal discomfort,2026-09-29,Moderate,Patient evaluated during consultation.
+MR1024,P022,A0092,D001,Gastritis,Dizziness,2026-08-12,Mild,Patient evaluated during consultation.
+MR1025,P263,A1132,D003,Hypertension,Shortness of breath,2025-01-14,Mild,Patient evaluated during consultation.
+MR1026,P276,A1762,D005,Diabetes,Headache and fatigue,2026-04-15,Severe,Patient evaluated during consultation.
+MR1027,P180,A0689,D004,Vitamin D Deficiency,Increased thirst,2025-06-29,Severe,Patient evaluated during consultation.
+MR1028,P264,A0057,D005,Gastritis,Cough and cold,2025-12-19,Moderate,Patient evaluated during consultation.
+MR1029,P042,A1236,D002,Common Cold,Dizziness,2026-09-21,Mild,Patient evaluated during consultation.
+MR1030,P194,A1690,D001,Respiratory Infection,High blood pressure,2026-07-28,Mild,Patient evaluated during consultation.
+MR1031,P190,A0169,D004,Vitamin D Deficiency,High blood pressure,2026-01-04,Severe,Patient evaluated during consultation.
+MR1032,P232,A0022,D001,Gastritis,Increased thirst,2026-10-19,Severe,Patient evaluated during consultation.
+MR1033,P022,A0090,D002,Respiratory Infection,High blood pressure,2025-12-14,Severe,Patient evaluated during consultation.
+MR1034,P067,A1352,D005,Respiratory Infection,Fever and body pain,2026-05-25,Severe,Patient evaluated during consultation.
+MR1035,P053,A1162,D005,Hypertension,Dizziness,2025-01-26,Severe,Patient evaluated during consultation.
+MR1036,P015,A0164,D003,Migraine,Increased thirst,2025-07-18,Moderate,Patient evaluated during consultation.
+MR1037,P231,A0736,D002,Anemia,High blood pressure,2025-11-04,Mild,Patient evaluated during consultation.
+MR1038,P293,A1363,D004,Asthma,Shortness of breath,2026-08-24,Mild,Patient evaluated during consultation.
+MR1039,P100,A1039,D004,Migraine,Dizziness,2025-02-17,Severe,Patient evaluated during consultation.
+MR1040,P093,A1206,D001,Gastritis,Joint pain,2025-02-13,Mild,Patient evaluated during consultation.
+MR1041,P240,A0109,D005,Gastritis,Fever and body pain,2026-03-08,Severe,Patient evaluated during consultation.
+MR1042,P274,A1899,D005,Common Cold,High blood pressure,2026-07-18,Severe,Patient evaluated during consultation.
+MR1043,P063,A0944,D003,Common Cold,Increased thirst,2026-12-18,Mild,Patient evaluated during consultation.
+MR1044,P086,A1257,D003,Common Cold,Shortness of breath,2025-08-28,Moderate,Patient evaluated during consultation.
+MR1045,P077,A1420,D005,Anemia,Abdominal discomfort,2026-09-16,Mild,Patient evaluated during consultation.
+MR1046,P265,A0007,D004,Common Cold,Fever and body pain,2025-09-26,Moderate,Patient evaluated during consultation.
+MR1047,P114,A1116,D002,Gastritis,Dizziness,2025-04-12,Severe,Patient evaluated during consultation.
+MR1048,P296,A1680,D001,Arthritis,Dizziness,2025-08-04,Mild,Patient evaluated during consultation.
+MR1049,P168,A0486,D005,Migraine,Fever and body pain,2025-09-24,Moderate,Patient evaluated during consultation.
+MR1050,P156,A0349,D005,Thyroid Disorder,Cough and cold,2026-07-18,Mild,Patient evaluated during consultation.
+MR1051,P171,A0629,D001,Diabetes,Fever and body pain,2026-11-26,Mild,Patient evaluated during consultation.
+MR1052,P129,A0917,D004,Gastritis,Shortness of breath,2026-02-01,Mild,Patient evaluated during consultation.
+MR1053,P089,A0346,D004,Gastritis,Shortness of breath,2026-03-09,Severe,Patient evaluated during consultation.
+MR1054,P092,A1109,D005,Vitamin D Deficiency,Fever and body pain,2026-08-14,Severe,Patient evaluated during consultation.
+MR1055,P012,A0535,D002,Asthma,Abdominal discomfort,2025-02-09,Severe,Patient evaluated during consultation.
+MR1056,P274,A1934,D004,Fever,Increased thirst,2026-03-27,Severe,Patient evaluated during consultation.
+MR1057,P073,A0731,D004,Respiratory Infection,Increased thirst,2025-07-11,Severe,Patient evaluated during consultation.
+MR1058,P038,A1790,D001,Arthritis,Fever and body pain,2025-03-02,Mild,Patient evaluated during consultation.
+MR1059,P024,A1457,D001,Arthritis,Joint pain,2025-12-01,Moderate,Patient evaluated during consultation.
+MR1060,P107,A1262,D003,Asthma,Headache and fatigue,2026-11-15,Severe,Patient evaluated during consultation.
+MR1061,P275,A1833,D001,Diabetes,High blood pressure,2026-01-02,Mild,Patient evaluated during consultation.
+MR1062,P251,A0144,D001,Gastritis,Fever and body pain,2026-01-20,Mild,Patient evaluated during consultation.
+MR1063,P283,A0849,D001,Respiratory Infection,Dizziness,2026-08-21,Mild,Patient evaluated during consultation.
+MR1064,P264,A1652,D003,Diabetes,Abdominal discomfort,2026-10-21,Severe,Patient evaluated during consultation.
+MR1065,P257,A1906,D001,Respiratory Infection,Increased thirst,2025-12-25,Mild,Patient evaluated during consultation.
+MR1066,P299,A1605,D005,Asthma,Headache and fatigue,2025-05-02,Moderate,Patient evaluated during consultation.
+MR1067,P119,A1625,D002,Gastritis,High blood pressure,2026-08-10,Severe,Patient evaluated during consultation.
+MR1068,P192,A0485,D002,Respiratory Infection,Headache and fatigue,2026-07-21,Severe,Patient evaluated during consultation.
+MR1069,P038,A1790,D001,Diabetes,Fever and body pain,2025-03-02,Mild,Patient evaluated during consultation.
+MR1070,P254,A0573,D005,Anemia,Headache and fatigue,2025-05-12,Severe,Patient evaluated during consultation.
+MR1071,P100,A0658,D005,Migraine,Joint pain,2026-07-29,Severe,Patient evaluated during consultation.
+MR1072,P181,A0124,D003,Anemia,High blood pressure,2026-09-01,Mild,Patient evaluated during consultation.
+MR1073,P227,A0318,D005,Fever,Cough and cold,2025-07-03,Moderate,Patient evaluated during consultation.
+MR1074,P234,A1494,D001,Gastritis,Cough and cold,2025-02-02,Moderate,Patient evaluated during consultation.
+MR1075,P234,A0766,D003,Fever,Dizziness,2025-06-25,Severe,Patient evaluated during consultation.
+MR1076,P243,A0922,D002,Common Cold,Increased thirst,2026-01-03,Severe,Patient evaluated during consultation.
+MR1077,P294,A1584,D005,Anemia,Shortness of breath,2025-09-10,Moderate,Patient evaluated during consultation.
+MR1078,P244,A0621,D003,Vitamin D Deficiency,Increased thirst,2025-02-13,Severe,Patient evaluated during consultation.
+MR1079,P145,A1518,D004,Asthma,Abdominal discomfort,2025-04-28,Mild,Patient evaluated during consultation.
+MR1080,P051,A1025,D004,Anemia,Increased thirst,2025-04-09,Severe,Patient evaluated during consultation.
+MR1081,P067,A1108,D004,Respiratory Infection,Headache and fatigue,2026-10-09,Severe,Patient evaluated during consultation.
+MR1082,P274,A1389,D004,Thyroid Disorder,Joint pain,2026-05-28,Moderate,Patient evaluated during consultation.
+MR1083,P006,A1636,D002,Anemia,Joint pain,2026-03-18,Severe,Patient evaluated during consultation.
+MR1084,P077,A0620,D003,Migraine,Shortness of breath,2026-03-21,Moderate,Patient evaluated during consultation.
+MR1085,P065,A0661,D003,Thyroid Disorder,Increased thirst,2026-08-03,Moderate,Patient evaluated during consultation.
+MR1086,P143,A1324,D002,Arthritis,High blood pressure,2026-08-25,Mild,Patient evaluated during consultation.
+MR1087,P034,A1560,D004,Respiratory Infection,Headache and fatigue,2026-08-04,Moderate,Patient evaluated during consultation.
+MR1088,P071,A1546,D002,Arthritis,Increased thirst,2025-05-08,Moderate,Patient evaluated during consultation.
+MR1089,P032,A0777,D003,Arthritis,Joint pain,2026-08-27,Mild,Patient evaluated during consultation.
+MR1090,P247,A1045,D005,Hypertension,Cough and cold,2026-10-03,Severe,Patient evaluated during consultation.
+MR1091,P276,A1497,D003,Respiratory Infection,Headache and fatigue,2026-12-09,Severe,Patient evaluated during consultation.
+MR1092,P232,A1541,D005,Asthma,Cough and cold,2026-02-15,Mild,Patient evaluated during consultation.
+MR1093,P167,A1415,D004,Gastritis,High blood pressure,2026-10-27,Severe,Patient evaluated during consultation.
+MR1094,P166,A1695,D003,Hypertension,Dizziness,2025-06-13,Mild,Patient evaluated during consultation.
+MR1095,P276,A1924,D004,Gastritis,Joint pain,2025-08-06,Moderate,Patient evaluated during consultation.
+MR1096,P212,A0299,D003,Vitamin D Deficiency,Shortness of breath,2026-09-09,Mild,Patient evaluated during consultation.
+MR1097,P182,A0003,D005,Asthma,High blood pressure,2026-06-16,Mild,Patient evaluated during consultation.
+MR1098,P070,A0302,D004,Thyroid Disorder,Joint pain,2026-01-23,Mild,Patient evaluated during consultation.
+MR1099,P143,A0376,D003,Respiratory Infection,Shortness of breath,2026-08-19,Mild,Patient evaluated during consultation.
+MR1100,P006,A1636,D002,Anemia,Dizziness,2026-03-18,Moderate,Patient evaluated during consultation.
+MR1101,P039,A0660,D003,Anemia,Increased thirst,2026-01-20,Mild,Patient evaluated during consultation.
+MR1102,P246,A0378,D001,Vitamin D Deficiency,Fever and body pain,2025-09-04,Severe,Patient evaluated during consultation.
+MR1103,P089,A1851,D002,Diabetes,Dizziness,2025-10-16,Mild,Patient evaluated during consultation.
+MR1104,P070,A1454,D003,Diabetes,High blood pressure,2025-05-05,Mild,Patient evaluated during consultation.
+MR1105,P197,A1927,D005,Asthma,Abdominal discomfort,2025-05-25,Mild,Patient evaluated during consultation.
+MR1106,P214,A0079,D003,Asthma,Headache and fatigue,2025-10-21,Severe,Patient evaluated during consultation.
+MR1107,P103,A0918,D005,Anemia,Increased thirst,2026-08-10,Moderate,Patient evaluated during consultation.
+MR1108,P051,A0147,D001,Vitamin D Deficiency,Increased thirst,2026-07-05,Moderate,Patient evaluated during consultation.
+MR1109,P209,A0516,D004,Migraine,Shortness of breath,2025-10-28,Moderate,Patient evaluated during consultation.
+MR1110,P205,A1521,D003,Asthma,Fever and body pain,2025-12-09,Moderate,Patient evaluated during consultation.
+MR1111,P240,A0171,D005,Migraine,Shortness of breath,2025-09-19,Moderate,Patient evaluated during consultation.
+MR1112,P209,A0516,D004,Migraine,Cough and cold,2025-10-28,Moderate,Patient evaluated during consultation.
+MR1113,P080,A0028,D005,Anemia,High blood pressure,2026-08-15,Mild,Patient evaluated during consultation.
+MR1114,P260,A0262,D001,Hypertension,Cough and cold,2025-07-04,Severe,Patient evaluated during consultation.
+MR1115,P032,A1820,D003,Vitamin D Deficiency,Shortness of breath,2025-08-02,Severe,Patient evaluated during consultation.
+MR1116,P103,A1051,D001,Anemia,Increased thirst,2026-12-15,Moderate,Patient evaluated during consultation.
+MR1117,P117,A0764,D004,Hypertension,Increased thirst,2025-12-02,Mild,Patient evaluated during consultation.
+MR1118,P212,A0386,D004,Gastritis,Shortness of breath,2026-09-25,Moderate,Patient evaluated during consultation.
+MR1119,P144,A0828,D004,Anemia,Headache and fatigue,2025-02-25,Mild,Patient evaluated during consultation.
+MR1120,P096,A0649,D001,Gastritis,Joint pain,2026-02-17,Mild,Patient evaluated during consultation.
+MR1121,P265,A0007,D004,Fever,Abdominal discomfort,2025-09-26,Severe,Patient evaluated during consultation.
+MR1122,P010,A1197,D005,Vitamin D Deficiency,Dizziness,2025-04-17,Severe,Patient evaluated during consultation.
+MR1123,P254,A0815,D003,Asthma,Headache and fatigue,2026-06-12,Severe,Patient evaluated during consultation.
+MR1124,P214,A1462,D001,Arthritis,Shortness of breath,2026-04-24,Severe,Patient evaluated during consultation.
+MR1125,P292,A0928,D005,Diabetes,Shortness of breath,2026-06-28,Mild,Patient evaluated during consultation.
+MR1126,P289,A0760,D005,Fever,Headache and fatigue,2025-03-25,Mild,Patient evaluated during consultation.
+MR1127,P118,A0833,D001,Respiratory Infection,Fever and body pain,2025-10-23,Moderate,Patient evaluated during consultation.
+MR1128,P046,A0293,D005,Fever,High blood pressure,2025-09-13,Severe,Patient evaluated during consultation.
+MR1129,P107,A1262,D003,Arthritis,Fever and body pain,2026-11-15,Mild,Patient evaluated during consultation.
+MR1130,P019,A1879,D002,Common Cold,Shortness of breath,2026-04-24,Severe,Patient evaluated during consultation.
+MR1131,P132,A0317,D002,Arthritis,Abdominal discomfort,2025-08-21,Severe,Patient evaluated during consultation.
+MR1132,P286,A0152,D002,Anemia,High blood pressure,2026-07-19,Severe,Patient evaluated during consultation.
+MR1133,P118,A0833,D001,Asthma,Shortness of breath,2025-10-23,Severe,Patient evaluated during consultation.
+MR1134,P251,A0123,D001,Fever,Increased thirst,2025-06-25,Mild,Patient evaluated during consultation.
+MR1135,P248,A0045,D002,Common Cold,Increased thirst,2026-12-09,Severe,Patient evaluated during consultation.
+MR1136,P271,A1749,D005,Arthritis,Increased thirst,2026-02-18,Moderate,Patient evaluated during consultation.
+MR1137,P299,A0707,D005,Gastritis,Dizziness,2026-10-04,Mild,Patient evaluated during consultation.
+MR1138,P078,A0575,D003,Common Cold,High blood pressure,2025-10-03,Severe,Patient evaluated during consultation.
+MR1139,P081,A0056,D001,Thyroid Disorder,Joint pain,2025-01-12,Mild,Patient evaluated during consultation.
+MR1140,P194,A0994,D005,Arthritis,Cough and cold,2025-08-08,Severe,Patient evaluated during consultation.
+MR1141,P082,A1235,D001,Thyroid Disorder,Shortness of breath,2025-05-23,Severe,Patient evaluated during consultation.
+MR1142,P130,A0377,D003,Gastritis,Joint pain,2025-06-07,Moderate,Patient evaluated during consultation.
+MR1143,P232,A1004,D003,Migraine,Increased thirst,2026-08-01,Mild,Patient evaluated during consultation.
+MR1144,P127,A1258,D005,Asthma,Headache and fatigue,2025-02-26,Mild,Patient evaluated during consultation.
+MR1145,P147,A1337,D004,Diabetes,Dizziness,2025-12-09,Mild,Patient evaluated during consultation.
+MR1146,P254,A1578,D003,Respiratory Infection,Dizziness,2026-05-23,Moderate,Patient evaluated during consultation.
+MR1147,P175,A1047,D003,Arthritis,High blood pressure,2026-06-12,Severe,Patient evaluated during consultation.
+MR1148,P181,A1374,D002,Migraine,Fever and body pain,2025-12-01,Mild,Patient evaluated during consultation.
+MR1149,P248,A0045,D002,Asthma,Dizziness,2026-12-09,Moderate,Patient evaluated during consultation.
+MR1150,P089,A1230,D004,Vitamin D Deficiency,Joint pain,2026-12-11,Severe,Patient evaluated during consultation.
+MR1151,P095,A0597,D004,Migraine,Cough and cold,2025-07-08,Moderate,Patient evaluated during consultation.
+MR1152,P149,A0545,D005,Arthritis,Joint pain,2025-12-11,Moderate,Patient evaluated during consultation.
+MR1153,P028,A1937,D002,Common Cold,Headache and fatigue,2026-02-13,Severe,Patient evaluated during consultation.
+MR1154,P043,A0884,D005,Fever,Abdominal discomfort,2026-10-09,Severe,Patient evaluated during consultation.
+MR1155,P009,A1873,D001,Respiratory Infection,Dizziness,2026-07-29,Severe,Patient evaluated during consultation.
+MR1156,P047,A1761,D003,Diabetes,Cough and cold,2026-06-29,Moderate,Patient evaluated during consultation.
+MR1157,P008,A0199,D005,Fever,Shortness of breath,2026-09-02,Moderate,Patient evaluated during consultation.
+MR1158,P023,A1767,D003,Thyroid Disorder,Shortness of breath,2025-06-20,Mild,Patient evaluated during consultation.
+MR1159,P113,A0319,D003,Arthritis,Joint pain,2025-09-17,Mild,Patient evaluated during consultation.
+MR1160,P116,A0581,D005,Arthritis,Cough and cold,2026-08-12,Moderate,Patient evaluated during consultation.
+MR1161,P178,A1248,D004,Thyroid Disorder,Dizziness,2025-10-28,Severe,Patient evaluated during consultation.
+MR1162,P180,A1725,D002,Thyroid Disorder,Abdominal discomfort,2026-09-05,Mild,Patient evaluated during consultation.
+MR1163,P026,A1252,D003,Respiratory Infection,Joint pain,2025-07-22,Moderate,Patient evaluated during consultation.
+MR1164,P078,A1888,D002,Hypertension,Increased thirst,2025-08-02,Severe,Patient evaluated during consultation.
+MR1165,P010,A1197,D005,Thyroid Disorder,Shortness of breath,2025-04-17,Moderate,Patient evaluated during consultation.
+MR1166,P104,A1241,D001,Hypertension,High blood pressure,2026-10-25,Mild,Patient evaluated during consultation.
+MR1167,P145,A0396,D002,Fever,Headache and fatigue,2026-01-31,Severe,Patient evaluated during consultation.
+MR1168,P036,A1738,D002,Migraine,Cough and cold,2026-08-22,Moderate,Patient evaluated during consultation.
+MR1169,P266,A0358,D003,Hypertension,Cough and cold,2025-05-08,Mild,Patient evaluated during consultation.
+MR1170,P152,A0607,D003,Asthma,Abdominal discomfort,2026-12-02,Severe,Patient evaluated during consultation.
+MR1171,P165,A0971,D003,Respiratory Infection,Headache and fatigue,2025-10-20,Mild,Patient evaluated during consultation.
+MR1172,P058,A1203,D001,Vitamin D Deficiency,Shortness of breath,2026-04-17,Severe,Patient evaluated during consultation.
+MR1173,P075,A0098,D003,Hypertension,Abdominal discomfort,2025-03-11,Mild,Patient evaluated during consultation.
+MR1174,P096,A1134,D004,Gastritis,Cough and cold,2025-08-23,Moderate,Patient evaluated during consultation.
+MR1175,P281,A0924,D003,Asthma,Increased thirst,2026-11-07,Severe,Patient evaluated during consultation.
+MR1176,P114,A0830,D005,Diabetes,Joint pain,2025-10-14,Severe,Patient evaluated during consultation.
+MR1177,P012,A1353,D002,Vitamin D Deficiency,Shortness of breath,2025-11-29,Mild,Patient evaluated during consultation.
+MR1178,P118,A0068,D004,Gastritis,Dizziness,2026-10-06,Mild,Patient evaluated during consultation.
+MR1179,P185,A0431,D004,Fever,Joint pain,2026-12-23,Severe,Patient evaluated during consultation.
+MR1180,P276,A1887,D002,Respiratory Infection,Headache and fatigue,2026-08-08,Moderate,Patient evaluated during consultation.
+MR1181,P243,A1017,D003,Arthritis,Dizziness,2025-12-24,Moderate,Patient evaluated during consultation.
+MR1182,P180,A1725,D002,Migraine,Fever and body pain,2026-09-05,Severe,Patient evaluated during consultation.
+MR1183,P126,A0860,D005,Vitamin D Deficiency,Shortness of breath,2025-07-23,Severe,Patient evaluated during consultation.
+MR1184,P132,A1112,D005,Asthma,Headache and fatigue,2026-05-27,Mild,Patient evaluated during consultation.
+MR1185,P291,A1540,D005,Vitamin D Deficiency,Joint pain,2026-04-11,Severe,Patient evaluated during consultation.
+MR1186,P212,A0386,D004,Vitamin D Deficiency,High blood pressure,2026-09-25,Severe,Patient evaluated during consultation.
+MR1187,P126,A0209,D003,Arthritis,Cough and cold,2026-01-26,Moderate,Patient evaluated during consultation.
+MR1188,P287,A0845,D001,Migraine,Shortness of breath,2025-07-26,Moderate,Patient evaluated during consultation.
+MR1189,P064,A1587,D005,Asthma,Abdominal discomfort,2025-03-06,Severe,Patient evaluated during consultation.
+MR1190,P156,A0859,D003,Respiratory Infection,Fever and body pain,2025-01-02,Severe,Patient evaluated during consultation.
+MR1191,P293,A1313,D004,Arthritis,Shortness of breath,2025-06-30,Severe,Patient evaluated during consultation.
+MR1192,P131,A1278,D004,Thyroid Disorder,Joint pain,2026-10-21,Mild,Patient evaluated during consultation.
+MR1193,P203,A0941,D005,Fever,Cough and cold,2026-02-09,Mild,Patient evaluated during consultation.
+MR1194,P294,A1584,D005,Thyroid Disorder,Dizziness,2025-09-10,Mild,Patient evaluated during consultation.
+MR1195,P130,A1709,D004,Anemia,Cough and cold,2025-01-01,Severe,Patient evaluated during consultation.
+MR1196,P119,A0129,D003,Asthma,Joint pain,2025-07-08,Severe,Patient evaluated during consultation.
+MR1197,P049,A0438,D004,Thyroid Disorder,Abdominal discomfort,2026-05-01,Mild,Patient evaluated during consultation.
+MR1198,P123,A1225,D005,Vitamin D Deficiency,Abdominal discomfort,2025-05-11,Moderate,Patient evaluated during consultation.
+MR1199,P280,A0882,D002,Anemia,Cough and cold,2026-04-21,Moderate,Patient evaluated during consultation.
+MR1200,P281,A0043,D004,Hypertension,High blood pressure,2025-11-09,Mild,Patient evaluated during consultation.
+MR1201,P148,A0836,D003,Migraine,Fever and body pain,2025-05-25,Moderate,Patient evaluated during consultation.
+MR1202,P035,A0219,D004,Hypertension,Cough and cold,2025-05-12,Moderate,Patient evaluated during consultation.
+MR1203,P249,A1706,D002,Arthritis,Abdominal discomfort,2026-08-08,Mild,Patient evaluated during consultation.
+MR1204,P064,A1101,D003,Anemia,Fever and body pain,2026-08-17,Severe,Patient evaluated during consultation.
+MR1205,P024,A0081,D005,Gastritis,Shortness of breath,2025-03-16,Moderate,Patient evaluated during consultation.
+MR1206,P164,A1524,D001,Thyroid Disorder,Fever and body pain,2026-07-08,Moderate,Patient evaluated during consultation.
+MR1207,P100,A0008,D004,Asthma,Shortness of breath,2025-03-31,Moderate,Patient evaluated during consultation.
+MR1208,P093,A1442,D002,Anemia,Joint pain,2025-03-22,Moderate,Patient evaluated during consultation.
+MR1209,P291,A0324,D004,Vitamin D Deficiency,Increased thirst,2026-12-22,Mild,Patient evaluated during consultation.
+MR1210,P294,A0601,D004,Migraine,Cough and cold,2025-03-04,Moderate,Patient evaluated during consultation.
+MR1211,P168,A0462,D001,Arthritis,Increased thirst,2025-10-07,Severe,Patient evaluated during consultation.
+MR1212,P134,A1106,D003,Hypertension,Headache and fatigue,2025-06-17,Severe,Patient evaluated during consultation.
+MR1213,P106,A0421,D003,Asthma,Increased thirst,2026-10-04,Severe,Patient evaluated during consultation.
+MR1214,P286,A1624,D004,Respiratory Infection,Cough and cold,2025-10-22,Severe,Patient evaluated during consultation.
+MR1215,P041,A1720,D002,Common Cold,Fever and body pain,2026-10-20,Severe,Patient evaluated during consultation.
+MR1216,P176,A1500,D003,Migraine,Headache and fatigue,2025-11-22,Severe,Patient evaluated during consultation.
+MR1217,P250,A0294,D001,Anemia,Abdominal discomfort,2026-05-01,Moderate,Patient evaluated during consultation.
+MR1218,P173,A1881,D002,Gastritis,Joint pain,2025-02-05,Mild,Patient evaluated during consultation.
+MR1219,P025,A1143,D002,Fever,Abdominal discomfort,2026-04-25,Mild,Patient evaluated during consultation.
+MR1220,P259,A0475,D003,Migraine,Fever and body pain,2025-08-10,Mild,Patient evaluated during consultation.
+MR1221,P070,A1454,D003,Asthma,Headache and fatigue,2025-05-05,Severe,Patient evaluated during consultation.
+MR1222,P078,A1245,D002,Diabetes,Fever and body pain,2026-08-04,Mild,Patient evaluated during consultation.
+MR1223,P277,A1834,D002,Diabetes,Abdominal discomfort,2025-05-27,Moderate,Patient evaluated during consultation.
+MR1224,P191,A1413,D003,Arthritis,Increased thirst,2025-08-15,Moderate,Patient evaluated during consultation.
+MR1225,P156,A1091,D001,Common Cold,Increased thirst,2026-10-29,Mild,Patient evaluated during consultation.
+MR1226,P286,A0473,D005,Anemia,Headache and fatigue,2026-04-29,Moderate,Patient evaluated during consultation.
+MR1227,P100,A0543,D005,Thyroid Disorder,Shortness of breath,2025-05-11,Moderate,Patient evaluated during consultation.
+MR1228,P291,A0701,D001,Diabetes,High blood pressure,2025-10-10,Moderate,Patient evaluated during consultation.
+MR1229,P082,A1566,D005,Gastritis,Fever and body pain,2026-01-04,Mild,Patient evaluated during consultation.
+MR1230,P238,A1714,D002,Diabetes,Headache and fatigue,2025-06-05,Mild,Patient evaluated during consultation.
+MR1231,P254,A1812,D004,Gastritis,Fever and body pain,2026-07-29,Severe,Patient evaluated during consultation.
+MR1232,P198,A1891,D002,Migraine,Dizziness,2025-09-24,Mild,Patient evaluated during consultation.
+MR1233,P065,A0962,D005,Migraine,Cough and cold,2026-01-20,Moderate,Patient evaluated during consultation.
+MR1234,P063,A0768,D002,Respiratory Infection,Increased thirst,2025-02-18,Moderate,Patient evaluated during consultation.
+MR1235,P065,A0117,D001,Diabetes,Abdominal discomfort,2026-01-31,Moderate,Patient evaluated during consultation.
+MR1236,P036,A1751,D001,Gastritis,Cough and cold,2025-08-01,Severe,Patient evaluated during consultation.
+MR1237,P280,A0365,D002,Common Cold,Shortness of breath,2026-12-28,Severe,Patient evaluated during consultation.
+MR1238,P219,A1594,D001,Gastritis,Cough and cold,2026-09-27,Mild,Patient evaluated during consultation.
+MR1239,P137,A0584,D002,Diabetes,Cough and cold,2026-03-01,Mild,Patient evaluated during consultation.
+MR1240,P112,A0370,D004,Fever,Joint pain,2026-09-01,Mild,Patient evaluated during consultation.
+MR1241,P206,A0750,D004,Respiratory Infection,Increased thirst,2025-05-03,Mild,Patient evaluated during consultation.
+MR1242,P232,A0867,D004,Hypertension,Joint pain,2025-06-01,Severe,Patient evaluated during consultation.
+MR1243,P256,A1769,D001,Common Cold,Shortness of breath,2026-01-04,Severe,Patient evaluated during consultation.
+MR1244,P265,A0414,D003,Common Cold,Increased thirst,2025-12-11,Severe,Patient evaluated during consultation.
+MR1245,P073,A1102,D001,Diabetes,Shortness of breath,2025-06-26,Moderate,Patient evaluated during consultation.
+MR1246,P239,A1286,D002,Arthritis,Dizziness,2026-07-14,Mild,Patient evaluated during consultation.
+MR1247,P168,A1290,D005,Arthritis,Dizziness,2025-05-01,Moderate,Patient evaluated during consultation.
+MR1248,P055,A0498,D001,Asthma,Shortness of breath,2025-04-03,Mild,Patient evaluated during consultation.
+MR1249,P284,A0452,D002,Gastritis,Dizziness,2026-12-04,Severe,Patient evaluated during consultation.
+MR1250,P039,A0027,D002,Migraine,Increased thirst,2025-01-21,Severe,Patient evaluated during consultation.
+MR1251,P075,A0315,D002,Arthritis,Increased thirst,2026-09-13,Mild,Patient evaluated during consultation.
+MR1252,P107,A1949,D003,Diabetes,Headache and fatigue,2025-12-01,Mild,Patient evaluated during consultation.
+MR1253,P290,A1912,D002,Migraine,Joint pain,2025-05-12,Severe,Patient evaluated during consultation.
+MR1254,P276,A1924,D004,Migraine,Cough and cold,2025-08-06,Moderate,Patient evaluated during consultation.
+MR1255,P095,A0759,D001,Respiratory Infection,Joint pain,2025-04-24,Moderate,Patient evaluated during consultation.
+MR1256,P065,A0962,D005,Anemia,Joint pain,2026-01-20,Severe,Patient evaluated during consultation.
+MR1257,P291,A0880,D004,Asthma,Fever and body pain,2026-09-22,Moderate,Patient evaluated during consultation.
+MR1258,P092,A1109,D005,Migraine,Headache and fatigue,2026-08-14,Mild,Patient evaluated during consultation.
+MR1259,P201,A1622,D003,Anemia,Fever and body pain,2026-06-27,Moderate,Patient evaluated during consultation.
+MR1260,P225,A1379,D001,Thyroid Disorder,Fever and body pain,2026-09-04,Mild,Patient evaluated during consultation.
+MR1261,P052,A1537,D003,Hypertension,Shortness of breath,2026-06-04,Severe,Patient evaluated during consultation.
+MR1262,P262,A0321,D001,Vitamin D Deficiency,Dizziness,2025-03-20,Mild,Patient evaluated during consultation.
+MR1263,P027,A1430,D005,Anemia,Headache and fatigue,2025-06-20,Moderate,Patient evaluated during consultation.
+MR1264,P185,A0431,D004,Asthma,Increased thirst,2026-12-23,Moderate,Patient evaluated during consultation.
+MR1265,P094,A1296,D002,Gastritis,High blood pressure,2026-09-14,Mild,Patient evaluated during consultation.
+MR1266,P221,A0333,D004,Arthritis,High blood pressure,2026-02-27,Severe,Patient evaluated during consultation.
+MR1267,P220,A1204,D002,Arthritis,High blood pressure,2026-10-30,Moderate,Patient evaluated during consultation.
+MR1268,P225,A1379,D001,Common Cold,Joint pain,2026-09-04,Severe,Patient evaluated during consultation.
+MR1269,P272,A1210,D004,Diabetes,Dizziness,2025-11-07,Severe,Patient evaluated during consultation.
+MR1270,P146,A1567,D005,Respiratory Infection,Increased thirst,2026-04-11,Severe,Patient evaluated during consultation.
+MR1271,P096,A0841,D004,Thyroid Disorder,Fever and body pain,2026-01-12,Severe,Patient evaluated during consultation.
+MR1272,P130,A0549,D002,Respiratory Infection,Cough and cold,2025-11-21,Severe,Patient evaluated during consultation.
+MR1273,P121,A1550,D005,Hypertension,Cough and cold,2025-06-11,Severe,Patient evaluated during consultation.
+MR1274,P189,A0149,D002,Vitamin D Deficiency,Abdominal discomfort,2025-03-23,Mild,Patient evaluated during consultation.
+MR1275,P203,A1750,D005,Thyroid Disorder,Joint pain,2026-06-24,Mild,Patient evaluated during consultation.
+MR1276,P080,A1666,D004,Diabetes,Increased thirst,2025-05-22,Mild,Patient evaluated during consultation.
+MR1277,P106,A0746,D003,Common Cold,Headache and fatigue,2026-05-10,Mild,Patient evaluated during consultation.
+MR1278,P032,A0363,D003,Migraine,Cough and cold,2026-12-04,Severe,Patient evaluated during consultation.
+MR1279,P092,A1903,D004,Diabetes,Abdominal discomfort,2025-02-17,Mild,Patient evaluated during consultation.
+MR1280,P037,A1795,D003,Respiratory Infection,Increased thirst,2026-05-03,Moderate,Patient evaluated during consultation.
+MR1281,P211,A1369,D003,Fever,Fever and body pain,2026-05-24,Moderate,Patient evaluated during consultation.
+MR1282,P150,A0780,D005,Diabetes,Increased thirst,2026-01-09,Mild,Patient evaluated during consultation.
+MR1283,P084,A0188,D001,Common Cold,Shortness of breath,2025-01-11,Severe,Patient evaluated during consultation.
+MR1284,P071,A0668,D003,Hypertension,Increased thirst,2026-12-11,Moderate,Patient evaluated during consultation.
+MR1285,P267,A1209,D001,Diabetes,Increased thirst,2026-03-26,Moderate,Patient evaluated during consultation.
+MR1286,P233,A0546,D003,Arthritis,Abdominal discomfort,2025-12-24,Mild,Patient evaluated during consultation.
+MR1287,P256,A0839,D001,Thyroid Disorder,Dizziness,2025-03-15,Moderate,Patient evaluated during consultation.
+MR1288,P123,A1260,D005,Anemia,Cough and cold,2026-08-21,Moderate,Patient evaluated during consultation.
+MR1289,P027,A0236,D003,Hypertension,Increased thirst,2025-05-31,Severe,Patient evaluated during consultation.
+MR1290,P231,A0194,D005,Thyroid Disorder,Cough and cold,2026-01-03,Mild,Patient evaluated during consultation.
+MR1291,P140,A1275,D003,Arthritis,Cough and cold,2026-01-17,Moderate,Patient evaluated during consultation.
+MR1292,P195,A1472,D003,Vitamin D Deficiency,Abdominal discomfort,2026-10-29,Mild,Patient evaluated during consultation.
+MR1293,P197,A0208,D002,Hypertension,Dizziness,2026-06-20,Mild,Patient evaluated during consultation.
+MR1294,P092,A0624,D002,Vitamin D Deficiency,Cough and cold,2025-05-26,Moderate,Patient evaluated during consultation.
+MR1295,P260,A0085,D002,Anemia,High blood pressure,2025-11-05,Moderate,Patient evaluated during consultation.
+MR1296,P069,A1875,D005,Thyroid Disorder,Dizziness,2025-10-25,Mild,Patient evaluated during consultation.
+MR1297,P276,A1708,D002,Migraine,Joint pain,2025-03-27,Moderate,Patient evaluated during consultation.
+MR1298,P040,A0522,D001,Diabetes,Joint pain,2026-07-22,Severe,Patient evaluated during consultation.
+MR1299,P097,A0998,D002,Arthritis,Cough and cold,2026-08-26,Mild,Patient evaluated during consultation.
+MR1300,P245,A0285,D001,Vitamin D Deficiency,Fever and body pain,2026-07-08,Mild,Patient evaluated during consultation.
+MR1301,P214,A0079,D003,Migraine,Joint pain,2025-10-21,Severe,Patient evaluated during consultation.
+MR1302,P175,A0111,D003,Anemia,Fever and body pain,2026-09-21,Mild,Patient evaluated during consultation.
+MR1303,P300,A1449,D002,Thyroid Disorder,Dizziness,2025-11-27,Moderate,Patient evaluated during consultation.
+MR1304,P048,A1176,D001,Fever,Fever and body pain,2025-07-16,Mild,Patient evaluated during consultation.
+MR1305,P186,A1694,D001,Common Cold,Headache and fatigue,2026-10-24,Severe,Patient evaluated during consultation.
+MR1306,P038,A1790,D001,Hypertension,Fever and body pain,2025-03-02,Mild,Patient evaluated during consultation.
+MR1307,P294,A0601,D004,Hypertension,High blood pressure,2025-03-04,Severe,Patient evaluated during consultation.
+MR1308,P249,A1117,D005,Gastritis,Fever and body pain,2025-11-17,Mild,Patient evaluated during consultation.
+MR1309,P239,A1947,D002,Asthma,Abdominal discomfort,2025-07-03,Mild,Patient evaluated during consultation.
+MR1310,P133,A1056,D005,Gastritis,Cough and cold,2025-12-09,Severe,Patient evaluated during consultation.
+MR1311,P228,A1861,D005,Vitamin D Deficiency,Joint pain,2025-08-03,Moderate,Patient evaluated during consultation.
+MR1312,P192,A0066,D003,Respiratory Infection,Headache and fatigue,2025-03-02,Severe,Patient evaluated during consultation.
+MR1313,P126,A0910,D001,Asthma,Abdominal discomfort,2025-10-24,Severe,Patient evaluated during consultation.
+MR1314,P192,A1024,D002,Asthma,Headache and fatigue,2025-11-12,Severe,Patient evaluated during consultation.
+MR1315,P164,A1524,D001,Arthritis,High blood pressure,2026-07-08,Severe,Patient evaluated during consultation.
+MR1316,P254,A0843,D005,Respiratory Infection,Joint pain,2026-04-16,Severe,Patient evaluated during consultation.
+MR1317,P259,A1854,D005,Respiratory Infection,Fever and body pain,2025-01-19,Mild,Patient evaluated during consultation.
+MR1318,P173,A1881,D002,Vitamin D Deficiency,Headache and fatigue,2025-02-05,Mild,Patient evaluated during consultation.
+MR1319,P039,A0330,D004,Fever,Dizziness,2025-12-10,Mild,Patient evaluated during consultation.
+MR1320,P038,A0555,D005,Common Cold,Shortness of breath,2025-07-31,Moderate,Patient evaluated during consultation.
+MR1321,P289,A1424,D003,Migraine,Dizziness,2025-08-16,Moderate,Patient evaluated during consultation.
+MR1322,P116,A0534,D001,Gastritis,Dizziness,2026-12-23,Severe,Patient evaluated during consultation.
+MR1323,P281,A1676,D002,Thyroid Disorder,Abdominal discomfort,2025-01-05,Mild,Patient evaluated during consultation.
+MR1324,P183,A1126,D003,Respiratory Infection,Dizziness,2026-01-03,Moderate,Patient evaluated during consultation.
+MR1325,P150,A0780,D005,Common Cold,High blood pressure,2026-01-09,Mild,Patient evaluated during consultation.
+MR1326,P160,A0786,D001,Vitamin D Deficiency,Cough and cold,2025-02-01,Mild,Patient evaluated during consultation.
+MR1327,P032,A0341,D002,Diabetes,Shortness of breath,2025-01-06,Moderate,Patient evaluated during consultation.
+MR1328,P091,A0244,D005,Arthritis,Joint pain,2026-05-12,Mild,Patient evaluated during consultation.
+MR1329,P023,A0454,D004,Migraine,Abdominal discomfort,2026-01-17,Severe,Patient evaluated during consultation.
+MR1330,P001,A0625,D004,Respiratory Infection,Fever and body pain,2026-09-07,Severe,Patient evaluated during consultation.
+MR1331,P183,A0712,D002,Respiratory Infection,Headache and fatigue,2026-01-01,Mild,Patient evaluated during consultation.
+MR1332,P191,A1413,D003,Anemia,Shortness of breath,2025-08-15,Severe,Patient evaluated during consultation.
+MR1333,P165,A0971,D003,Gastritis,Joint pain,2025-10-20,Moderate,Patient evaluated during consultation.
+MR1334,P123,A1144,D001,Asthma,Shortness of breath,2026-09-13,Mild,Patient evaluated during consultation.
+MR1335,P024,A0433,D003,Gastritis,Fever and body pain,2025-06-30,Moderate,Patient evaluated during consultation.
+MR1336,P203,A1033,D001,Vitamin D Deficiency,Increased thirst,2025-02-02,Moderate,Patient evaluated during consultation.
+MR1337,P088,A0512,D003,Anemia,Fever and body pain,2026-08-07,Mild,Patient evaluated during consultation.
+MR1338,P143,A0933,D002,Anemia,Headache and fatigue,2026-12-27,Moderate,Patient evaluated during consultation.
+MR1339,P211,A0854,D002,Migraine,High blood pressure,2025-11-10,Severe,Patient evaluated during consultation.
+MR1340,P057,A0276,D002,Vitamin D Deficiency,High blood pressure,2025-11-09,Moderate,Patient evaluated during consultation.
+MR1341,P282,A1301,D002,Vitamin D Deficiency,Shortness of breath,2026-08-03,Moderate,Patient evaluated during consultation.
+MR1342,P192,A0853,D005,Thyroid Disorder,Headache and fatigue,2026-12-02,Severe,Patient evaluated during consultation.
+MR1343,P254,A1578,D003,Common Cold,Joint pain,2026-05-23,Severe,Patient evaluated during consultation.
+MR1344,P234,A1859,D005,Hypertension,Cough and cold,2025-12-11,Severe,Patient evaluated during consultation.
+MR1345,P170,A1905,D001,Diabetes,Dizziness,2026-09-14,Severe,Patient evaluated during consultation.
+MR1346,P096,A1134,D004,Anemia,Fever and body pain,2025-08-23,Moderate,Patient evaluated during consultation.
+MR1347,P023,A0644,D001,Migraine,Fever and body pain,2026-12-20,Severe,Patient evaluated during consultation.
+MR1348,P060,A1417,D001,Anemia,Cough and cold,2026-03-18,Moderate,Patient evaluated during consultation.
+MR1349,P165,A1322,D005,Thyroid Disorder,Increased thirst,2026-09-23,Moderate,Patient evaluated during consultation.
+MR1350,P148,A1726,D003,Diabetes,High blood pressure,2025-04-26,Moderate,Patient evaluated during consultation.
+MR1351,P078,A1888,D002,Asthma,Cough and cold,2025-08-02,Mild,Patient evaluated during consultation.
+MR1352,P131,A1662,D004,Migraine,Increased thirst,2026-04-16,Moderate,Patient evaluated during consultation.
+MR1353,P166,A1615,D001,Hypertension,Increased thirst,2025-05-16,Mild,Patient evaluated during consultation.
+MR1354,P022,A1696,D005,Gastritis,Joint pain,2025-05-30,Mild,Patient evaluated during consultation.
+MR1355,P262,A1007,D002,Thyroid Disorder,Fever and body pain,2026-06-13,Mild,Patient evaluated during consultation.
+MR1356,P108,A1815,D001,Diabetes,Fever and body pain,2025-03-22,Mild,Patient evaluated during consultation.
+MR1357,P177,A0537,D001,Asthma,Cough and cold,2025-11-04,Mild,Patient evaluated during consultation.
+MR1358,P093,A0564,D005,Diabetes,Dizziness,2025-10-08,Moderate,Patient evaluated during consultation.
+MR1359,P172,A1496,D002,Diabetes,Headache and fatigue,2025-11-12,Severe,Patient evaluated during consultation.
+MR1360,P069,A1303,D004,Vitamin D Deficiency,Cough and cold,2026-12-05,Severe,Patient evaluated during consultation.
+MR1361,P078,A0087,D004,Migraine,Increased thirst,2025-01-13,Moderate,Patient evaluated during consultation.
+MR1362,P143,A1760,D003,Anemia,Cough and cold,2026-10-13,Severe,Patient evaluated during consultation.
+MR1363,P052,A0280,D003,Hypertension,Cough and cold,2026-02-18,Mild,Patient evaluated during consultation.
+MR1364,P088,A1016,D005,Asthma,Cough and cold,2026-07-16,Moderate,Patient evaluated during consultation.
+MR1365,P101,A0728,D002,Gastritis,Fever and body pain,2025-09-27,Severe,Patient evaluated during consultation.
+MR1366,P162,A1536,D001,Diabetes,Abdominal discomfort,2025-03-23,Moderate,Patient evaluated during consultation.
+MR1367,P284,A0699,D004,Vitamin D Deficiency,Fever and body pain,2025-07-18,Severe,Patient evaluated during consultation.
+MR1368,P286,A0496,D003,Migraine,Increased thirst,2025-09-29,Mild,Patient evaluated during consultation.
+MR1369,P105,A0869,D004,Vitamin D Deficiency,Increased thirst,2026-04-29,Mild,Patient evaluated during consultation.
+MR1370,P112,A0444,D001,Diabetes,Headache and fatigue,2026-11-09,Severe,Patient evaluated during consultation.
+MR1371,P091,A1930,D002,Anemia,Joint pain,2025-11-03,Mild,Patient evaluated during consultation.
+MR1372,P110,A0500,D002,Diabetes,Increased thirst,2026-07-07,Severe,Patient evaluated during consultation.
+MR1373,P161,A1402,D001,Asthma,Headache and fatigue,2026-06-02,Severe,Patient evaluated during consultation.
+MR1374,P294,A1741,D003,Respiratory Infection,Shortness of breath,2026-07-23,Mild,Patient evaluated during consultation.
+MR1375,P155,A0154,D001,Fever,Cough and cold,2026-04-23,Moderate,Patient evaluated during consultation.
+MR1376,P050,A0387,D004,Thyroid Disorder,Dizziness,2025-02-28,Mild,Patient evaluated during consultation.
+MR1377,P058,A1251,D004,Respiratory Infection,Abdominal discomfort,2026-08-31,Mild,Patient evaluated during consultation.
+MR1378,P145,A1401,D003,Gastritis,Fever and body pain,2026-02-12,Moderate,Patient evaluated during consultation.
+MR1379,P202,A1269,D002,Gastritis,Headache and fatigue,2025-03-28,Mild,Patient evaluated during consultation.
+MR1380,P289,A0743,D002,Diabetes,Abdominal discomfort,2025-08-01,Mild,Patient evaluated during consultation.
+MR1381,P129,A1532,D005,Migraine,Abdominal discomfort,2025-04-04,Moderate,Patient evaluated during consultation.
+MR1382,P094,A1342,D003,Migraine,Headache and fatigue,2025-05-30,Moderate,Patient evaluated during consultation.
+MR1383,P091,A1195,D002,Gastritis,Cough and cold,2026-04-24,Mild,Patient evaluated during consultation.
+MR1384,P277,A1464,D003,Respiratory Infection,Fever and body pain,2025-08-13,Moderate,Patient evaluated during consultation.
+MR1385,P108,A1287,D005,Common Cold,Headache and fatigue,2025-05-10,Mild,Patient evaluated during consultation.
+MR1386,P002,A1705,D002,Common Cold,Cough and cold,2025-01-26,Severe,Patient evaluated during consultation.
+MR1387,P133,A1520,D001,Arthritis,Fever and body pain,2026-07-14,Mild,Patient evaluated during consultation.
+MR1388,P167,A1758,D001,Anemia,High blood pressure,2026-06-07,Severe,Patient evaluated during consultation.
+MR1389,P068,A1837,D005,Fever,Shortness of breath,2025-04-14,Severe,Patient evaluated during consultation.
+MR1390,P013,A1773,D003,Fever,Headache and fatigue,2026-09-01,Mild,Patient evaluated during consultation.
+MR1391,P138,A1832,D003,Vitamin D Deficiency,Dizziness,2025-04-21,Severe,Patient evaluated during consultation.
+MR1392,P130,A0560,D004,Arthritis,Headache and fatigue,2026-09-16,Moderate,Patient evaluated during consultation.
+MR1393,P043,A0481,D005,Respiratory Infection,Headache and fatigue,2026-01-18,Mild,Patient evaluated during consultation.
+MR1394,P191,A1855,D003,Gastritis,Dizziness,2026-08-20,Severe,Patient evaluated during consultation.
+MR1395,P123,A0744,D003,Respiratory Infection,Fever and body pain,2026-10-17,Moderate,Patient evaluated during consultation.
+MR1396,P037,A1548,D003,Asthma,Shortness of breath,2026-05-13,Severe,Patient evaluated during consultation.
+MR1397,P060,A1411,D003,Asthma,Cough and cold,2025-09-29,Moderate,Patient evaluated during consultation.
+MR1398,P214,A1462,D001,Anemia,Shortness of breath,2026-04-24,Severe,Patient evaluated during consultation.
+MR1399,P288,A0419,D001,Common Cold,Fever and body pain,2025-04-04,Mild,Patient evaluated during consultation.
+MR1400,P029,A0361,D004,Diabetes,Dizziness,2026-09-13,Mild,Patient evaluated during consultation.
+MR1401,P198,A1385,D001,Fever,Joint pain,2026-11-05,Mild,Patient evaluated during consultation.
+MR1402,P127,A1069,D003,Common Cold,High blood pressure,2025-03-30,Moderate,Patient evaluated during consultation.
+MR1403,P055,A0890,D004,Fever,Shortness of breath,2025-01-25,Moderate,Patient evaluated during consultation.
+MR1404,P094,A1123,D004,Anemia,Headache and fatigue,2025-11-17,Mild,Patient evaluated during consultation.
+MR1405,P257,A0245,D001,Gastritis,Shortness of breath,2025-03-21,Moderate,Patient evaluated during consultation.
+MR1406,P192,A0066,D003,Asthma,Headache and fatigue,2025-03-02,Mild,Patient evaluated during consultation.
+MR1407,P063,A1416,D002,Migraine,Joint pain,2026-02-08,Moderate,Patient evaluated during consultation.
+MR1408,P131,A1383,D004,Fever,Abdominal discomfort,2026-07-07,Mild,Patient evaluated during consultation.
+MR1409,P164,A0118,D002,Hypertension,Abdominal discomfort,2025-11-05,Moderate,Patient evaluated during consultation.
+MR1410,P182,A0429,D005,Asthma,Cough and cold,2026-07-11,Moderate,Patient evaluated during consultation.
+MR1411,P275,A0275,D002,Diabetes,Fever and body pain,2026-02-05,Mild,Patient evaluated during consultation.
+MR1412,P150,A0138,D003,Fever,Increased thirst,2025-05-30,Severe,Patient evaluated during consultation.
+MR1413,P115,A0659,D001,Common Cold,Abdominal discomfort,2025-10-25,Moderate,Patient evaluated during consultation.
+MR1414,P118,A0627,D003,Common Cold,Increased thirst,2025-04-26,Severe,Patient evaluated during consultation.
+MR1415,P122,A0643,D003,Common Cold,Increased thirst,2026-01-18,Mild,Patient evaluated during consultation.
+MR1416,P044,A0908,D005,Anemia,Dizziness,2026-03-05,Severe,Patient evaluated during consultation.
+MR1417,P101,A1093,D002,Migraine,Cough and cold,2025-08-26,Moderate,Patient evaluated during consultation.
+MR1418,P030,A1111,D002,Arthritis,Fever and body pain,2026-11-17,Moderate,Patient evaluated during consultation.
+MR1419,P066,A1995,D005,Anemia,Dizziness,2025-11-20,Mild,Patient evaluated during consultation.
+MR1420,P006,A1689,D005,Asthma,High blood pressure,2026-12-29,Mild,Patient evaluated during consultation.
+MR1421,P016,A0448,D002,Diabetes,Joint pain,2025-01-14,Moderate,Patient evaluated during consultation.
+MR1422,P202,A0687,D003,Anemia,Fever and body pain,2026-01-17,Moderate,Patient evaluated during consultation.
+MR1423,P046,A0293,D005,Fever,Joint pain,2025-09-13,Severe,Patient evaluated during consultation.
+MR1424,P257,A1906,D001,Thyroid Disorder,Fever and body pain,2025-12-25,Moderate,Patient evaluated during consultation.
+MR1425,P240,A1359,D003,Diabetes,Shortness of breath,2026-10-19,Mild,Patient evaluated during consultation.
+MR1426,P298,A1547,D001,Thyroid Disorder,Dizziness,2025-03-07,Severe,Patient evaluated during consultation.
+MR1427,P131,A1327,D001,Fever,Joint pain,2026-11-18,Moderate,Patient evaluated during consultation.
+MR1428,P071,A1009,D005,Common Cold,Shortness of breath,2026-12-19,Mild,Patient evaluated during consultation.
+MR1429,P029,A1958,D005,Fever,Abdominal discomfort,2026-11-12,Mild,Patient evaluated during consultation.
+MR1430,P201,A1622,D003,Vitamin D Deficiency,Fever and body pain,2026-06-27,Mild,Patient evaluated during consultation.
+MR1431,P299,A1895,D004,Respiratory Infection,Shortness of breath,2025-06-23,Severe,Patient evaluated during consultation.
+MR1432,P180,A0507,D003,Anemia,Abdominal discomfort,2026-12-10,Moderate,Patient evaluated during consultation.
+MR1433,P049,A1268,D004,Asthma,Increased thirst,2026-10-12,Mild,Patient evaluated during consultation.
+MR1434,P202,A0213,D005,Gastritis,Headache and fatigue,2026-01-25,Mild,Patient evaluated during consultation.
+MR1435,P022,A0092,D001,Arthritis,Increased thirst,2026-08-12,Moderate,Patient evaluated during consultation.
+MR1436,P167,A0268,D002,Common Cold,High blood pressure,2025-01-26,Moderate,Patient evaluated during consultation.
+MR1437,P061,A1933,D002,Vitamin D Deficiency,High blood pressure,2025-01-05,Severe,Patient evaluated during consultation.
+MR1438,P194,A1576,D001,Thyroid Disorder,Increased thirst,2025-09-24,Severe,Patient evaluated during consultation.
+MR1439,P074,A1635,D004,Arthritis,Increased thirst,2026-08-23,Severe,Patient evaluated during consultation.
+MR1440,P237,A0688,D002,Arthritis,Increased thirst,2026-03-06,Moderate,Patient evaluated during consultation.
+MR1441,P061,A1991,D001,Thyroid Disorder,Fever and body pain,2026-10-27,Mild,Patient evaluated during consultation.
+MR1442,P143,A1324,D002,Common Cold,Increased thirst,2026-08-25,Severe,Patient evaluated during consultation.
+MR1443,P074,A1018,D001,Vitamin D Deficiency,Joint pain,2026-01-17,Moderate,Patient evaluated during consultation.
+MR1444,P117,A0162,D003,Anemia,Dizziness,2026-03-10,Moderate,Patient evaluated during consultation.
+MR1445,P271,A1713,D001,Thyroid Disorder,Increased thirst,2026-10-20,Severe,Patient evaluated during consultation.
+MR1446,P189,A0588,D004,Common Cold,Dizziness,2026-08-23,Mild,Patient evaluated during consultation.
+MR1447,P258,A0489,D002,Asthma,Abdominal discomfort,2026-01-21,Severe,Patient evaluated during consultation.
+MR1448,P090,A1857,D003,Arthritis,Dizziness,2025-09-17,Mild,Patient evaluated during consultation.
+MR1449,P182,A1208,D004,Fever,Cough and cold,2025-06-18,Mild,Patient evaluated during consultation.
+MR1450,P185,A0431,D004,Asthma,Shortness of breath,2026-12-23,Moderate,Patient evaluated during consultation.
+MR1451,P133,A0788,D005,Respiratory Infection,Dizziness,2026-08-31,Moderate,Patient evaluated during consultation.
+MR1452,P247,A0985,D005,Migraine,Shortness of breath,2025-01-04,Severe,Patient evaluated during consultation.
+MR1453,P039,A0027,D002,Diabetes,Shortness of breath,2025-01-21,Moderate,Patient evaluated during consultation.
+MR1454,P047,A1761,D003,Asthma,Dizziness,2026-06-29,Moderate,Patient evaluated during consultation.
+MR1455,P203,A0456,D005,Respiratory Infection,Dizziness,2026-11-05,Severe,Patient evaluated during consultation.
+MR1456,P174,A0808,D002,Migraine,High blood pressure,2026-02-10,Severe,Patient evaluated during consultation.
+MR1457,P178,A1171,D005,Thyroid Disorder,Headache and fatigue,2025-12-05,Moderate,Patient evaluated during consultation.
+MR1458,P232,A0022,D001,Respiratory Infection,Headache and fatigue,2026-10-19,Moderate,Patient evaluated during consultation.
+MR1459,P257,A1906,D001,Vitamin D Deficiency,Increased thirst,2025-12-25,Mild,Patient evaluated during consultation.
+MR1460,P284,A0699,D004,Fever,Headache and fatigue,2025-07-18,Mild,Patient evaluated during consultation.
+MR1461,P240,A1080,D001,Fever,Increased thirst,2025-03-12,Moderate,Patient evaluated during consultation.
+MR1462,P063,A0580,D002,Respiratory Infection,High blood pressure,2026-03-16,Severe,Patient evaluated during consultation.
+MR1463,P205,A1468,D003,Arthritis,Dizziness,2026-07-10,Severe,Patient evaluated during consultation.
+MR1464,P229,A1219,D001,Vitamin D Deficiency,Increased thirst,2025-06-23,Severe,Patient evaluated during consultation.
+MR1465,P087,A1554,D002,Diabetes,Dizziness,2025-03-31,Severe,Patient evaluated during consultation.
+MR1466,P279,A1678,D004,Thyroid Disorder,Dizziness,2026-04-06,Mild,Patient evaluated during consultation.
+MR1467,P193,A0311,D005,Diabetes,Abdominal discomfort,2025-12-16,Mild,Patient evaluated during consultation.
+MR1468,P283,A0443,D003,Gastritis,Abdominal discomfort,2025-11-02,Severe,Patient evaluated during consultation.
+MR1469,P106,A1451,D003,Respiratory Infection,Abdominal discomfort,2025-10-17,Moderate,Patient evaluated during consultation.
+MR1470,P172,A0183,D005,Vitamin D Deficiency,Increased thirst,2026-10-31,Severe,Patient evaluated during consultation.
+MR1471,P063,A0965,D005,Migraine,Headache and fatigue,2025-10-23,Severe,Patient evaluated during consultation.
+MR1472,P060,A1417,D001,Fever,Joint pain,2026-03-18,Mild,Patient evaluated during consultation.
+MR1473,P295,A0310,D003,Migraine,Fever and body pain,2026-05-27,Moderate,Patient evaluated during consultation.
+MR1474,P174,A1139,D004,Asthma,Fever and body pain,2026-01-26,Mild,Patient evaluated during consultation.
+MR1475,P080,A0325,D001,Thyroid Disorder,Increased thirst,2025-07-14,Mild,Patient evaluated during consultation.
+MR1476,P129,A1671,D001,Anemia,Dizziness,2025-08-18,Severe,Patient evaluated during consultation.
+MR1477,P017,A0892,D004,Arthritis,Cough and cold,2026-05-19,Moderate,Patient evaluated during consultation.
+MR1478,P281,A1676,D002,Gastritis,Cough and cold,2025-01-05,Mild,Patient evaluated during consultation.
+MR1479,P154,A0037,D004,Thyroid Disorder,Dizziness,2025-10-25,Moderate,Patient evaluated during consultation.
+MR1480,P089,A0656,D005,Arthritis,Abdominal discomfort,2026-10-23,Severe,Patient evaluated during consultation.
+MR1481,P034,A0423,D004,Diabetes,Cough and cold,2026-05-24,Severe,Patient evaluated during consultation.
+MR1482,P146,A1921,D003,Common Cold,Shortness of breath,2026-11-07,Severe,Patient evaluated during consultation.
+MR1483,P115,A1919,D002,Arthritis,Abdominal discomfort,2025-11-20,Moderate,Patient evaluated during consultation.
+MR1484,P264,A1607,D005,Vitamin D Deficiency,Abdominal discomfort,2025-04-30,Moderate,Patient evaluated during consultation.
+MR1485,P177,A0282,D003,Respiratory Infection,Headache and fatigue,2025-05-30,Severe,Patient evaluated during consultation.
+MR1486,P123,A1260,D005,Fever,Abdominal discomfort,2026-08-21,Severe,Patient evaluated during consultation.
+MR1487,P248,A0343,D003,Diabetes,Shortness of breath,2026-06-26,Moderate,Patient evaluated during consultation.
+MR1488,P280,A0384,D004,Vitamin D Deficiency,Headache and fatigue,2025-04-27,Severe,Patient evaluated during consultation.
+MR1489,P127,A1258,D005,Common Cold,Headache and fatigue,2025-02-26,Moderate,Patient evaluated during consultation.
+MR1490,P031,A1730,D002,Vitamin D Deficiency,Abdominal discomfort,2026-10-30,Severe,Patient evaluated during consultation.
+MR1491,P209,A1543,D004,Fever,Abdominal discomfort,2026-08-14,Moderate,Patient evaluated during consultation.
+MR1492,P109,A1802,D004,Vitamin D Deficiency,Dizziness,2026-01-02,Moderate,Patient evaluated during consultation.
+MR1493,P228,A1221,D003,Arthritis,Cough and cold,2025-11-24,Mild,Patient evaluated during consultation.
+MR1494,P091,A1474,D005,Hypertension,High blood pressure,2025-05-24,Mild,Patient evaluated during consultation.
+MR1495,P066,A1190,D001,Anemia,Cough and cold,2025-01-27,Severe,Patient evaluated during consultation.
+MR1496,P131,A1383,D004,Arthritis,Joint pain,2026-07-07,Severe,Patient evaluated during consultation.
+MR1497,P288,A1732,D001,Diabetes,Dizziness,2026-09-12,Moderate,Patient evaluated during consultation.
+MR1498,P037,A1314,D003,Gastritis,Joint pain,2026-12-17,Mild,Patient evaluated during consultation.
+MR1499,P223,A0393,D002,Anemia,Abdominal discomfort,2026-12-18,Moderate,Patient evaluated during consultation.
+MR1500,P147,A0826,D002,Fever,Dizziness,2026-12-21,Mild,Patient evaluated during consultation.

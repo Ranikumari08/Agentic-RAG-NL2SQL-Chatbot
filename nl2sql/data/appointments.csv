@@ -1,0 +1,2001 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,appointment_type,status,booking_method,reason_for_visit
+A0001,P232,D003,2026-09-05,16:05,Emergency,No-show,Online,Pregnancy consultation
+A0002,P066,D003,2026-03-31,19:12,Follow-up,Cancelled,Reception,Follow-up
+A0003,P182,D005,2026-06-16,09:48,Emergency,Completed,Reception,Routine checkup
+A0004,P127,D003,2025-07-11,01:00,Consultation,Scheduled,Online,Blood pressure check
+A0005,P094,D005,2025-12-17,04:23,Emergency,Cancelled,Phone,Headache
+A0006,P061,D001,2025-10-04,22:02,Health Checkup,Cancelled,Online,Child health checkup
+A0007,P265,D004,2025-09-26,16:59,Health Checkup,Completed,Phone,Pregnancy consultation
+A0008,P100,D004,2025-03-31,00:09,Health Checkup,Cancelled,Online,Fever
+A0009,P155,D005,2026-07-21,21:03,Health Checkup,Completed,Online,Follow-up
+A0010,P105,D002,2025-02-19,00:50,Health Checkup,Cancelled,Reception,Blood pressure check
+A0011,P170,D002,2026-05-04,22:40,Emergency,No-show,Reception,Pregnancy consultation
+A0012,P235,D001,2026-04-07,18:00,Emergency,Scheduled,Phone,Follow-up
+A0013,P246,D002,2026-05-18,22:58,Consultation,Completed,Phone,Headache
+A0014,P076,D004,2026-06-21,20:38,Emergency,No-show,Walk-in,Diet consultation
+A0015,P037,D003,2026-09-17,00:14,Follow-up,Scheduled,Walk-in,Routine checkup
+A0016,P062,D001,2026-08-01,08:58,Health Checkup,Cancelled,Phone,Diabetes consultation
+A0017,P057,D005,2026-02-17,23:51,Follow-up,No-show,Phone,Follow-up
+A0018,P197,D003,2025-01-13,16:18,Health Checkup,Cancelled,Reception,Chest discomfort
+A0019,P245,D001,2025-06-12,12:18,Follow-up,Scheduled,Walk-in,Diabetes consultation
+A0020,P255,D005,2025-07-15,21:57,Emergency,Cancelled,Walk-in,Fever
+A0021,P084,D005,2025-02-02,19:04,Follow-up,Cancelled,Online,Child health checkup
+A0022,P232,D001,2026-10-19,19:20,Emergency,Cancelled,Walk-in,Blood pressure check
+A0023,P093,D003,2025-07-13,06:56,Consultation,Scheduled,Phone,Child health checkup
+A0024,P291,D003,2025-05-26,16:55,Emergency,Scheduled,Walk-in,Fever
+A0025,P296,D004,2026-12-30,00:27,Health Checkup,Scheduled,Phone,Pregnancy consultation
+A0026,P263,D003,2026-03-25,23:54,Consultation,Scheduled,Online,Fever
+A0027,P039,D002,2025-01-21,00:26,Health Checkup,Scheduled,Walk-in,Headache
+A0028,P080,D005,2026-08-15,16:13,Health Checkup,Cancelled,Phone,Child health checkup
+A0029,P275,D003,2026-08-29,16:46,Emergency,Scheduled,Online,Blood pressure check
+A0030,P253,D002,2026-09-01,10:18,Follow-up,Completed,Online,Follow-up
+A0031,P212,D005,2025-07-13,05:40,Follow-up,Cancelled,Online,Fever
+A0032,P028,D005,2026-06-11,04:30,Consultation,Completed,Phone,Blood pressure check
+A0033,P059,D002,2025-10-11,03:41,Health Checkup,Scheduled,Walk-in,Child health checkup
+A0034,P250,D004,2025-10-06,11:52,Health Checkup,Cancelled,Walk-in,Diet consultation
+A0035,P175,D004,2025-06-30,21:43,Emergency,Completed,Phone,Diabetes consultation
+A0036,P094,D002,2026-12-02,15:29,Health Checkup,Cancelled,Walk-in,Routine checkup
+A0037,P154,D004,2025-10-25,12:57,Follow-up,Completed,Walk-in,Chest discomfort
+A0038,P161,D004,2026-05-05,10:39,Emergency,No-show,Phone,Headache
+A0039,P074,D004,2025-06-20,23:40,Follow-up,Scheduled,Phone,Pregnancy consultation
+A0040,P050,D002,2026-11-03,15:51,Follow-up,Cancelled,Online,Routine checkup
+A0041,P052,D004,2026-04-16,01:34,Health Checkup,No-show,Walk-in,Diet consultation
+A0042,P287,D005,2025-06-22,02:00,Follow-up,Scheduled,Reception,Chest discomfort
+A0043,P281,D004,2025-11-09,23:03,Follow-up,Scheduled,Walk-in,Child health checkup
+A0044,P184,D001,2026-05-01,09:44,Follow-up,Completed,Walk-in,Diabetes consultation
+A0045,P248,D002,2026-12-09,08:23,Consultation,Completed,Online,Headache
+A0046,P165,D003,2026-10-28,08:02,Health Checkup,No-show,Walk-in,Diet consultation
+A0047,P264,D001,2026-03-16,00:21,Health Checkup,Cancelled,Phone,Diabetes consultation
+A0048,P054,D003,2026-01-20,12:23,Consultation,Scheduled,Online,Diet consultation
+A0049,P013,D004,2025-09-24,11:40,Follow-up,Completed,Walk-in,Blood pressure check
+A0050,P284,D003,2025-10-20,05:47,Emergency,Cancelled,Online,Diet consultation
+A0051,P111,D005,2025-01-25,01:20,Consultation,Scheduled,Online,Pregnancy consultation
+A0052,P135,D003,2025-09-27,22:06,Consultation,Completed,Phone,Headache
+A0053,P092,D003,2025-12-31,16:08,Follow-up,Cancelled,Reception,Diabetes consultation
+A0054,P115,D002,2026-07-28,17:04,Follow-up,No-show,Walk-in,Headache
+A0055,P182,D003,2025-10-30,21:19,Follow-up,No-show,Walk-in,Blood pressure check
+A0056,P081,D001,2025-01-12,02:53,Health Checkup,Completed,Online,Pregnancy consultation
+A0057,P264,D005,2025-12-19,06:32,Follow-up,Cancelled,Online,Diet consultation
+A0058,P268,D002,2026-11-16,12:53,Health Checkup,Cancelled,Online,Headache
+A0059,P201,D002,2025-01-29,12:38,Emergency,Cancelled,Walk-in,Fever
+A0060,P020,D005,2026-03-27,21:52,Follow-up,Cancelled,Phone,Pregnancy consultation
+A0061,P062,D002,2026-05-24,11:09,Follow-up,No-show,Phone,Fever
+A0062,P120,D002,2026-08-25,22:46,Follow-up,Cancelled,Phone,Pregnancy consultation
+A0063,P148,D001,2026-07-13,10:59,Consultation,No-show,Online,Fever
+A0064,P277,D005,2025-07-03,12:12,Emergency,Completed,Phone,Headache
+A0065,P242,D003,2026-03-31,20:15,Emergency,Cancelled,Walk-in,Pregnancy consultation
+A0066,P192,D003,2025-03-02,18:30,Follow-up,Scheduled,Walk-in,Blood pressure check
+A0067,P007,D005,2025-03-16,08:56,Consultation,Completed,Reception,Diet consultation
+A0068,P118,D004,2026-10-06,12:57,Consultation,No-show,Walk-in,Fever
+A0069,P178,D003,2025-12-05,16:11,Consultation,Cancelled,Online,Headache
+A0070,P011,D004,2026-07-30,19:32,Consultation,Cancelled,Phone,Diet consultation
+A0071,P138,D005,2025-08-24,09:11,Health Checkup,Completed,Reception,Pregnancy consultation
+A0072,P014,D003,2025-03-26,20:37,Emergency,Completed,Walk-in,Diet consultation
+A0073,P189,D001,2025-06-28,17:43,Consultation,Cancelled,Phone,Headache
+A0074,P078,D005,2025-08-17,17:42,Consultation,Completed,Walk-in,Diabetes consultation
+A0075,P192,D005,2025-03-26,19:40,Emergency,Cancelled,Online,Diabetes consultation
+A0076,P087,D005,2025-09-02,12:49,Emergency,Scheduled,Reception,Diet consultation
+A0077,P158,D002,2026-04-05,22:04,Emergency,Cancelled,Phone,Diabetes consultation
+A0078,P146,D004,2025-08-10,20:01,Consultation,Scheduled,Reception,Fever
+A0079,P214,D003,2025-10-21,07:16,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A0080,P297,D005,2025-06-04,02:09,Health Checkup,Completed,Reception,Fever
+A0081,P024,D005,2025-03-16,02:33,Emergency,No-show,Phone,Chest discomfort
+A0082,P038,D005,2026-09-03,20:12,Follow-up,Completed,Phone,Headache
+A0083,P288,D004,2025-04-12,18:12,Emergency,Cancelled,Online,Follow-up
+A0084,P026,D002,2026-09-19,21:38,Health Checkup,Scheduled,Reception,Child health checkup
+A0085,P260,D002,2025-11-05,00:31,Consultation,No-show,Reception,Diet consultation
+A0086,P090,D004,2025-12-07,20:06,Consultation,Completed,Reception,Diabetes consultation
+A0087,P078,D004,2025-01-13,14:55,Follow-up,No-show,Phone,Routine checkup
+A0088,P095,D005,2026-03-14,21:57,Health Checkup,No-show,Walk-in,Follow-up
+A0089,P104,D004,2025-10-02,19:16,Follow-up,No-show,Walk-in,Routine checkup
+A0090,P022,D002,2025-12-14,13:56,Follow-up,No-show,Walk-in,Routine checkup
+A0091,P032,D001,2025-08-22,13:50,Consultation,Completed,Walk-in,Pregnancy consultation
+A0092,P022,D001,2026-08-12,14:45,Health Checkup,No-show,Online,Blood pressure check
+A0093,P050,D003,2026-01-31,05:54,Follow-up,Completed,Reception,Headache
+A0094,P232,D001,2025-08-10,01:38,Health Checkup,No-show,Phone,Blood pressure check
+A0095,P113,D003,2025-08-24,23:56,Consultation,Scheduled,Walk-in,Diabetes consultation
+A0096,P287,D003,2026-05-29,13:24,Consultation,Scheduled,Reception,Diet consultation
+A0097,P161,D001,2026-09-20,11:52,Consultation,Completed,Walk-in,Blood pressure check
+A0098,P075,D003,2025-03-11,09:36,Emergency,No-show,Online,Follow-up
+A0099,P127,D004,2025-05-25,08:42,Health Checkup,Scheduled,Reception,Pregnancy consultation
+A0100,P196,D004,2025-08-01,00:33,Consultation,Completed,Walk-in,Routine checkup
+A0101,P262,D003,2026-04-19,14:39,Emergency,Scheduled,Phone,Pregnancy consultation
+A0102,P087,D002,2026-07-10,19:04,Follow-up,Scheduled,Phone,Blood pressure check
+A0103,P244,D003,2025-07-02,14:56,Follow-up,Scheduled,Reception,Pregnancy consultation
+A0104,P285,D003,2026-07-06,20:13,Health Checkup,No-show,Reception,Blood pressure check
+A0105,P153,D001,2026-01-31,08:52,Consultation,No-show,Walk-in,Child health checkup
+A0106,P231,D003,2025-12-31,04:01,Emergency,No-show,Phone,Blood pressure check
+A0107,P074,D005,2026-05-29,14:15,Follow-up,Completed,Reception,Child health checkup
+A0108,P098,D003,2026-10-21,18:02,Follow-up,Completed,Online,Blood pressure check
+A0109,P240,D005,2026-03-08,20:56,Follow-up,Scheduled,Reception,Pregnancy consultation
+A0110,P162,D001,2025-03-03,06:24,Health Checkup,Cancelled,Walk-in,Routine checkup
+A0111,P175,D003,2026-09-21,03:06,Emergency,Completed,Phone,Chest discomfort
+A0112,P289,D005,2025-08-21,12:40,Emergency,Cancelled,Online,Headache
+A0113,P224,D001,2025-07-27,16:02,Emergency,Cancelled,Walk-in,Routine checkup
+A0114,P034,D002,2026-10-17,21:08,Emergency,Cancelled,Walk-in,Follow-up
+A0115,P221,D002,2025-01-20,17:20,Health Checkup,Cancelled,Reception,Headache
+A0116,P182,D001,2025-08-13,11:04,Health Checkup,Completed,Reception,Diet consultation
+A0117,P065,D001,2026-01-31,05:53,Health Checkup,Scheduled,Phone,Headache
+A0118,P164,D002,2025-11-05,03:34,Follow-up,Scheduled,Online,Blood pressure check
+A0119,P038,D002,2026-07-29,06:32,Follow-up,Completed,Walk-in,Pregnancy consultation
+A0120,P206,D002,2025-08-16,00:50,Emergency,No-show,Reception,Routine checkup
+A0121,P058,D005,2026-12-02,19:57,Health Checkup,Completed,Phone,Diet consultation
+A0122,P274,D003,2026-07-15,03:45,Follow-up,Completed,Reception,Follow-up
+A0123,P251,D001,2025-06-25,15:22,Consultation,Scheduled,Reception,Headache
+A0124,P181,D003,2026-09-01,23:40,Emergency,Scheduled,Phone,Fever
+A0125,P070,D004,2026-03-30,16:31,Follow-up,Scheduled,Phone,Routine checkup
+A0126,P046,D002,2026-02-03,15:12,Emergency,Completed,Walk-in,Fever
+A0127,P091,D004,2026-01-25,00:13,Emergency,No-show,Walk-in,Pregnancy consultation
+A0128,P147,D003,2026-11-01,04:57,Consultation,Scheduled,Phone,Pregnancy consultation
+A0129,P119,D003,2025-07-08,03:32,Consultation,Cancelled,Reception,Chest discomfort
+A0130,P133,D002,2026-06-05,11:56,Health Checkup,Cancelled,Online,Child health checkup
+A0131,P151,D004,2026-09-24,04:41,Emergency,No-show,Walk-in,Fever
+A0132,P109,D005,2025-02-07,19:11,Emergency,No-show,Reception,Routine checkup
+A0133,P208,D005,2026-04-18,10:13,Consultation,Scheduled,Reception,Blood pressure check
+A0134,P195,D003,2026-10-27,08:33,Emergency,Completed,Online,Fever
+A0135,P240,D005,2025-09-20,08:13,Consultation,No-show,Phone,Fever
+A0136,P035,D005,2026-04-08,17:58,Follow-up,Completed,Reception,Headache
+A0137,P029,D002,2026-12-17,02:20,Follow-up,Cancelled,Online,Headache
+A0138,P150,D003,2025-05-30,20:02,Consultation,Scheduled,Phone,Blood pressure check
+A0139,P166,D004,2025-12-30,03:28,Emergency,Completed,Walk-in,Fever
+A0140,P261,D003,2025-03-01,07:36,Follow-up,Completed,Phone,Child health checkup
+A0141,P010,D003,2025-09-08,18:41,Consultation,Completed,Reception,Diabetes consultation
+A0142,P150,D003,2025-05-09,02:01,Follow-up,Completed,Reception,Child health checkup
+A0143,P003,D003,2025-08-27,18:49,Follow-up,Completed,Phone,Headache
+A0144,P251,D001,2026-01-20,17:11,Consultation,No-show,Online,Fever
+A0145,P234,D003,2025-02-23,19:44,Health Checkup,No-show,Walk-in,Blood pressure check
+A0146,P016,D001,2026-11-13,07:17,Health Checkup,Cancelled,Online,Fever
+A0147,P051,D001,2026-07-05,12:15,Health Checkup,No-show,Online,Fever
+A0148,P153,D004,2025-08-04,07:49,Consultation,No-show,Online,Follow-up
+A0149,P189,D002,2025-03-23,12:29,Consultation,No-show,Online,Diabetes consultation
+A0150,P180,D002,2025-03-10,05:44,Consultation,Scheduled,Phone,Routine checkup
+A0151,P240,D004,2025-08-26,02:31,Follow-up,Completed,Walk-in,Fever
+A0152,P286,D002,2026-07-19,21:21,Follow-up,Scheduled,Phone,Diabetes consultation
+A0153,P208,D001,2025-11-05,15:25,Health Checkup,Cancelled,Walk-in,Diet consultation
+A0154,P155,D001,2026-04-23,11:24,Emergency,Cancelled,Online,Fever
+A0155,P038,D003,2025-11-02,19:10,Health Checkup,Cancelled,Reception,Follow-up
+A0156,P206,D003,2026-03-18,10:22,Follow-up,Cancelled,Walk-in,Chest discomfort
+A0157,P107,D004,2026-04-30,00:46,Emergency,No-show,Online,Diet consultation
+A0158,P214,D002,2026-05-29,17:20,Follow-up,Scheduled,Walk-in,Diabetes consultation
+A0159,P290,D005,2025-02-07,22:47,Health Checkup,Completed,Phone,Child health checkup
+A0160,P050,D002,2026-01-04,16:40,Health Checkup,Scheduled,Phone,Blood pressure check
+A0161,P170,D005,2026-06-30,08:33,Follow-up,Cancelled,Online,Fever
+A0162,P117,D003,2026-03-10,06:27,Follow-up,Completed,Walk-in,Chest discomfort
+A0163,P022,D005,2025-06-27,17:57,Consultation,No-show,Online,Chest discomfort
+A0164,P015,D003,2025-07-18,15:08,Follow-up,Cancelled,Phone,Headache
+A0165,P038,D002,2025-11-19,05:27,Emergency,Completed,Walk-in,Fever
+A0166,P030,D005,2026-09-04,20:13,Consultation,Completed,Online,Headache
+A0167,P088,D001,2025-12-01,05:33,Follow-up,No-show,Online,Chest discomfort
+A0168,P003,D005,2026-06-07,08:32,Health Checkup,No-show,Reception,Fever
+A0169,P190,D004,2026-01-04,05:58,Consultation,Completed,Reception,Routine checkup
+A0170,P035,D001,2025-04-21,08:00,Follow-up,Cancelled,Phone,Blood pressure check
+A0171,P240,D005,2025-09-19,12:48,Emergency,Cancelled,Reception,Diet consultation
+A0172,P203,D002,2026-05-03,09:22,Health Checkup,Completed,Online,Headache
+A0173,P117,D002,2026-03-27,02:42,Follow-up,No-show,Reception,Pregnancy consultation
+A0174,P300,D004,2025-03-02,12:35,Consultation,No-show,Reception,Follow-up
+A0175,P094,D001,2025-12-21,07:26,Health Checkup,Scheduled,Reception,Blood pressure check
+A0176,P141,D003,2026-11-22,12:15,Consultation,Cancelled,Reception,Chest discomfort
+A0177,P273,D002,2026-02-24,18:42,Follow-up,No-show,Online,Diet consultation
+A0178,P028,D004,2025-09-25,07:14,Follow-up,No-show,Online,Follow-up
+A0179,P043,D004,2026-07-17,15:43,Consultation,Completed,Phone,Headache
+A0180,P045,D005,2026-09-08,13:17,Health Checkup,Cancelled,Phone,Diabetes consultation
+A0181,P291,D003,2025-07-15,18:38,Emergency,No-show,Walk-in,Diet consultation
+A0182,P269,D005,2026-05-20,11:51,Consultation,Cancelled,Reception,Follow-up
+A0183,P172,D005,2026-10-31,00:49,Consultation,Cancelled,Online,Headache
+A0184,P008,D005,2026-06-23,23:36,Health Checkup,No-show,Walk-in,Routine checkup
+A0185,P247,D001,2026-08-11,20:15,Follow-up,Cancelled,Online,Diet consultation
+A0186,P144,D002,2025-08-04,20:56,Consultation,Completed,Walk-in,Routine checkup
+A0187,P051,D002,2025-12-17,23:35,Consultation,Cancelled,Phone,Blood pressure check
+A0188,P084,D001,2025-01-11,06:16,Follow-up,No-show,Reception,Diabetes consultation
+A0189,P003,D001,2025-07-18,16:58,Consultation,Scheduled,Phone,Pregnancy consultation
+A0190,P127,D005,2026-03-10,21:09,Consultation,No-show,Phone,Diabetes consultation
+A0191,P034,D004,2026-08-12,01:53,Emergency,Completed,Reception,Pregnancy consultation
+A0192,P197,D004,2025-07-30,13:57,Emergency,No-show,Phone,Pregnancy consultation
+A0193,P229,D003,2025-12-24,09:55,Follow-up,No-show,Phone,Headache
+A0194,P231,D005,2026-01-03,18:32,Consultation,Scheduled,Reception,Fever
+A0195,P195,D001,2025-05-01,13:20,Consultation,No-show,Online,Child health checkup
+A0196,P215,D001,2025-10-09,10:22,Health Checkup,Completed,Reception,Chest discomfort
+A0197,P128,D001,2026-08-07,05:40,Health Checkup,Completed,Walk-in,Chest discomfort
+A0198,P009,D004,2026-11-29,18:47,Health Checkup,Cancelled,Phone,Diabetes consultation
+A0199,P008,D005,2026-09-02,12:59,Consultation,No-show,Reception,Headache
+A0200,P140,D005,2026-04-07,21:17,Follow-up,No-show,Reception,Headache
+A0201,P018,D002,2026-01-29,02:25,Health Checkup,Completed,Phone,Follow-up
+A0202,P134,D004,2026-10-18,13:01,Consultation,Cancelled,Walk-in,Fever
+A0203,P280,D001,2025-10-28,16:12,Follow-up,Cancelled,Reception,Headache
+A0204,P136,D001,2026-05-11,01:56,Emergency,No-show,Online,Blood pressure check
+A0205,P130,D001,2026-03-15,15:22,Emergency,No-show,Reception,Blood pressure check
+A0206,P139,D001,2025-01-05,10:49,Emergency,Cancelled,Online,Pregnancy consultation
+A0207,P069,D002,2026-05-26,12:14,Consultation,Completed,Reception,Chest discomfort
+A0208,P197,D002,2026-06-20,12:01,Follow-up,Completed,Walk-in,Follow-up
+A0209,P126,D003,2026-01-26,15:00,Health Checkup,Cancelled,Phone,Fever
+A0210,P029,D001,2026-07-27,04:55,Consultation,No-show,Phone,Diet consultation
+A0211,P282,D004,2026-07-14,01:44,Emergency,Completed,Reception,Follow-up
+A0212,P143,D002,2025-08-16,08:48,Emergency,Scheduled,Walk-in,Diet consultation
+A0213,P202,D005,2026-01-25,12:10,Follow-up,No-show,Reception,Chest discomfort
+A0214,P054,D003,2025-03-01,12:35,Emergency,Scheduled,Phone,Routine checkup
+A0215,P263,D002,2025-01-21,20:11,Health Checkup,Cancelled,Phone,Fever
+A0216,P070,D003,2025-12-02,00:43,Emergency,No-show,Reception,Child health checkup
+A0217,P084,D003,2025-07-29,05:06,Health Checkup,Cancelled,Reception,Routine checkup
+A0218,P161,D004,2026-10-06,07:54,Health Checkup,Cancelled,Walk-in,Fever
+A0219,P035,D004,2025-05-12,09:53,Consultation,Scheduled,Online,Fever
+A0220,P200,D003,2025-12-24,01:08,Emergency,Cancelled,Reception,Child health checkup
+A0221,P053,D002,2025-03-09,17:52,Health Checkup,No-show,Reception,Fever
+A0222,P111,D005,2025-05-23,03:01,Health Checkup,No-show,Online,Child health checkup
+A0223,P189,D003,2025-12-03,17:54,Follow-up,No-show,Walk-in,Routine checkup
+A0224,P191,D002,2025-12-28,18:06,Follow-up,No-show,Online,Diabetes consultation
+A0225,P223,D003,2025-03-01,17:22,Emergency,Scheduled,Walk-in,Child health checkup
+A0226,P075,D005,2026-12-17,16:05,Follow-up,No-show,Phone,Chest discomfort
+A0227,P189,D003,2025-04-14,19:25,Follow-up,Scheduled,Walk-in,Follow-up
+A0228,P022,D002,2026-05-10,14:58,Consultation,Scheduled,Walk-in,Diet consultation
+A0229,P136,D001,2025-05-31,06:10,Health Checkup,No-show,Phone,Child health checkup
+A0230,P085,D002,2025-02-07,14:39,Emergency,Scheduled,Online,Pregnancy consultation
+A0231,P097,D004,2026-04-12,18:49,Health Checkup,Cancelled,Reception,Child health checkup
+A0232,P276,D004,2026-10-23,23:14,Follow-up,No-show,Phone,Pregnancy consultation
+A0233,P094,D005,2026-01-03,13:31,Consultation,Completed,Walk-in,Diet consultation
+A0234,P169,D004,2026-08-12,22:20,Emergency,Cancelled,Walk-in,Routine checkup
+A0235,P099,D001,2025-04-15,12:41,Follow-up,Cancelled,Online,Chest discomfort
+A0236,P027,D003,2025-05-31,01:38,Emergency,Cancelled,Walk-in,Fever
+A0237,P075,D001,2025-08-21,08:05,Consultation,Scheduled,Reception,Blood pressure check
+A0238,P160,D005,2025-05-23,18:16,Consultation,Completed,Walk-in,Headache
+A0239,P088,D005,2025-11-12,11:16,Consultation,Completed,Phone,Routine checkup
+A0240,P054,D001,2025-07-01,10:29,Health Checkup,Scheduled,Walk-in,Diet consultation
+A0241,P147,D005,2025-12-14,19:45,Consultation,Cancelled,Reception,Chest discomfort
+A0242,P154,D004,2026-09-29,11:40,Health Checkup,No-show,Online,Routine checkup
+A0243,P218,D001,2025-08-16,18:10,Follow-up,No-show,Walk-in,Headache
+A0244,P091,D005,2026-05-12,19:57,Consultation,Scheduled,Walk-in,Headache
+A0245,P257,D001,2025-03-21,18:01,Follow-up,Completed,Walk-in,Headache
+A0246,P065,D002,2026-09-16,19:34,Follow-up,Scheduled,Online,Pregnancy consultation
+A0247,P035,D003,2026-11-28,14:50,Consultation,No-show,Online,Follow-up
+A0248,P078,D003,2025-05-20,21:16,Health Checkup,No-show,Online,Follow-up
+A0249,P023,D001,2026-06-15,06:21,Health Checkup,Cancelled,Phone,Diet consultation
+A0250,P103,D003,2025-04-27,21:33,Health Checkup,Cancelled,Online,Fever
+A0251,P179,D001,2026-12-23,03:55,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A0252,P004,D003,2026-12-13,08:30,Follow-up,Completed,Reception,Pregnancy consultation
+A0253,P183,D003,2026-10-28,02:15,Consultation,No-show,Walk-in,Diabetes consultation
+A0254,P220,D004,2026-04-20,10:50,Health Checkup,No-show,Online,Diabetes consultation
+A0255,P228,D002,2025-07-08,20:58,Follow-up,No-show,Online,Child health checkup
+A0256,P003,D002,2026-07-15,05:30,Emergency,No-show,Online,Child health checkup
+A0257,P174,D002,2026-12-21,05:20,Health Checkup,No-show,Online,Chest discomfort
+A0258,P133,D003,2025-10-23,08:26,Consultation,No-show,Reception,Pregnancy consultation
+A0259,P179,D003,2025-09-17,05:31,Consultation,Cancelled,Walk-in,Child health checkup
+A0260,P268,D001,2026-07-04,12:43,Emergency,Scheduled,Reception,Fever
+A0261,P129,D001,2026-04-26,01:13,Health Checkup,Scheduled,Online,Follow-up
+A0262,P260,D001,2025-07-04,15:37,Consultation,Completed,Phone,Headache
+A0263,P226,D005,2025-03-28,07:15,Consultation,Scheduled,Walk-in,Headache
+A0264,P158,D001,2026-04-24,23:23,Consultation,No-show,Phone,Routine checkup
+A0265,P250,D004,2025-11-12,02:30,Follow-up,Scheduled,Walk-in,Chest discomfort
+A0266,P257,D001,2025-10-31,08:09,Follow-up,Completed,Online,Blood pressure check
+A0267,P200,D001,2026-02-12,12:53,Health Checkup,No-show,Walk-in,Pregnancy consultation
+A0268,P167,D002,2025-01-26,10:23,Health Checkup,Cancelled,Walk-in,Routine checkup
+A0269,P004,D005,2025-01-07,01:44,Follow-up,Cancelled,Reception,Routine checkup
+A0270,P067,D003,2026-08-14,04:03,Health Checkup,Completed,Phone,Routine checkup
+A0271,P198,D005,2025-11-21,22:03,Follow-up,Completed,Online,Headache
+A0272,P163,D005,2025-05-20,02:06,Emergency,Cancelled,Online,Headache
+A0273,P115,D002,2025-10-20,10:41,Health Checkup,Cancelled,Phone,Child health checkup
+A0274,P239,D001,2025-03-06,17:09,Consultation,No-show,Reception,Routine checkup
+A0275,P275,D002,2026-02-05,07:18,Follow-up,Cancelled,Reception,Blood pressure check
+A0276,P057,D002,2025-11-09,18:16,Follow-up,No-show,Online,Blood pressure check
+A0277,P040,D002,2025-05-29,11:33,Follow-up,Completed,Reception,Blood pressure check
+A0278,P058,D005,2026-02-18,16:41,Health Checkup,Completed,Walk-in,Routine checkup
+A0279,P016,D005,2026-12-27,09:28,Health Checkup,Completed,Walk-in,Diabetes consultation
+A0280,P052,D003,2026-02-18,20:51,Emergency,Scheduled,Phone,Follow-up
+A0281,P182,D004,2026-08-08,15:33,Consultation,Completed,Reception,Follow-up
+A0282,P177,D003,2025-05-30,21:55,Consultation,Scheduled,Online,Diabetes consultation
+A0283,P289,D001,2026-01-12,09:05,Emergency,No-show,Phone,Diabetes consultation
+A0284,P096,D003,2026-07-25,19:33,Health Checkup,Scheduled,Phone,Fever
+A0285,P245,D001,2026-07-08,18:45,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A0286,P237,D001,2026-06-14,23:00,Health Checkup,Scheduled,Phone,Pregnancy consultation
+A0287,P092,D005,2025-09-09,23:11,Follow-up,Completed,Online,Fever
+A0288,P223,D002,2026-05-09,01:17,Emergency,No-show,Online,Headache
+A0289,P267,D003,2026-09-17,21:06,Emergency,Completed,Walk-in,Child health checkup
+A0290,P088,D004,2025-08-20,20:39,Consultation,Completed,Phone,Follow-up
+A0291,P118,D001,2026-01-16,06:03,Emergency,Completed,Walk-in,Child health checkup
+A0292,P097,D002,2026-03-17,18:44,Follow-up,Cancelled,Phone,Diabetes consultation
+A0293,P046,D005,2025-09-13,01:56,Consultation,Scheduled,Online,Follow-up
+A0294,P250,D001,2026-05-01,14:34,Consultation,Scheduled,Walk-in,Child health checkup
+A0295,P047,D005,2025-10-15,01:39,Consultation,No-show,Online,Child health checkup
+A0296,P132,D002,2025-02-11,06:28,Consultation,No-show,Online,Follow-up
+A0297,P053,D005,2026-12-12,11:22,Follow-up,No-show,Online,Follow-up
+A0298,P291,D005,2026-08-21,00:52,Emergency,Completed,Reception,Child health checkup
+A0299,P212,D003,2026-09-09,02:01,Follow-up,Scheduled,Online,Follow-up
+A0300,P123,D003,2025-01-25,04:32,Health Checkup,No-show,Phone,Fever
+A0301,P112,D005,2026-04-07,18:50,Emergency,Cancelled,Online,Follow-up
+A0302,P070,D004,2026-01-23,01:58,Follow-up,No-show,Online,Pregnancy consultation
+A0303,P035,D005,2026-07-09,15:17,Follow-up,Scheduled,Reception,Diet consultation
+A0304,P131,D001,2025-03-20,12:47,Consultation,Cancelled,Online,Diabetes consultation
+A0305,P216,D001,2025-05-01,07:42,Health Checkup,No-show,Online,Follow-up
+A0306,P262,D002,2025-10-19,06:20,Emergency,Cancelled,Online,Blood pressure check
+A0307,P007,D004,2025-01-07,17:16,Emergency,Scheduled,Reception,Fever
+A0308,P143,D002,2026-12-05,14:45,Consultation,Completed,Online,Headache
+A0309,P096,D005,2025-06-09,07:01,Emergency,No-show,Online,Pregnancy consultation
+A0310,P295,D003,2026-05-27,20:56,Emergency,Cancelled,Online,Diabetes consultation
+A0311,P193,D005,2025-12-16,07:08,Health Checkup,Cancelled,Reception,Routine checkup
+A0312,P076,D003,2025-01-02,18:42,Emergency,Completed,Online,Follow-up
+A0313,P208,D005,2026-12-27,14:36,Consultation,Completed,Online,Blood pressure check
+A0314,P166,D002,2026-10-28,01:36,Health Checkup,Cancelled,Online,Pregnancy consultation
+A0315,P075,D002,2026-09-13,22:40,Health Checkup,No-show,Walk-in,Chest discomfort
+A0316,P204,D002,2026-07-12,03:36,Follow-up,No-show,Online,Diet consultation
+A0317,P132,D002,2025-08-21,10:35,Consultation,Completed,Walk-in,Follow-up
+A0318,P227,D005,2025-07-03,02:48,Consultation,Completed,Phone,Follow-up
+A0319,P113,D003,2025-09-17,18:56,Emergency,No-show,Phone,Blood pressure check
+A0320,P112,D003,2025-12-04,04:38,Consultation,Scheduled,Phone,Child health checkup
+A0321,P262,D001,2025-03-20,14:50,Emergency,Scheduled,Reception,Routine checkup
+A0322,P242,D003,2026-01-15,18:11,Follow-up,Scheduled,Phone,Diabetes consultation
+A0323,P065,D005,2026-08-23,19:33,Emergency,Scheduled,Phone,Diet consultation
+A0324,P291,D004,2026-12-22,21:25,Health Checkup,Scheduled,Reception,Chest discomfort
+A0325,P080,D001,2025-07-14,18:20,Follow-up,No-show,Reception,Pregnancy consultation
+A0326,P283,D001,2026-12-07,22:57,Health Checkup,Cancelled,Online,Headache
+A0327,P131,D001,2025-05-09,02:57,Health Checkup,No-show,Walk-in,Follow-up
+A0328,P075,D002,2025-06-07,06:19,Emergency,Scheduled,Walk-in,Chest discomfort
+A0329,P030,D002,2025-07-12,02:30,Health Checkup,Cancelled,Online,Diet consultation
+A0330,P039,D004,2025-12-10,17:09,Consultation,Scheduled,Walk-in,Fever
+A0331,P194,D002,2025-05-10,01:28,Follow-up,Scheduled,Reception,Routine checkup
+A0332,P119,D001,2026-12-28,15:55,Consultation,Scheduled,Reception,Diabetes consultation
+A0333,P221,D004,2026-02-27,20:08,Health Checkup,Cancelled,Online,Child health checkup
+A0334,P106,D001,2025-12-21,06:48,Health Checkup,Completed,Reception,Pregnancy consultation
+A0335,P012,D004,2026-01-11,11:40,Emergency,Completed,Reception,Child health checkup
+A0336,P097,D004,2026-03-24,16:04,Emergency,Scheduled,Online,Fever
+A0337,P276,D002,2026-04-01,13:27,Health Checkup,No-show,Online,Blood pressure check
+A0338,P233,D002,2025-05-30,16:20,Consultation,Completed,Walk-in,Routine checkup
+A0339,P273,D005,2025-05-14,20:19,Consultation,Scheduled,Reception,Chest discomfort
+A0340,P132,D003,2025-10-05,06:52,Emergency,Completed,Phone,Headache
+A0341,P032,D002,2025-01-06,09:27,Follow-up,No-show,Phone,Follow-up
+A0342,P129,D004,2025-01-19,17:04,Follow-up,No-show,Walk-in,Chest discomfort
+A0343,P248,D003,2026-06-26,00:29,Emergency,Completed,Online,Pregnancy consultation
+A0344,P188,D005,2025-01-26,13:01,Follow-up,No-show,Phone,Follow-up
+A0345,P054,D002,2025-10-15,16:57,Follow-up,No-show,Online,Routine checkup
+A0346,P089,D004,2026-03-09,22:34,Follow-up,Scheduled,Online,Pregnancy consultation
+A0347,P282,D005,2025-04-04,19:12,Consultation,Cancelled,Walk-in,Pregnancy consultation
+A0348,P280,D001,2025-03-01,04:42,Health Checkup,Cancelled,Online,Follow-up
+A0349,P156,D005,2026-07-18,09:17,Follow-up,Completed,Reception,Diet consultation
+A0350,P267,D004,2026-01-21,13:23,Consultation,Scheduled,Reception,Follow-up
+A0351,P286,D001,2026-11-01,01:13,Consultation,Scheduled,Online,Chest discomfort
+A0352,P070,D004,2025-09-10,06:25,Consultation,Cancelled,Online,Child health checkup
+A0353,P016,D003,2025-07-06,06:43,Emergency,Cancelled,Reception,Diet consultation
+A0354,P064,D003,2026-02-21,16:43,Health Checkup,Completed,Reception,Diet consultation
+A0355,P235,D002,2026-11-23,04:47,Health Checkup,Cancelled,Phone,Diabetes consultation
+A0356,P292,D002,2025-05-08,15:30,Emergency,Completed,Phone,Blood pressure check
+A0357,P228,D004,2025-06-27,00:42,Follow-up,No-show,Phone,Blood pressure check
+A0358,P266,D003,2025-05-08,03:29,Follow-up,Scheduled,Phone,Pregnancy consultation
+A0359,P175,D005,2025-01-23,03:24,Emergency,Cancelled,Phone,Diabetes consultation
+A0360,P237,D003,2025-12-02,00:08,Emergency,No-show,Walk-in,Child health checkup
+A0361,P029,D004,2026-09-13,07:30,Health Checkup,Completed,Online,Blood pressure check
+A0362,P003,D003,2026-01-20,23:48,Emergency,Completed,Walk-in,Headache
+A0363,P032,D003,2026-12-04,04:58,Health Checkup,No-show,Online,Diabetes consultation
+A0364,P033,D004,2026-09-02,22:51,Health Checkup,Cancelled,Phone,Diet consultation
+A0365,P280,D002,2026-12-28,22:17,Emergency,Cancelled,Walk-in,Headache
+A0366,P287,D004,2026-11-29,20:41,Health Checkup,Scheduled,Reception,Child health checkup
+A0367,P055,D001,2025-10-26,10:56,Health Checkup,Completed,Walk-in,Fever
+A0368,P050,D004,2025-08-11,23:19,Consultation,No-show,Walk-in,Headache
+A0369,P008,D001,2025-02-14,01:27,Follow-up,No-show,Online,Fever
+A0370,P112,D004,2026-09-01,23:55,Consultation,Completed,Reception,Child health checkup
+A0371,P144,D003,2026-03-28,05:45,Emergency,No-show,Reception,Fever
+A0372,P124,D004,2026-02-28,13:02,Follow-up,Completed,Walk-in,Headache
+A0373,P238,D002,2025-08-18,17:09,Emergency,Scheduled,Phone,Pregnancy consultation
+A0374,P292,D001,2026-05-25,07:40,Emergency,No-show,Phone,Diabetes consultation
+A0375,P123,D003,2025-04-03,20:02,Emergency,Cancelled,Walk-in,Chest discomfort
+A0376,P143,D003,2026-08-19,07:03,Health Checkup,Completed,Walk-in,Follow-up
+A0377,P130,D003,2025-06-07,00:45,Emergency,Cancelled,Phone,Chest discomfort
+A0378,P246,D001,2025-09-04,15:13,Emergency,Cancelled,Phone,Blood pressure check
+A0379,P181,D005,2025-08-25,23:00,Emergency,Completed,Reception,Headache
+A0380,P196,D003,2026-06-25,08:50,Health Checkup,No-show,Phone,Fever
+A0381,P134,D001,2025-11-13,06:29,Follow-up,No-show,Phone,Headache
+A0382,P255,D002,2025-08-14,05:39,Consultation,Completed,Reception,Headache
+A0383,P038,D001,2025-06-11,20:08,Follow-up,Completed,Reception,Fever
+A0384,P280,D004,2025-04-27,15:51,Health Checkup,No-show,Reception,Child health checkup
+A0385,P198,D002,2026-01-22,02:21,Consultation,Scheduled,Phone,Fever
+A0386,P212,D004,2026-09-25,22:27,Emergency,Scheduled,Online,Headache
+A0387,P050,D004,2025-02-28,06:09,Follow-up,No-show,Online,Routine checkup
+A0388,P109,D002,2026-03-25,05:59,Follow-up,No-show,Online,Diet consultation
+A0389,P172,D004,2026-11-24,05:16,Health Checkup,Cancelled,Online,Headache
+A0390,P047,D004,2025-01-02,11:08,Health Checkup,Scheduled,Online,Blood pressure check
+A0391,P245,D001,2026-11-27,16:01,Consultation,Completed,Phone,Fever
+A0392,P079,D004,2026-12-23,07:01,Health Checkup,Cancelled,Walk-in,Headache
+A0393,P223,D002,2026-12-18,11:30,Emergency,Completed,Reception,Diet consultation
+A0394,P231,D005,2025-11-05,02:01,Follow-up,Scheduled,Phone,Pregnancy consultation
+A0395,P268,D004,2025-07-07,19:13,Emergency,Scheduled,Walk-in,Diabetes consultation
+A0396,P145,D002,2026-01-31,06:32,Follow-up,Cancelled,Reception,Headache
+A0397,P165,D004,2026-03-05,16:25,Emergency,Scheduled,Online,Blood pressure check
+A0398,P288,D001,2026-07-11,10:34,Emergency,Scheduled,Reception,Fever
+A0399,P275,D005,2026-01-15,03:50,Consultation,No-show,Phone,Headache
+A0400,P184,D005,2026-02-12,06:43,Consultation,Scheduled,Phone,Child health checkup
+A0401,P102,D001,2025-07-25,23:11,Consultation,No-show,Online,Routine checkup
+A0402,P239,D003,2026-07-25,03:02,Follow-up,Completed,Walk-in,Diabetes consultation
+A0403,P004,D001,2026-01-16,01:57,Emergency,No-show,Phone,Diet consultation
+A0404,P111,D003,2026-07-17,01:28,Health Checkup,No-show,Walk-in,Follow-up
+A0405,P158,D002,2026-06-13,08:33,Emergency,Cancelled,Walk-in,Blood pressure check
+A0406,P146,D003,2025-11-07,13:06,Follow-up,Cancelled,Phone,Blood pressure check
+A0407,P211,D004,2025-06-09,01:08,Consultation,Completed,Reception,Diet consultation
+A0408,P079,D004,2026-06-16,11:33,Emergency,Completed,Walk-in,Diabetes consultation
+A0409,P163,D003,2026-08-10,14:46,Follow-up,Completed,Reception,Fever
+A0410,P190,D004,2025-12-13,02:12,Emergency,Completed,Reception,Headache
+A0411,P191,D004,2025-04-13,21:26,Consultation,Scheduled,Reception,Routine checkup
+A0412,P005,D001,2025-07-12,19:54,Health Checkup,Cancelled,Online,Routine checkup
+A0413,P209,D001,2026-01-07,14:36,Consultation,Scheduled,Walk-in,Headache
+A0414,P265,D003,2025-12-11,03:52,Health Checkup,No-show,Phone,Chest discomfort
+A0415,P180,D001,2025-10-10,04:20,Health Checkup,No-show,Online,Fever
+A0416,P273,D005,2026-09-07,15:12,Consultation,No-show,Phone,Diet consultation
+A0417,P277,D002,2025-01-14,08:07,Consultation,Cancelled,Reception,Diabetes consultation
+A0418,P155,D004,2026-08-05,04:33,Follow-up,Completed,Phone,Chest discomfort
+A0419,P288,D001,2025-04-04,17:19,Follow-up,Scheduled,Walk-in,Chest discomfort
+A0420,P087,D004,2026-07-13,13:23,Emergency,Completed,Online,Diet consultation
+A0421,P106,D003,2026-10-04,19:08,Consultation,No-show,Reception,Fever
+A0422,P012,D001,2026-07-26,14:46,Health Checkup,Cancelled,Walk-in,Routine checkup
+A0423,P034,D004,2026-05-24,12:21,Health Checkup,No-show,Reception,Follow-up
+A0424,P018,D002,2025-07-09,07:01,Follow-up,Completed,Online,Child health checkup
+A0425,P132,D001,2026-11-26,07:09,Emergency,Scheduled,Phone,Headache
+A0426,P083,D003,2026-07-26,09:54,Consultation,Cancelled,Walk-in,Pregnancy consultation
+A0427,P124,D005,2026-08-15,15:06,Consultation,Completed,Walk-in,Follow-up
+A0428,P026,D002,2026-11-02,10:28,Health Checkup,Scheduled,Reception,Child health checkup
+A0429,P182,D005,2026-07-11,09:14,Emergency,Cancelled,Walk-in,Diet consultation
+A0430,P055,D003,2026-07-22,04:27,Health Checkup,Scheduled,Reception,Routine checkup
+A0431,P185,D004,2026-12-23,06:33,Emergency,No-show,Phone,Routine checkup
+A0432,P066,D001,2026-10-13,03:46,Consultation,No-show,Reception,Child health checkup
+A0433,P024,D003,2025-06-30,07:48,Follow-up,Completed,Online,Fever
+A0434,P166,D003,2026-01-13,20:04,Follow-up,No-show,Phone,Blood pressure check
+A0435,P262,D003,2026-12-09,10:10,Follow-up,Completed,Phone,Child health checkup
+A0436,P271,D001,2026-10-02,01:08,Emergency,Scheduled,Phone,Blood pressure check
+A0437,P112,D005,2026-12-28,21:27,Health Checkup,Cancelled,Reception,Blood pressure check
+A0438,P049,D004,2026-05-01,19:08,Consultation,Scheduled,Reception,Fever
+A0439,P058,D005,2026-06-11,02:45,Emergency,No-show,Phone,Fever
+A0440,P223,D004,2026-02-17,01:16,Consultation,No-show,Reception,Diabetes consultation
+A0441,P014,D004,2025-07-18,21:11,Emergency,Completed,Online,Headache
+A0442,P165,D002,2026-04-15,04:33,Consultation,Scheduled,Reception,Pregnancy consultation
+A0443,P283,D003,2025-11-02,08:42,Emergency,No-show,Online,Diabetes consultation
+A0444,P112,D001,2026-11-09,05:50,Follow-up,No-show,Walk-in,Child health checkup
+A0445,P171,D002,2025-09-13,10:24,Consultation,Cancelled,Reception,Diabetes consultation
+A0446,P271,D001,2025-12-06,08:35,Follow-up,Completed,Walk-in,Blood pressure check
+A0447,P278,D002,2025-08-04,22:24,Consultation,No-show,Reception,Routine checkup
+A0448,P016,D002,2025-01-14,10:15,Emergency,Cancelled,Phone,Blood pressure check
+A0449,P029,D001,2025-05-30,06:29,Consultation,Cancelled,Online,Chest discomfort
+A0450,P092,D005,2026-10-24,06:31,Follow-up,Completed,Online,Pregnancy consultation
+A0451,P119,D002,2026-12-12,02:09,Consultation,Scheduled,Online,Follow-up
+A0452,P284,D002,2026-12-04,00:49,Follow-up,Scheduled,Phone,Diet consultation
+A0453,P272,D004,2025-01-16,08:23,Consultation,Completed,Walk-in,Fever
+A0454,P023,D004,2026-01-17,08:35,Health Checkup,Scheduled,Online,Diet consultation
+A0455,P126,D005,2025-05-05,10:29,Follow-up,Completed,Reception,Routine checkup
+A0456,P203,D005,2026-11-05,22:50,Follow-up,Scheduled,Online,Chest discomfort
+A0457,P029,D004,2026-04-10,06:16,Follow-up,No-show,Phone,Chest discomfort
+A0458,P159,D004,2026-08-21,21:46,Health Checkup,Completed,Reception,Pregnancy consultation
+A0459,P086,D003,2025-08-10,19:59,Emergency,Completed,Walk-in,Follow-up
+A0460,P063,D002,2025-04-09,23:06,Consultation,Scheduled,Walk-in,Child health checkup
+A0461,P156,D002,2026-04-09,16:09,Consultation,Cancelled,Online,Chest discomfort
+A0462,P168,D001,2025-10-07,19:35,Consultation,No-show,Walk-in,Routine checkup
+A0463,P145,D001,2026-07-22,03:21,Emergency,Completed,Phone,Headache
+A0464,P168,D004,2025-07-18,05:44,Health Checkup,Completed,Online,Blood pressure check
+A0465,P085,D005,2026-05-23,15:31,Health Checkup,Cancelled,Reception,Routine checkup
+A0466,P209,D005,2025-11-04,02:53,Consultation,Cancelled,Online,Diabetes consultation
+A0467,P039,D001,2025-11-25,12:12,Emergency,Cancelled,Walk-in,Headache
+A0468,P003,D004,2025-03-21,02:48,Health Checkup,Completed,Reception,Diabetes consultation
+A0469,P257,D002,2026-12-01,13:14,Follow-up,Scheduled,Online,Fever
+A0470,P254,D005,2026-11-22,06:51,Health Checkup,Completed,Reception,Diabetes consultation
+A0471,P087,D002,2026-09-17,03:28,Emergency,No-show,Walk-in,Fever
+A0472,P016,D004,2025-05-18,23:00,Health Checkup,Cancelled,Reception,Routine checkup
+A0473,P286,D005,2026-04-29,15:28,Emergency,No-show,Reception,Chest discomfort
+A0474,P159,D002,2025-04-05,05:16,Follow-up,Completed,Walk-in,Headache
+A0475,P259,D003,2025-08-10,07:37,Follow-up,Completed,Reception,Routine checkup
+A0476,P193,D004,2025-08-27,00:13,Health Checkup,Scheduled,Walk-in,Diet consultation
+A0477,P053,D002,2026-04-11,20:07,Consultation,No-show,Online,Blood pressure check
+A0478,P155,D002,2026-05-22,23:56,Health Checkup,Completed,Online,Headache
+A0479,P064,D005,2025-01-28,11:20,Emergency,Cancelled,Walk-in,Blood pressure check
+A0480,P223,D003,2026-12-20,23:06,Health Checkup,Scheduled,Walk-in,Pregnancy consultation
+A0481,P043,D005,2026-01-18,05:31,Follow-up,Completed,Reception,Chest discomfort
+A0482,P282,D003,2025-12-06,09:25,Consultation,Scheduled,Reception,Diet consultation
+A0483,P100,D001,2025-09-15,12:49,Consultation,Completed,Online,Follow-up
+A0484,P041,D005,2026-05-11,03:52,Consultation,Completed,Online,Follow-up
+A0485,P192,D002,2026-07-21,18:05,Emergency,Scheduled,Phone,Fever
+A0486,P168,D005,2025-09-24,22:29,Consultation,Scheduled,Reception,Diet consultation
+A0487,P253,D001,2025-09-06,01:26,Follow-up,Scheduled,Phone,Blood pressure check
+A0488,P063,D003,2026-03-04,09:55,Health Checkup,Completed,Online,Follow-up
+A0489,P258,D002,2026-01-21,12:21,Follow-up,Completed,Phone,Fever
+A0490,P078,D004,2026-08-07,08:57,Emergency,Scheduled,Phone,Blood pressure check
+A0491,P053,D001,2026-01-04,03:54,Emergency,Completed,Walk-in,Blood pressure check
+A0492,P058,D001,2025-08-05,08:16,Follow-up,Cancelled,Reception,Pregnancy consultation
+A0493,P254,D005,2025-10-11,18:03,Health Checkup,No-show,Phone,Follow-up
+A0494,P105,D005,2026-10-30,18:13,Follow-up,Cancelled,Walk-in,Child health checkup
+A0495,P233,D005,2026-11-05,09:51,Consultation,Cancelled,Phone,Routine checkup
+A0496,P286,D003,2025-09-29,17:20,Emergency,Completed,Walk-in,Chest discomfort
+A0497,P269,D003,2026-06-20,14:45,Health Checkup,Cancelled,Phone,Pregnancy consultation
+A0498,P055,D001,2025-04-03,10:47,Follow-up,No-show,Phone,Follow-up
+A0499,P113,D004,2025-02-24,14:04,Consultation,Scheduled,Walk-in,Blood pressure check
+A0500,P110,D002,2026-07-07,06:50,Consultation,Completed,Walk-in,Routine checkup
+A0501,P102,D003,2026-02-15,01:13,Emergency,Completed,Online,Pregnancy consultation
+A0502,P045,D001,2026-04-24,17:53,Emergency,Scheduled,Walk-in,Headache
+A0503,P216,D001,2026-10-01,19:09,Health Checkup,Completed,Online,Routine checkup
+A0504,P275,D003,2026-02-19,18:57,Emergency,Cancelled,Online,Diet consultation
+A0505,P108,D003,2025-07-05,08:14,Emergency,Completed,Phone,Routine checkup
+A0506,P067,D005,2025-05-07,14:26,Health Checkup,No-show,Online,Follow-up
+A0507,P180,D003,2026-12-10,17:05,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A0508,P225,D002,2025-04-26,00:00,Emergency,Cancelled,Phone,Chest discomfort
+A0509,P103,D001,2025-09-16,02:34,Health Checkup,Scheduled,Phone,Follow-up
+A0510,P116,D001,2026-12-30,11:57,Emergency,Completed,Reception,Chest discomfort
+A0511,P269,D004,2026-08-07,21:46,Consultation,Cancelled,Phone,Routine checkup
+A0512,P088,D003,2026-08-07,14:32,Emergency,Cancelled,Phone,Routine checkup
+A0513,P141,D004,2025-05-22,08:30,Consultation,Scheduled,Online,Pregnancy consultation
+A0514,P256,D001,2025-04-04,20:02,Emergency,Cancelled,Reception,Diabetes consultation
+A0515,P134,D004,2026-06-25,08:56,Follow-up,Cancelled,Walk-in,Routine checkup
+A0516,P209,D004,2025-10-28,10:47,Emergency,Completed,Walk-in,Pregnancy consultation
+A0517,P179,D004,2025-02-23,03:02,Consultation,Completed,Reception,Fever
+A0518,P258,D003,2025-08-22,20:15,Consultation,Scheduled,Reception,Routine checkup
+A0519,P133,D001,2026-09-16,09:06,Emergency,Completed,Phone,Follow-up
+A0520,P055,D001,2025-04-17,22:05,Consultation,Completed,Reception,Routine checkup
+A0521,P131,D005,2026-02-27,17:59,Consultation,Completed,Online,Diabetes consultation
+A0522,P040,D001,2026-07-22,02:06,Follow-up,No-show,Reception,Diet consultation
+A0523,P185,D001,2026-09-09,05:23,Consultation,Completed,Walk-in,Headache
+A0524,P009,D004,2025-09-21,12:01,Follow-up,Scheduled,Walk-in,Diet consultation
+A0525,P046,D001,2026-03-31,06:06,Emergency,Scheduled,Online,Blood pressure check
+A0526,P062,D002,2025-11-07,20:05,Consultation,Scheduled,Reception,Child health checkup
+A0527,P247,D002,2025-05-26,03:37,Consultation,Cancelled,Phone,Routine checkup
+A0528,P182,D005,2025-05-31,10:19,Consultation,Cancelled,Reception,Child health checkup
+A0529,P164,D003,2025-11-03,15:11,Follow-up,Scheduled,Walk-in,Diabetes consultation
+A0530,P091,D004,2025-03-08,01:33,Health Checkup,Scheduled,Walk-in,Blood pressure check
+A0531,P168,D003,2026-04-27,22:31,Follow-up,Completed,Reception,Headache
+A0532,P294,D005,2026-01-03,21:18,Emergency,No-show,Phone,Headache
+A0533,P057,D002,2026-10-24,06:51,Consultation,Cancelled,Walk-in,Chest discomfort
+A0534,P116,D001,2026-12-23,03:16,Health Checkup,Cancelled,Online,Follow-up
+A0535,P012,D002,2025-02-09,12:32,Health Checkup,Scheduled,Walk-in,Chest discomfort
+A0536,P171,D004,2025-01-11,17:47,Consultation,Scheduled,Phone,Routine checkup
+A0537,P177,D001,2025-11-04,14:56,Consultation,Completed,Online,Headache
+A0538,P267,D003,2025-11-23,21:52,Follow-up,Cancelled,Online,Follow-up
+A0539,P256,D005,2025-09-14,14:30,Health Checkup,Cancelled,Walk-in,Routine checkup
+A0540,P063,D002,2025-06-09,04:37,Emergency,Scheduled,Online,Child health checkup
+A0541,P206,D002,2026-06-03,07:51,Follow-up,Scheduled,Walk-in,Chest discomfort
+A0542,P065,D004,2025-04-22,13:40,Consultation,Scheduled,Online,Diet consultation
+A0543,P100,D005,2025-05-11,09:56,Emergency,Completed,Phone,Follow-up
+A0544,P059,D004,2026-04-25,04:29,Emergency,Cancelled,Walk-in,Headache
+A0545,P149,D005,2025-12-11,19:03,Emergency,Cancelled,Walk-in,Chest discomfort
+A0546,P233,D003,2025-12-24,00:05,Emergency,Scheduled,Reception,Pregnancy consultation
+A0547,P096,D004,2025-03-23,15:28,Health Checkup,Cancelled,Reception,Diet consultation
+A0548,P046,D002,2025-08-13,19:33,Follow-up,No-show,Online,Fever
+A0549,P130,D002,2025-11-21,02:52,Emergency,Completed,Walk-in,Headache
+A0550,P141,D001,2026-01-09,01:27,Consultation,Cancelled,Walk-in,Chest discomfort
+A0551,P017,D003,2026-03-30,00:26,Consultation,No-show,Phone,Fever
+A0552,P300,D003,2026-01-10,06:12,Follow-up,Completed,Walk-in,Diabetes consultation
+A0553,P013,D002,2026-11-27,05:59,Follow-up,Cancelled,Online,Diabetes consultation
+A0554,P172,D003,2025-04-30,18:56,Health Checkup,Scheduled,Reception,Follow-up
+A0555,P038,D005,2025-07-31,00:51,Emergency,Cancelled,Phone,Follow-up
+A0556,P239,D002,2026-01-26,02:17,Emergency,Cancelled,Phone,Routine checkup
+A0557,P249,D005,2025-05-04,11:01,Emergency,No-show,Walk-in,Diabetes consultation
+A0558,P166,D001,2026-11-02,16:45,Consultation,No-show,Online,Pregnancy consultation
+A0559,P202,D005,2026-01-10,03:35,Health Checkup,Cancelled,Online,Diabetes consultation
+A0560,P130,D004,2026-09-16,18:28,Consultation,Scheduled,Reception,Pregnancy consultation
+A0561,P198,D003,2025-12-21,18:58,Emergency,No-show,Online,Pregnancy consultation
+A0562,P250,D004,2025-08-13,15:21,Health Checkup,No-show,Online,Fever
+A0563,P111,D001,2026-06-07,07:54,Follow-up,Completed,Walk-in,Headache
+A0564,P093,D005,2025-10-08,22:34,Consultation,Completed,Online,Headache
+A0565,P097,D002,2025-12-13,07:54,Health Checkup,Completed,Walk-in,Follow-up
+A0566,P216,D001,2026-04-03,16:09,Health Checkup,No-show,Walk-in,Headache
+A0567,P005,D004,2026-02-23,06:18,Follow-up,No-show,Reception,Routine checkup
+A0568,P299,D003,2026-04-19,19:14,Consultation,Completed,Phone,Fever
+A0569,P149,D003,2025-11-05,13:22,Follow-up,Cancelled,Online,Headache
+A0570,P229,D004,2026-09-12,10:04,Health Checkup,No-show,Online,Child health checkup
+A0571,P199,D004,2026-09-06,06:02,Emergency,Cancelled,Walk-in,Follow-up
+A0572,P222,D004,2026-01-01,03:47,Health Checkup,No-show,Walk-in,Child health checkup
+A0573,P254,D005,2025-05-12,10:53,Emergency,Completed,Reception,Follow-up
+A0574,P253,D003,2025-10-23,13:43,Follow-up,Scheduled,Walk-in,Chest discomfort
+A0575,P078,D003,2025-10-03,01:06,Consultation,No-show,Phone,Headache
+A0576,P031,D003,2025-03-08,02:47,Emergency,Cancelled,Phone,Blood pressure check
+A0577,P295,D004,2025-03-08,13:32,Consultation,Cancelled,Reception,Fever
+A0578,P128,D004,2025-12-11,07:17,Health Checkup,Cancelled,Online,Routine checkup
+A0579,P102,D003,2025-11-12,04:21,Health Checkup,Cancelled,Online,Blood pressure check
+A0580,P063,D002,2026-03-16,16:46,Follow-up,Cancelled,Reception,Routine checkup
+A0581,P116,D005,2026-08-12,23:39,Health Checkup,Cancelled,Reception,Chest discomfort
+A0582,P288,D005,2026-06-11,13:32,Emergency,Completed,Walk-in,Blood pressure check
+A0583,P209,D001,2026-01-04,04:19,Health Checkup,No-show,Phone,Routine checkup
+A0584,P137,D002,2026-03-01,08:40,Emergency,No-show,Reception,Pregnancy consultation
+A0585,P065,D002,2025-09-14,12:19,Consultation,Completed,Reception,Chest discomfort
+A0586,P055,D001,2025-03-31,18:02,Consultation,Cancelled,Phone,Pregnancy consultation
+A0587,P141,D001,2025-09-25,09:08,Consultation,Scheduled,Online,Headache
+A0588,P189,D004,2026-08-23,04:55,Follow-up,Scheduled,Phone,Headache
+A0589,P019,D003,2025-09-14,09:31,Emergency,Completed,Online,Pregnancy consultation
+A0590,P262,D005,2026-12-17,09:41,Follow-up,Completed,Reception,Follow-up
+A0591,P128,D002,2026-09-06,12:55,Consultation,No-show,Online,Fever
+A0592,P143,D003,2026-02-07,06:33,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A0593,P125,D003,2025-05-23,15:02,Consultation,Cancelled,Phone,Child health checkup
+A0594,P040,D004,2026-10-22,20:36,Emergency,Cancelled,Reception,Routine checkup
+A0595,P299,D002,2025-07-27,10:23,Emergency,Completed,Online,Follow-up
+A0596,P169,D004,2025-05-05,06:08,Health Checkup,Cancelled,Reception,Diet consultation
+A0597,P095,D004,2025-07-08,11:13,Emergency,Cancelled,Walk-in,Follow-up
+A0598,P112,D005,2025-01-01,16:47,Consultation,Scheduled,Walk-in,Routine checkup
+A0599,P189,D005,2025-05-27,01:23,Consultation,Completed,Walk-in,Blood pressure check
+A0600,P092,D003,2026-01-25,08:14,Consultation,Scheduled,Online,Diabetes consultation
+A0601,P294,D004,2025-03-04,17:24,Consultation,Scheduled,Phone,Routine checkup
+A0602,P183,D005,2026-02-04,22:28,Health Checkup,Cancelled,Reception,Blood pressure check
+A0603,P237,D004,2026-02-08,14:27,Emergency,Completed,Walk-in,Chest discomfort
+A0604,P252,D003,2025-08-24,22:03,Emergency,No-show,Reception,Pregnancy consultation
+A0605,P157,D001,2025-10-13,10:16,Health Checkup,Completed,Reception,Fever
+A0606,P265,D004,2026-07-10,22:08,Follow-up,No-show,Online,Headache
+A0607,P152,D003,2026-12-02,23:07,Emergency,No-show,Walk-in,Routine checkup
+A0608,P098,D002,2025-06-05,23:51,Follow-up,No-show,Phone,Routine checkup
+A0609,P043,D002,2025-08-24,09:05,Follow-up,Scheduled,Walk-in,Fever
+A0610,P126,D004,2025-08-18,03:06,Consultation,Scheduled,Online,Diet consultation
+A0611,P125,D001,2026-11-26,09:23,Health Checkup,Scheduled,Phone,Headache
+A0612,P002,D001,2025-11-09,15:28,Consultation,No-show,Phone,Blood pressure check
+A0613,P150,D003,2026-10-15,16:39,Consultation,No-show,Phone,Routine checkup
+A0614,P117,D005,2026-07-08,23:54,Emergency,Scheduled,Phone,Headache
+A0615,P276,D001,2026-06-27,11:12,Emergency,Scheduled,Walk-in,Diabetes consultation
+A0616,P169,D004,2025-01-18,11:08,Consultation,Scheduled,Walk-in,Child health checkup
+A0617,P091,D002,2025-09-30,10:58,Consultation,Completed,Reception,Routine checkup
+A0618,P249,D002,2026-01-29,01:42,Emergency,Completed,Reception,Chest discomfort
+A0619,P285,D003,2026-03-25,17:25,Emergency,Scheduled,Online,Diet consultation
+A0620,P077,D003,2026-03-21,09:26,Follow-up,No-show,Online,Chest discomfort
+A0621,P244,D003,2025-02-13,14:42,Follow-up,Completed,Online,Headache
+A0622,P170,D004,2026-03-27,16:58,Consultation,Scheduled,Online,Blood pressure check
+A0623,P060,D001,2026-01-12,03:26,Emergency,Scheduled,Walk-in,Pregnancy consultation
+A0624,P092,D002,2025-05-26,00:48,Consultation,Scheduled,Walk-in,Pregnancy consultation
+A0625,P001,D004,2026-09-07,05:18,Health Checkup,Completed,Phone,Diet consultation
+A0626,P081,D003,2026-05-18,05:47,Consultation,Cancelled,Reception,Diabetes consultation
+A0627,P118,D003,2025-04-26,13:59,Emergency,Completed,Reception,Blood pressure check
+A0628,P289,D004,2025-08-17,06:22,Consultation,Scheduled,Walk-in,Pregnancy consultation
+A0629,P171,D001,2026-11-26,02:13,Emergency,No-show,Reception,Fever
+A0630,P099,D001,2025-05-20,09:04,Consultation,Scheduled,Online,Headache
+A0631,P175,D004,2026-01-18,13:44,Emergency,No-show,Phone,Pregnancy consultation
+A0632,P131,D005,2026-10-12,16:29,Health Checkup,No-show,Online,Follow-up
+A0633,P173,D003,2025-10-27,18:52,Consultation,Completed,Reception,Pregnancy consultation
+A0634,P201,D005,2026-05-04,22:49,Health Checkup,Completed,Reception,Follow-up
+A0635,P026,D003,2025-06-29,06:47,Health Checkup,Cancelled,Phone,Blood pressure check
+A0636,P190,D003,2025-06-17,06:07,Health Checkup,Completed,Online,Diet consultation
+A0637,P071,D003,2026-07-23,09:32,Emergency,Completed,Walk-in,Routine checkup
+A0638,P055,D004,2026-12-19,10:36,Follow-up,Scheduled,Phone,Child health checkup
+A0639,P073,D001,2026-01-28,12:15,Follow-up,Cancelled,Reception,Diabetes consultation
+A0640,P249,D003,2025-07-24,08:52,Emergency,Cancelled,Walk-in,Fever
+A0641,P296,D001,2026-04-25,00:51,Emergency,Scheduled,Walk-in,Follow-up
+A0642,P157,D003,2025-09-16,23:23,Emergency,Completed,Reception,Diet consultation
+A0643,P122,D003,2026-01-18,11:02,Consultation,No-show,Online,Pregnancy consultation
+A0644,P023,D001,2026-12-20,00:13,Follow-up,Scheduled,Online,Child health checkup
+A0645,P293,D003,2026-03-18,02:22,Follow-up,Cancelled,Online,Pregnancy consultation
+A0646,P132,D002,2026-10-05,17:55,Consultation,Scheduled,Reception,Chest discomfort
+A0647,P129,D004,2026-10-20,07:22,Emergency,Scheduled,Online,Follow-up
+A0648,P169,D005,2025-12-10,22:16,Consultation,Completed,Online,Blood pressure check
+A0649,P096,D001,2026-02-17,03:31,Health Checkup,Cancelled,Online,Blood pressure check
+A0650,P207,D005,2025-12-06,20:49,Emergency,Scheduled,Reception,Fever
+A0651,P257,D005,2026-01-03,01:16,Follow-up,Scheduled,Phone,Headache
+A0652,P116,D004,2026-12-11,01:27,Follow-up,Scheduled,Online,Follow-up
+A0653,P229,D003,2025-03-27,13:04,Consultation,No-show,Reception,Fever
+A0654,P045,D004,2025-05-21,05:18,Consultation,Completed,Reception,Pregnancy consultation
+A0655,P060,D003,2026-11-11,21:04,Health Checkup,No-show,Reception,Chest discomfort
+A0656,P089,D005,2026-10-23,22:35,Health Checkup,Scheduled,Online,Headache
+A0657,P070,D003,2025-02-08,21:16,Consultation,Completed,Walk-in,Follow-up
+A0658,P100,D005,2026-07-29,19:15,Emergency,No-show,Phone,Chest discomfort
+A0659,P115,D001,2025-10-25,19:12,Follow-up,Completed,Phone,Routine checkup
+A0660,P039,D003,2026-01-20,19:06,Emergency,Cancelled,Online,Child health checkup
+A0661,P065,D003,2026-08-03,18:38,Consultation,Completed,Phone,Child health checkup
+A0662,P034,D005,2026-04-23,18:31,Emergency,Completed,Online,Blood pressure check
+A0663,P037,D002,2026-07-26,13:57,Emergency,Cancelled,Walk-in,Fever
+A0664,P044,D002,2026-06-08,16:23,Health Checkup,Scheduled,Reception,Fever
+A0665,P260,D002,2025-05-28,04:11,Health Checkup,No-show,Phone,Blood pressure check
+A0666,P262,D005,2025-06-13,16:57,Consultation,Completed,Phone,Chest discomfort
+A0667,P127,D005,2026-12-30,18:48,Emergency,Scheduled,Phone,Chest discomfort
+A0668,P071,D003,2026-12-11,10:07,Emergency,Completed,Walk-in,Fever
+A0669,P040,D002,2025-05-13,11:40,Follow-up,No-show,Online,Blood pressure check
+A0670,P134,D004,2026-06-13,16:54,Health Checkup,Completed,Online,Blood pressure check
+A0671,P167,D004,2026-08-22,20:14,Emergency,Cancelled,Walk-in,Blood pressure check
+A0672,P068,D003,2026-04-19,03:59,Follow-up,Cancelled,Online,Fever
+A0673,P228,D001,2026-02-16,10:07,Consultation,Completed,Reception,Follow-up
+A0674,P027,D002,2025-11-04,14:48,Follow-up,Scheduled,Reception,Fever
+A0675,P249,D004,2025-05-01,11:23,Emergency,Cancelled,Phone,Chest discomfort
+A0676,P181,D003,2026-07-29,11:57,Emergency,Completed,Reception,Follow-up
+A0677,P176,D002,2025-04-20,07:50,Emergency,No-show,Online,Follow-up
+A0678,P116,D005,2026-07-12,05:12,Follow-up,Cancelled,Online,Fever
+A0679,P018,D002,2026-12-01,18:33,Health Checkup,Completed,Reception,Diet consultation
+A0680,P125,D001,2026-01-11,01:27,Health Checkup,Scheduled,Online,Blood pressure check
+A0681,P022,D001,2025-11-28,22:58,Follow-up,Scheduled,Online,Fever
+A0682,P050,D002,2026-07-17,05:21,Follow-up,Scheduled,Phone,Headache
+A0683,P271,D001,2025-11-30,03:49,Health Checkup,Completed,Walk-in,Blood pressure check
+A0684,P088,D002,2025-07-26,04:32,Health Checkup,Scheduled,Online,Follow-up
+A0685,P214,D005,2025-10-18,21:03,Emergency,Scheduled,Walk-in,Pregnancy consultation
+A0686,P100,D002,2025-11-28,16:16,Follow-up,Scheduled,Phone,Fever
+A0687,P202,D003,2026-01-17,01:13,Health Checkup,Completed,Reception,Fever
+A0688,P237,D002,2026-03-06,18:20,Consultation,Scheduled,Reception,Follow-up
+A0689,P180,D004,2025-06-29,21:35,Health Checkup,Scheduled,Phone,Headache
+A0690,P144,D005,2025-11-17,04:31,Health Checkup,Completed,Reception,Diabetes consultation
+A0691,P293,D002,2026-05-15,06:30,Consultation,Cancelled,Online,Headache
+A0692,P269,D001,2026-07-06,06:05,Follow-up,Completed,Online,Diet consultation
+A0693,P294,D002,2026-10-14,10:24,Follow-up,Cancelled,Online,Routine checkup
+A0694,P040,D005,2025-05-19,23:53,Follow-up,Completed,Walk-in,Blood pressure check
+A0695,P002,D004,2025-11-02,04:30,Health Checkup,Scheduled,Online,Pregnancy consultation
+A0696,P207,D004,2026-01-19,20:38,Health Checkup,Scheduled,Phone,Blood pressure check
+A0697,P006,D001,2025-06-07,00:03,Consultation,Completed,Online,Diabetes consultation
+A0698,P288,D003,2025-03-05,09:12,Health Checkup,No-show,Walk-in,Fever
+A0699,P284,D004,2025-07-18,07:59,Emergency,Cancelled,Walk-in,Follow-up
+A0700,P226,D004,2026-04-20,17:27,Emergency,No-show,Online,Headache
+A0701,P291,D001,2025-10-10,11:25,Follow-up,Cancelled,Phone,Child health checkup
+A0702,P192,D005,2026-11-12,11:05,Consultation,Scheduled,Phone,Diet consultation
+A0703,P041,D005,2026-12-14,03:35,Consultation,Cancelled,Walk-in,Diet consultation
+A0704,P212,D003,2025-07-17,01:34,Health Checkup,No-show,Reception,Diabetes consultation
+A0705,P187,D001,2026-08-17,06:33,Follow-up,Completed,Online,Fever
+A0706,P102,D003,2025-09-10,21:33,Consultation,Completed,Online,Routine checkup
+A0707,P299,D005,2026-10-04,12:11,Consultation,No-show,Online,Routine checkup
+A0708,P097,D001,2025-02-24,01:48,Follow-up,Completed,Phone,Chest discomfort
+A0709,P059,D003,2025-01-16,06:39,Health Checkup,No-show,Walk-in,Chest discomfort
+A0710,P218,D005,2025-07-06,03:54,Health Checkup,No-show,Reception,Routine checkup
+A0711,P149,D001,2025-03-12,02:22,Consultation,No-show,Walk-in,Chest discomfort
+A0712,P183,D002,2026-01-01,00:50,Consultation,No-show,Reception,Child health checkup
+A0713,P101,D005,2026-06-20,15:12,Follow-up,Scheduled,Phone,Headache
+A0714,P256,D003,2026-03-10,01:53,Consultation,No-show,Phone,Routine checkup
+A0715,P193,D002,2025-07-25,19:31,Consultation,Completed,Reception,Child health checkup
+A0716,P285,D002,2025-12-20,20:30,Consultation,No-show,Online,Headache
+A0717,P252,D001,2025-09-24,21:47,Consultation,Completed,Online,Chest discomfort
+A0718,P004,D002,2026-10-21,04:20,Consultation,No-show,Online,Pregnancy consultation
+A0719,P035,D001,2025-01-12,02:19,Health Checkup,Cancelled,Walk-in,Diet consultation
+A0720,P024,D003,2025-12-29,14:28,Health Checkup,Completed,Online,Diabetes consultation
+A0721,P013,D002,2026-01-04,05:01,Emergency,Completed,Reception,Pregnancy consultation
+A0722,P235,D005,2025-05-24,03:38,Follow-up,No-show,Online,Routine checkup
+A0723,P068,D001,2025-05-16,21:07,Emergency,Scheduled,Phone,Fever
+A0724,P160,D005,2025-02-14,07:22,Follow-up,Scheduled,Online,Blood pressure check
+A0725,P271,D001,2026-07-03,18:52,Consultation,No-show,Phone,Fever
+A0726,P008,D005,2026-11-22,06:56,Health Checkup,Cancelled,Online,Blood pressure check
+A0727,P225,D005,2025-10-24,14:21,Emergency,Completed,Reception,Child health checkup
+A0728,P101,D002,2025-09-27,00:54,Follow-up,Scheduled,Walk-in,Routine checkup
+A0729,P073,D005,2025-04-02,21:38,Follow-up,No-show,Phone,Pregnancy consultation
+A0730,P137,D003,2026-08-25,05:58,Follow-up,No-show,Phone,Diabetes consultation
+A0731,P073,D004,2025-07-11,08:48,Health Checkup,Completed,Walk-in,Routine checkup
+A0732,P110,D005,2025-04-21,06:15,Follow-up,Scheduled,Online,Diet consultation
+A0733,P019,D002,2025-04-12,02:33,Emergency,No-show,Walk-in,Follow-up
+A0734,P258,D001,2025-04-11,13:58,Follow-up,Completed,Phone,Chest discomfort
+A0735,P189,D004,2026-07-01,00:50,Health Checkup,No-show,Online,Blood pressure check
+A0736,P231,D002,2025-11-04,16:19,Follow-up,Scheduled,Online,Fever
+A0737,P044,D005,2025-07-15,14:18,Follow-up,Scheduled,Walk-in,Fever
+A0738,P180,D004,2025-03-30,05:21,Follow-up,No-show,Reception,Diabetes consultation
+A0739,P193,D003,2026-01-31,11:26,Health Checkup,Completed,Online,Fever
+A0740,P061,D002,2025-04-08,00:50,Follow-up,Completed,Online,Chest discomfort
+A0741,P144,D002,2025-09-16,01:21,Emergency,Completed,Reception,Fever
+A0742,P187,D002,2026-12-08,10:47,Emergency,Cancelled,Online,Child health checkup
+A0743,P289,D002,2025-08-01,20:46,Consultation,No-show,Online,Diabetes consultation
+A0744,P123,D003,2026-10-17,20:49,Consultation,Scheduled,Reception,Diet consultation
+A0745,P299,D004,2025-10-31,17:50,Consultation,No-show,Walk-in,Headache
+A0746,P106,D003,2026-05-10,21:11,Consultation,No-show,Walk-in,Follow-up
+A0747,P040,D001,2025-01-28,08:03,Consultation,Scheduled,Phone,Headache
+A0748,P146,D004,2026-04-15,22:21,Emergency,No-show,Walk-in,Chest discomfort
+A0749,P053,D004,2026-04-10,20:30,Health Checkup,No-show,Online,Pregnancy consultation
+A0750,P206,D004,2025-05-03,11:50,Emergency,Scheduled,Walk-in,Routine checkup
+A0751,P009,D003,2025-08-05,20:25,Consultation,Scheduled,Reception,Child health checkup
+A0752,P244,D003,2025-10-25,02:16,Emergency,No-show,Walk-in,Follow-up
+A0753,P119,D003,2025-12-05,02:41,Health Checkup,Completed,Phone,Diet consultation
+A0754,P257,D005,2025-04-20,08:20,Health Checkup,Scheduled,Walk-in,Child health checkup
+A0755,P265,D004,2025-01-06,13:37,Follow-up,No-show,Online,Diet consultation
+A0756,P275,D003,2026-04-10,17:36,Emergency,No-show,Online,Headache
+A0757,P182,D002,2025-01-03,02:22,Consultation,Scheduled,Phone,Chest discomfort
+A0758,P212,D005,2025-09-15,14:46,Follow-up,Cancelled,Online,Diabetes consultation
+A0759,P095,D001,2025-04-24,21:18,Health Checkup,Cancelled,Reception,Pregnancy consultation
+A0760,P289,D005,2025-03-25,12:04,Follow-up,Scheduled,Walk-in,Headache
+A0761,P116,D005,2026-01-24,02:39,Emergency,No-show,Walk-in,Diet consultation
+A0762,P080,D001,2026-12-28,22:08,Health Checkup,Cancelled,Phone,Blood pressure check
+A0763,P168,D002,2025-03-31,09:58,Consultation,Completed,Reception,Chest discomfort
+A0764,P117,D004,2025-12-02,00:11,Health Checkup,No-show,Reception,Fever
+A0765,P014,D001,2025-05-09,00:20,Emergency,No-show,Online,Fever
+A0766,P234,D003,2025-06-25,16:52,Emergency,No-show,Walk-in,Pregnancy consultation
+A0767,P253,D005,2026-11-21,09:00,Health Checkup,No-show,Online,Blood pressure check
+A0768,P063,D002,2025-02-18,19:29,Health Checkup,Scheduled,Online,Routine checkup
+A0769,P096,D004,2025-02-22,02:02,Consultation,Completed,Online,Pregnancy consultation
+A0770,P116,D005,2025-10-13,05:15,Follow-up,Completed,Walk-in,Child health checkup
+A0771,P211,D002,2026-09-16,03:47,Follow-up,No-show,Reception,Headache
+A0772,P160,D003,2025-11-24,18:35,Consultation,Scheduled,Online,Diet consultation
+A0773,P222,D004,2026-07-07,02:18,Follow-up,Scheduled,Phone,Fever
+A0774,P188,D003,2025-09-23,16:25,Emergency,Cancelled,Phone,Fever
+A0775,P027,D005,2026-09-20,01:49,Emergency,Scheduled,Phone,Blood pressure check
+A0776,P284,D004,2025-02-21,13:48,Follow-up,Cancelled,Online,Pregnancy consultation
+A0777,P032,D003,2026-08-27,17:06,Emergency,Completed,Online,Follow-up
+A0778,P271,D004,2025-06-26,09:41,Follow-up,Completed,Phone,Diet consultation
+A0779,P200,D005,2026-05-15,05:23,Emergency,No-show,Reception,Diet consultation
+A0780,P150,D005,2026-01-09,07:46,Health Checkup,No-show,Walk-in,Pregnancy consultation
+A0781,P130,D001,2025-11-25,11:46,Consultation,Cancelled,Online,Follow-up
+A0782,P277,D005,2025-04-11,10:34,Follow-up,No-show,Reception,Chest discomfort
+A0783,P292,D005,2026-05-30,00:00,Follow-up,Scheduled,Online,Headache
+A0784,P271,D004,2025-12-04,13:01,Health Checkup,No-show,Online,Child health checkup
+A0785,P001,D003,2025-07-24,14:24,Consultation,Cancelled,Reception,Routine checkup
+A0786,P160,D001,2025-02-01,09:01,Consultation,Cancelled,Phone,Pregnancy consultation
+A0787,P129,D001,2025-11-21,09:59,Emergency,Completed,Walk-in,Diabetes consultation
+A0788,P133,D005,2026-08-31,12:52,Emergency,Scheduled,Online,Headache
+A0789,P222,D003,2026-10-13,22:23,Emergency,No-show,Phone,Blood pressure check
+A0790,P268,D004,2025-08-22,01:30,Follow-up,Completed,Phone,Follow-up
+A0791,P281,D002,2025-03-24,11:45,Consultation,Scheduled,Phone,Routine checkup
+A0792,P077,D002,2025-10-12,14:38,Follow-up,Scheduled,Online,Routine checkup
+A0793,P106,D001,2026-06-05,02:10,Follow-up,Scheduled,Phone,Child health checkup
+A0794,P100,D005,2025-04-18,19:14,Emergency,Scheduled,Online,Diet consultation
+A0795,P122,D005,2025-12-29,15:20,Health Checkup,Cancelled,Online,Fever
+A0796,P203,D004,2026-11-28,06:36,Consultation,No-show,Walk-in,Fever
+A0797,P069,D002,2025-11-17,09:16,Health Checkup,Completed,Online,Diet consultation
+A0798,P068,D005,2025-10-13,03:21,Follow-up,Completed,Online,Child health checkup
+A0799,P278,D003,2025-01-20,17:20,Consultation,Completed,Online,Chest discomfort
+A0800,P010,D001,2025-11-04,01:47,Health Checkup,Completed,Reception,Diet consultation
+A0801,P063,D001,2026-04-14,08:57,Emergency,Cancelled,Online,Diabetes consultation
+A0802,P166,D003,2025-09-11,12:37,Emergency,No-show,Reception,Fever
+A0803,P040,D002,2025-12-02,17:15,Health Checkup,No-show,Reception,Follow-up
+A0804,P087,D001,2025-02-21,04:14,Emergency,Scheduled,Online,Pregnancy consultation
+A0805,P287,D004,2026-11-10,02:47,Follow-up,Cancelled,Phone,Child health checkup
+A0806,P057,D004,2026-10-16,04:07,Health Checkup,Scheduled,Walk-in,Fever
+A0807,P222,D003,2025-12-11,15:53,Follow-up,No-show,Reception,Pregnancy consultation
+A0808,P174,D002,2026-02-10,03:46,Follow-up,No-show,Reception,Blood pressure check
+A0809,P254,D005,2026-05-28,02:00,Follow-up,Cancelled,Reception,Diet consultation
+A0810,P050,D004,2026-05-08,13:18,Health Checkup,Cancelled,Reception,Pregnancy consultation
+A0811,P072,D005,2026-03-29,16:29,Emergency,Scheduled,Walk-in,Pregnancy consultation
+A0812,P197,D002,2026-11-16,12:23,Emergency,Completed,Phone,Pregnancy consultation
+A0813,P025,D004,2025-11-19,20:09,Follow-up,Scheduled,Phone,Diet consultation
+A0814,P121,D002,2026-03-19,16:27,Follow-up,Scheduled,Phone,Follow-up
+A0815,P254,D003,2026-06-12,07:46,Consultation,Scheduled,Walk-in,Routine checkup
+A0816,P189,D003,2026-12-15,00:24,Emergency,Scheduled,Reception,Blood pressure check
+A0817,P193,D004,2025-04-20,20:07,Emergency,No-show,Online,Diabetes consultation
+A0818,P223,D003,2025-09-08,07:17,Consultation,No-show,Online,Diet consultation
+A0819,P027,D002,2026-04-16,17:43,Consultation,No-show,Phone,Pregnancy consultation
+A0820,P232,D003,2026-03-21,12:38,Follow-up,No-show,Phone,Headache
+A0821,P074,D003,2026-11-21,18:56,Emergency,No-show,Reception,Blood pressure check
+A0822,P294,D005,2025-07-29,04:16,Follow-up,No-show,Reception,Pregnancy consultation
+A0823,P066,D005,2025-12-13,20:52,Emergency,Completed,Phone,Blood pressure check
+A0824,P227,D001,2025-08-18,11:29,Health Checkup,No-show,Walk-in,Follow-up
+A0825,P159,D001,2025-10-09,00:26,Emergency,Scheduled,Walk-in,Pregnancy consultation
+A0826,P147,D002,2026-12-21,00:55,Consultation,Scheduled,Walk-in,Fever
+A0827,P213,D001,2026-08-19,06:02,Consultation,No-show,Online,Diabetes consultation
+A0828,P144,D004,2025-02-25,10:34,Consultation,Completed,Online,Blood pressure check
+A0829,P034,D002,2026-01-04,21:46,Follow-up,Scheduled,Phone,Pregnancy consultation
+A0830,P114,D005,2025-10-14,04:38,Follow-up,Completed,Phone,Pregnancy consultation
+A0831,P233,D004,2025-05-30,15:36,Follow-up,Scheduled,Reception,Blood pressure check
+A0832,P053,D001,2026-06-06,23:20,Consultation,Scheduled,Phone,Diabetes consultation
+A0833,P118,D001,2025-10-23,03:16,Follow-up,Cancelled,Online,Chest discomfort
+A0834,P176,D004,2025-06-07,14:36,Health Checkup,No-show,Phone,Pregnancy consultation
+A0835,P241,D001,2026-01-13,03:58,Emergency,Completed,Online,Diet consultation
+A0836,P148,D003,2025-05-25,01:22,Emergency,Cancelled,Online,Headache
+A0837,P111,D003,2026-07-03,12:08,Follow-up,Scheduled,Reception,Blood pressure check
+A0838,P114,D005,2025-04-05,17:41,Follow-up,No-show,Reception,Child health checkup
+A0839,P256,D001,2025-03-15,19:36,Consultation,No-show,Reception,Child health checkup
+A0840,P022,D005,2025-04-02,06:42,Follow-up,Cancelled,Phone,Child health checkup
+A0841,P096,D004,2026-01-12,16:41,Follow-up,No-show,Online,Fever
+A0842,P240,D004,2026-04-26,20:38,Emergency,Completed,Reception,Chest discomfort
+A0843,P254,D005,2026-04-16,09:59,Emergency,Scheduled,Walk-in,Child health checkup
+A0844,P092,D004,2025-03-29,14:21,Follow-up,No-show,Phone,Routine checkup
+A0845,P287,D001,2025-07-26,02:04,Consultation,No-show,Reception,Blood pressure check
+A0846,P242,D005,2026-03-04,00:10,Emergency,Completed,Online,Chest discomfort
+A0847,P181,D001,2025-05-22,22:30,Consultation,No-show,Walk-in,Child health checkup
+A0848,P169,D002,2025-10-08,16:36,Consultation,No-show,Walk-in,Follow-up
+A0849,P283,D001,2026-08-21,23:13,Health Checkup,Cancelled,Reception,Routine checkup
+A0850,P099,D004,2026-11-11,22:56,Follow-up,Completed,Reception,Diabetes consultation
+A0851,P277,D005,2026-11-28,19:01,Health Checkup,Cancelled,Phone,Follow-up
+A0852,P225,D005,2025-10-21,04:00,Follow-up,Completed,Phone,Child health checkup
+A0853,P192,D005,2026-12-02,17:41,Health Checkup,Scheduled,Walk-in,Diabetes consultation
+A0854,P211,D002,2025-11-10,17:28,Emergency,Cancelled,Phone,Diabetes consultation
+A0855,P196,D005,2025-02-19,23:15,Health Checkup,Scheduled,Online,Blood pressure check
+A0856,P001,D001,2025-02-11,14:35,Health Checkup,Completed,Online,Headache
+A0857,P046,D004,2025-02-09,01:14,Health Checkup,No-show,Online,Follow-up
+A0858,P267,D001,2026-10-23,08:02,Follow-up,Completed,Phone,Blood pressure check
+A0859,P156,D003,2025-01-02,17:21,Health Checkup,No-show,Online,Headache
+A0860,P126,D005,2025-07-23,00:34,Emergency,Scheduled,Online,Pregnancy consultation
+A0861,P193,D005,2026-07-08,13:25,Follow-up,Scheduled,Phone,Blood pressure check
+A0862,P072,D003,2025-01-03,08:13,Emergency,No-show,Reception,Blood pressure check
+A0863,P038,D003,2025-03-13,02:51,Health Checkup,Cancelled,Online,Diabetes consultation
+A0864,P064,D004,2025-04-09,16:09,Follow-up,Completed,Walk-in,Child health checkup
+A0865,P201,D002,2026-11-25,20:34,Emergency,Cancelled,Online,Fever
+A0866,P019,D004,2025-03-29,08:18,Follow-up,Cancelled,Walk-in,Fever
+A0867,P232,D004,2025-06-01,03:43,Follow-up,Scheduled,Walk-in,Chest discomfort
+A0868,P110,D003,2026-01-17,05:23,Consultation,Scheduled,Online,Diabetes consultation
+A0869,P105,D004,2026-04-29,21:39,Follow-up,No-show,Phone,Diet consultation
+A0870,P014,D002,2026-10-17,23:50,Emergency,Completed,Phone,Chest discomfort
+A0871,P204,D001,2026-11-09,12:48,Follow-up,Cancelled,Walk-in,Child health checkup
+A0872,P122,D002,2026-12-03,16:19,Follow-up,Scheduled,Reception,Chest discomfort
+A0873,P146,D003,2025-11-16,10:13,Follow-up,Scheduled,Walk-in,Fever
+A0874,P071,D004,2026-02-21,08:07,Follow-up,Scheduled,Online,Child health checkup
+A0875,P131,D002,2026-02-10,08:38,Health Checkup,Cancelled,Walk-in,Fever
+A0876,P129,D005,2026-09-04,10:19,Health Checkup,No-show,Reception,Blood pressure check
+A0877,P171,D002,2025-11-04,20:03,Emergency,Completed,Phone,Fever
+A0878,P046,D002,2025-12-17,09:40,Emergency,No-show,Online,Diabetes consultation
+A0879,P085,D004,2025-09-04,09:39,Follow-up,Scheduled,Online,Child health checkup
+A0880,P291,D004,2026-09-22,08:53,Emergency,Scheduled,Walk-in,Child health checkup
+A0881,P041,D005,2025-08-27,14:23,Consultation,No-show,Online,Diet consultation
+A0882,P280,D002,2026-04-21,16:47,Follow-up,Scheduled,Online,Diabetes consultation
+A0883,P167,D002,2026-05-28,01:40,Emergency,No-show,Phone,Headache
+A0884,P043,D005,2026-10-09,03:46,Follow-up,Scheduled,Walk-in,Fever
+A0885,P163,D002,2025-10-03,11:54,Emergency,Cancelled,Phone,Headache
+A0886,P061,D004,2025-05-08,15:17,Health Checkup,Completed,Walk-in,Chest discomfort
+A0887,P055,D002,2026-12-08,14:28,Emergency,No-show,Phone,Headache
+A0888,P276,D005,2026-12-28,08:38,Follow-up,Completed,Reception,Child health checkup
+A0889,P259,D001,2025-10-03,08:07,Consultation,Cancelled,Phone,Fever
+A0890,P055,D004,2025-01-25,14:01,Consultation,Scheduled,Online,Follow-up
+A0891,P211,D001,2025-07-27,20:08,Consultation,Completed,Online,Diabetes consultation
+A0892,P017,D004,2026-05-19,10:10,Health Checkup,No-show,Reception,Fever
+A0893,P197,D002,2026-12-08,15:35,Emergency,Cancelled,Reception,Chest discomfort
+A0894,P168,D004,2025-07-12,05:12,Health Checkup,Completed,Phone,Routine checkup
+A0895,P255,D002,2025-12-22,21:47,Emergency,Cancelled,Reception,Pregnancy consultation
+A0896,P004,D003,2025-12-10,03:25,Health Checkup,No-show,Online,Routine checkup
+A0897,P151,D001,2025-06-22,23:46,Emergency,No-show,Walk-in,Diabetes consultation
+A0898,P218,D002,2025-05-23,07:01,Consultation,No-show,Phone,Fever
+A0899,P035,D005,2025-09-02,11:01,Consultation,Cancelled,Online,Routine checkup
+A0900,P064,D003,2025-01-29,21:03,Consultation,Cancelled,Walk-in,Fever
+A0901,P150,D004,2025-04-11,18:28,Follow-up,Cancelled,Walk-in,Routine checkup
+A0902,P153,D004,2025-04-01,03:28,Health Checkup,Completed,Walk-in,Routine checkup
+A0903,P042,D005,2025-11-25,01:08,Emergency,Completed,Phone,Blood pressure check
+A0904,P039,D003,2025-03-22,00:16,Consultation,Completed,Online,Follow-up
+A0905,P013,D005,2026-09-19,11:11,Health Checkup,No-show,Online,Pregnancy consultation
+A0906,P019,D004,2025-06-21,10:09,Consultation,No-show,Phone,Headache
+A0907,P079,D001,2025-05-31,03:32,Health Checkup,Scheduled,Phone,Chest discomfort
+A0908,P044,D005,2026-03-05,21:50,Health Checkup,No-show,Online,Follow-up
+A0909,P273,D005,2026-03-01,04:21,Follow-up,Cancelled,Walk-in,Diabetes consultation
+A0910,P126,D001,2025-10-24,15:33,Consultation,Cancelled,Phone,Follow-up
+A0911,P241,D002,2025-08-24,07:52,Emergency,Scheduled,Phone,Pregnancy consultation
+A0912,P121,D002,2026-03-08,16:03,Health Checkup,No-show,Phone,Diet consultation
+A0913,P128,D004,2025-12-07,06:53,Consultation,Completed,Walk-in,Headache
+A0914,P193,D005,2026-05-09,22:44,Emergency,Scheduled,Reception,Headache
+A0915,P168,D003,2026-12-20,07:01,Follow-up,No-show,Walk-in,Headache
+A0916,P260,D004,2026-04-02,07:41,Consultation,Completed,Online,Diabetes consultation
+A0917,P129,D004,2026-02-01,10:53,Emergency,Cancelled,Phone,Pregnancy consultation
+A0918,P103,D005,2026-08-10,20:57,Consultation,No-show,Phone,Pregnancy consultation
+A0919,P037,D004,2026-09-23,19:04,Consultation,No-show,Reception,Diabetes consultation
+A0920,P246,D003,2026-04-02,04:14,Follow-up,No-show,Reception,Headache
+A0921,P169,D003,2025-02-09,20:34,Emergency,Completed,Walk-in,Child health checkup
+A0922,P243,D002,2026-01-03,07:49,Emergency,Scheduled,Online,Child health checkup
+A0923,P206,D005,2025-07-21,09:50,Follow-up,Scheduled,Online,Fever
+A0924,P281,D003,2026-11-07,09:51,Consultation,Scheduled,Reception,Diabetes consultation
+A0925,P183,D005,2026-09-23,18:22,Health Checkup,Scheduled,Walk-in,Chest discomfort
+A0926,P163,D005,2026-07-09,07:57,Consultation,No-show,Online,Chest discomfort
+A0927,P081,D004,2025-12-25,09:26,Follow-up,Cancelled,Phone,Diabetes consultation
+A0928,P292,D005,2026-06-28,02:41,Health Checkup,No-show,Walk-in,Headache
+A0929,P106,D005,2026-05-28,18:33,Follow-up,Scheduled,Online,Follow-up
+A0930,P131,D005,2025-02-11,13:59,Health Checkup,Cancelled,Walk-in,Headache
+A0931,P201,D003,2026-09-03,13:48,Follow-up,No-show,Phone,Fever
+A0932,P276,D005,2026-03-22,01:48,Follow-up,Scheduled,Reception,Diet consultation
+A0933,P143,D002,2026-12-27,17:27,Health Checkup,No-show,Reception,Follow-up
+A0934,P079,D001,2026-03-19,01:24,Consultation,Scheduled,Walk-in,Blood pressure check
+A0935,P125,D002,2026-02-16,01:26,Health Checkup,Completed,Phone,Follow-up
+A0936,P169,D004,2026-09-05,22:11,Consultation,No-show,Reception,Diabetes consultation
+A0937,P148,D005,2025-04-29,22:26,Consultation,No-show,Reception,Chest discomfort
+A0938,P226,D004,2025-05-01,06:26,Consultation,Cancelled,Reception,Child health checkup
+A0939,P186,D003,2025-12-31,20:10,Emergency,No-show,Reception,Headache
+A0940,P042,D005,2026-01-08,14:45,Follow-up,Scheduled,Walk-in,Diet consultation
+A0941,P203,D005,2026-02-09,14:10,Follow-up,Scheduled,Reception,Fever
+A0942,P277,D005,2025-12-19,02:57,Emergency,Completed,Walk-in,Diet consultation
+A0943,P093,D005,2026-04-08,14:58,Consultation,Scheduled,Phone,Diabetes consultation
+A0944,P063,D003,2026-12-18,15:33,Consultation,Cancelled,Reception,Blood pressure check
+A0945,P012,D001,2025-08-25,17:52,Emergency,Cancelled,Phone,Headache
+A0946,P147,D003,2026-01-02,21:29,Health Checkup,Scheduled,Online,Blood pressure check
+A0947,P116,D004,2025-05-16,14:45,Health Checkup,Completed,Walk-in,Child health checkup
+A0948,P143,D004,2026-04-23,20:47,Follow-up,No-show,Walk-in,Diabetes consultation
+A0949,P014,D001,2025-06-28,19:52,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A0950,P287,D002,2026-04-14,10:50,Consultation,Completed,Phone,Headache
+A0951,P056,D001,2026-02-22,18:15,Consultation,Cancelled,Reception,Fever
+A0952,P033,D001,2026-10-03,15:23,Consultation,Completed,Reception,Headache
+A0953,P098,D003,2025-10-01,04:02,Follow-up,Completed,Reception,Diet consultation
+A0954,P243,D005,2025-09-23,03:39,Follow-up,Scheduled,Phone,Diabetes consultation
+A0955,P233,D004,2026-12-09,17:09,Consultation,No-show,Walk-in,Chest discomfort
+A0956,P078,D003,2026-10-13,11:24,Follow-up,No-show,Reception,Follow-up
+A0957,P197,D005,2025-01-25,21:20,Health Checkup,Completed,Online,Headache
+A0958,P120,D002,2026-06-03,14:07,Emergency,Cancelled,Phone,Headache
+A0959,P055,D002,2026-02-06,23:30,Consultation,Cancelled,Online,Blood pressure check
+A0960,P270,D001,2026-02-15,02:15,Consultation,Scheduled,Phone,Diabetes consultation
+A0961,P008,D002,2026-12-09,06:09,Consultation,No-show,Online,Fever
+A0962,P065,D005,2026-01-20,23:58,Emergency,No-show,Phone,Follow-up
+A0963,P290,D005,2025-10-30,11:53,Consultation,Completed,Reception,Routine checkup
+A0964,P196,D002,2026-06-08,07:13,Emergency,Cancelled,Phone,Fever
+A0965,P063,D005,2025-10-23,15:57,Follow-up,No-show,Online,Follow-up
+A0966,P110,D003,2025-01-30,18:52,Health Checkup,Completed,Online,Diet consultation
+A0967,P270,D002,2026-05-21,18:27,Follow-up,Scheduled,Reception,Pregnancy consultation
+A0968,P169,D003,2025-04-26,04:12,Emergency,Completed,Reception,Follow-up
+A0969,P222,D004,2025-10-28,18:32,Health Checkup,Scheduled,Walk-in,Diet consultation
+A0970,P123,D004,2026-07-23,14:49,Emergency,Cancelled,Reception,Routine checkup
+A0971,P165,D003,2025-10-20,17:56,Follow-up,Cancelled,Reception,Blood pressure check
+A0972,P240,D005,2026-05-09,17:36,Follow-up,Completed,Online,Diabetes consultation
+A0973,P246,D001,2025-03-31,21:44,Health Checkup,Scheduled,Phone,Diet consultation
+A0974,P172,D004,2025-07-01,18:24,Consultation,Scheduled,Online,Blood pressure check
+A0975,P155,D004,2025-02-11,11:47,Follow-up,Cancelled,Walk-in,Headache
+A0976,P220,D002,2026-08-18,03:26,Follow-up,Scheduled,Walk-in,Routine checkup
+A0977,P282,D003,2026-11-03,09:13,Consultation,Completed,Walk-in,Diabetes consultation
+A0978,P197,D005,2026-04-28,00:23,Health Checkup,Cancelled,Phone,Headache
+A0979,P065,D005,2025-07-13,14:20,Emergency,No-show,Phone,Chest discomfort
+A0980,P073,D001,2025-08-21,06:37,Consultation,Completed,Walk-in,Child health checkup
+A0981,P066,D004,2026-01-19,10:03,Health Checkup,No-show,Phone,Blood pressure check
+A0982,P271,D001,2025-08-21,22:52,Emergency,Scheduled,Online,Chest discomfort
+A0983,P291,D001,2025-12-05,15:49,Health Checkup,No-show,Phone,Blood pressure check
+A0984,P260,D004,2026-08-20,15:24,Emergency,Completed,Walk-in,Child health checkup
+A0985,P247,D005,2025-01-04,21:27,Emergency,Scheduled,Phone,Follow-up
+A0986,P008,D001,2026-04-19,07:44,Health Checkup,Completed,Reception,Blood pressure check
+A0987,P229,D002,2026-12-18,03:32,Follow-up,Completed,Phone,Child health checkup
+A0988,P184,D003,2026-10-13,04:12,Consultation,No-show,Online,Headache
+A0989,P136,D005,2025-05-26,21:15,Consultation,Completed,Online,Headache
+A0990,P212,D003,2026-02-10,22:17,Consultation,Scheduled,Online,Blood pressure check
+A0991,P225,D005,2025-09-04,15:23,Consultation,No-show,Reception,Follow-up
+A0992,P123,D002,2026-07-04,00:57,Emergency,Completed,Phone,Child health checkup
+A0993,P274,D001,2025-01-27,12:06,Follow-up,Completed,Phone,Headache
+A0994,P194,D005,2025-08-08,13:00,Consultation,No-show,Phone,Blood pressure check
+A0995,P271,D003,2025-10-31,10:53,Health Checkup,Scheduled,Walk-in,Chest discomfort
+A0996,P027,D003,2025-10-18,07:52,Emergency,Cancelled,Phone,Follow-up
+A0997,P274,D002,2026-05-19,08:26,Emergency,Scheduled,Reception,Chest discomfort
+A0998,P097,D002,2026-08-26,23:59,Emergency,No-show,Phone,Follow-up
+A0999,P108,D001,2026-01-11,05:00,Health Checkup,No-show,Online,Follow-up
+A1000,P283,D001,2025-02-23,17:55,Health Checkup,Cancelled,Walk-in,Headache
+A1001,P122,D003,2025-11-26,16:32,Consultation,No-show,Online,Pregnancy consultation
+A1002,P044,D005,2025-08-16,12:09,Follow-up,Cancelled,Phone,Follow-up
+A1003,P199,D002,2026-09-26,19:40,Health Checkup,No-show,Reception,Diabetes consultation
+A1004,P232,D003,2026-08-01,17:56,Consultation,Completed,Phone,Routine checkup
+A1005,P151,D004,2025-08-17,12:36,Follow-up,Cancelled,Phone,Headache
+A1006,P024,D001,2025-04-13,02:05,Consultation,Scheduled,Reception,Routine checkup
+A1007,P262,D002,2026-06-13,20:46,Follow-up,Cancelled,Reception,Diet consultation
+A1008,P164,D005,2026-10-03,23:07,Health Checkup,Completed,Online,Diabetes consultation
+A1009,P071,D005,2026-12-19,03:38,Follow-up,No-show,Phone,Follow-up
+A1010,P270,D003,2026-03-06,16:49,Consultation,Completed,Walk-in,Child health checkup
+A1011,P246,D003,2025-07-15,04:24,Emergency,No-show,Walk-in,Diabetes consultation
+A1012,P190,D005,2026-09-10,06:16,Follow-up,No-show,Reception,Child health checkup
+A1013,P275,D003,2025-05-11,23:16,Consultation,No-show,Reception,Blood pressure check
+A1014,P183,D003,2025-08-02,05:36,Follow-up,Cancelled,Reception,Headache
+A1015,P035,D004,2026-02-13,19:51,Health Checkup,Cancelled,Reception,Chest discomfort
+A1016,P088,D005,2026-07-16,18:13,Consultation,Completed,Walk-in,Pregnancy consultation
+A1017,P243,D003,2025-12-24,14:38,Health Checkup,Cancelled,Walk-in,Pregnancy consultation
+A1018,P074,D001,2026-01-17,12:01,Consultation,No-show,Phone,Follow-up
+A1019,P014,D005,2026-11-14,06:17,Health Checkup,Cancelled,Phone,Blood pressure check
+A1020,P204,D004,2026-08-21,21:50,Consultation,No-show,Walk-in,Routine checkup
+A1021,P238,D003,2026-03-31,04:48,Consultation,Completed,Reception,Child health checkup
+A1022,P134,D001,2025-09-01,08:31,Emergency,Cancelled,Online,Fever
+A1023,P278,D004,2025-04-23,19:58,Emergency,Completed,Online,Chest discomfort
+A1024,P192,D002,2025-11-12,08:36,Emergency,Completed,Reception,Diet consultation
+A1025,P051,D004,2025-04-09,04:48,Health Checkup,Cancelled,Phone,Routine checkup
+A1026,P196,D003,2025-01-31,11:50,Emergency,No-show,Walk-in,Blood pressure check
+A1027,P260,D001,2025-07-28,19:37,Consultation,Cancelled,Online,Child health checkup
+A1028,P251,D005,2025-01-01,00:22,Emergency,No-show,Reception,Pregnancy consultation
+A1029,P024,D001,2025-02-15,13:55,Consultation,No-show,Walk-in,Pregnancy consultation
+A1030,P105,D005,2026-10-09,13:32,Follow-up,Completed,Walk-in,Child health checkup
+A1031,P132,D004,2025-12-21,05:00,Follow-up,Scheduled,Phone,Diet consultation
+A1032,P101,D003,2025-12-04,22:43,Emergency,Completed,Online,Follow-up
+A1033,P203,D001,2025-02-02,09:32,Health Checkup,No-show,Reception,Chest discomfort
+A1034,P295,D002,2025-08-16,06:27,Follow-up,Scheduled,Walk-in,Diet consultation
+A1035,P071,D004,2025-05-31,18:11,Health Checkup,Cancelled,Walk-in,Diet consultation
+A1036,P057,D002,2026-10-16,07:31,Health Checkup,Scheduled,Online,Chest discomfort
+A1037,P272,D002,2025-06-05,00:23,Health Checkup,Scheduled,Walk-in,Pregnancy consultation
+A1038,P268,D001,2025-12-11,23:30,Follow-up,Completed,Reception,Blood pressure check
+A1039,P100,D004,2025-02-17,21:43,Consultation,Cancelled,Reception,Chest discomfort
+A1040,P157,D003,2026-03-13,21:49,Follow-up,Scheduled,Walk-in,Follow-up
+A1041,P185,D004,2026-08-22,19:37,Follow-up,Cancelled,Phone,Headache
+A1042,P255,D004,2025-09-03,21:16,Health Checkup,Completed,Online,Diabetes consultation
+A1043,P118,D005,2026-06-10,16:26,Emergency,Completed,Phone,Chest discomfort
+A1044,P282,D002,2025-06-10,12:02,Follow-up,Scheduled,Reception,Pregnancy consultation
+A1045,P247,D005,2026-10-03,18:48,Health Checkup,Scheduled,Walk-in,Follow-up
+A1046,P222,D001,2026-05-29,18:54,Follow-up,Scheduled,Walk-in,Child health checkup
+A1047,P175,D003,2026-06-12,06:43,Emergency,Cancelled,Phone,Child health checkup
+A1048,P066,D001,2025-07-23,12:00,Consultation,No-show,Reception,Diabetes consultation
+A1049,P268,D002,2026-11-28,20:42,Emergency,No-show,Phone,Pregnancy consultation
+A1050,P213,D002,2025-04-01,16:04,Follow-up,Cancelled,Walk-in,Headache
+A1051,P103,D001,2026-12-15,00:29,Consultation,Scheduled,Online,Follow-up
+A1052,P081,D003,2025-04-16,02:44,Follow-up,Completed,Online,Routine checkup
+A1053,P070,D005,2025-09-14,01:03,Consultation,No-show,Reception,Blood pressure check
+A1054,P017,D004,2025-11-30,11:00,Health Checkup,Scheduled,Walk-in,Fever
+A1055,P137,D001,2026-11-18,02:59,Follow-up,Completed,Reception,Headache
+A1056,P133,D005,2025-12-09,02:13,Follow-up,Cancelled,Online,Child health checkup
+A1057,P278,D004,2025-01-26,17:31,Follow-up,Cancelled,Walk-in,Diet consultation
+A1058,P273,D005,2026-10-24,12:02,Emergency,Scheduled,Reception,Pregnancy consultation
+A1059,P202,D003,2026-06-10,10:29,Emergency,Cancelled,Phone,Pregnancy consultation
+A1060,P275,D002,2025-07-17,02:51,Follow-up,Scheduled,Reception,Pregnancy consultation
+A1061,P108,D001,2026-10-05,22:29,Follow-up,Completed,Phone,Headache
+A1062,P094,D005,2025-04-20,03:03,Follow-up,Cancelled,Walk-in,Blood pressure check
+A1063,P153,D005,2025-10-25,01:09,Emergency,Cancelled,Phone,Follow-up
+A1064,P034,D002,2025-05-14,02:05,Emergency,Scheduled,Walk-in,Routine checkup
+A1065,P175,D003,2025-10-22,04:47,Health Checkup,Completed,Online,Follow-up
+A1066,P106,D004,2026-02-13,02:52,Emergency,Scheduled,Walk-in,Child health checkup
+A1067,P175,D003,2025-08-01,04:32,Health Checkup,Completed,Reception,Follow-up
+A1068,P256,D004,2026-04-08,14:59,Consultation,Scheduled,Walk-in,Headache
+A1069,P127,D003,2025-03-30,23:17,Health Checkup,Cancelled,Phone,Routine checkup
+A1070,P217,D002,2025-09-06,08:22,Follow-up,No-show,Reception,Pregnancy consultation
+A1071,P160,D001,2026-11-29,12:22,Health Checkup,Completed,Phone,Headache
+A1072,P059,D005,2025-07-01,21:51,Consultation,Cancelled,Phone,Routine checkup
+A1073,P275,D004,2025-10-05,15:52,Emergency,No-show,Phone,Blood pressure check
+A1074,P171,D002,2026-08-20,04:38,Emergency,No-show,Walk-in,Routine checkup
+A1075,P284,D005,2026-04-07,18:24,Emergency,Completed,Phone,Routine checkup
+A1076,P123,D004,2025-02-18,16:32,Follow-up,Scheduled,Online,Fever
+A1077,P209,D001,2026-11-27,04:00,Health Checkup,No-show,Phone,Chest discomfort
+A1078,P169,D004,2025-07-28,03:45,Consultation,Cancelled,Online,Blood pressure check
+A1079,P039,D003,2026-03-01,10:27,Health Checkup,Scheduled,Online,Blood pressure check
+A1080,P240,D001,2025-03-12,23:47,Follow-up,No-show,Walk-in,Chest discomfort
+A1081,P078,D002,2025-01-17,10:36,Emergency,No-show,Reception,Diet consultation
+A1082,P198,D004,2026-04-03,20:30,Follow-up,Cancelled,Walk-in,Pregnancy consultation
+A1083,P036,D002,2025-04-07,09:28,Consultation,Scheduled,Online,Follow-up
+A1084,P122,D004,2025-04-11,04:44,Emergency,Scheduled,Online,Fever
+A1085,P140,D001,2025-10-16,11:59,Emergency,Scheduled,Online,Follow-up
+A1086,P263,D002,2025-11-11,05:50,Emergency,Scheduled,Reception,Headache
+A1087,P194,D002,2026-07-17,13:26,Health Checkup,Cancelled,Online,Follow-up
+A1088,P085,D002,2026-11-18,04:52,Follow-up,Completed,Walk-in,Follow-up
+A1089,P241,D004,2026-10-09,23:26,Follow-up,Cancelled,Online,Blood pressure check
+A1090,P173,D003,2025-08-07,09:24,Follow-up,No-show,Online,Pregnancy consultation
+A1091,P156,D001,2026-10-29,17:30,Consultation,Completed,Reception,Child health checkup
+A1092,P263,D005,2025-12-19,03:43,Emergency,No-show,Online,Follow-up
+A1093,P101,D002,2025-08-26,12:52,Consultation,Completed,Reception,Diabetes consultation
+A1094,P131,D002,2026-09-03,09:27,Health Checkup,No-show,Walk-in,Chest discomfort
+A1095,P137,D002,2026-01-04,10:59,Consultation,Completed,Walk-in,Blood pressure check
+A1096,P145,D001,2025-09-27,09:51,Consultation,Completed,Online,Child health checkup
+A1097,P296,D004,2026-02-25,05:10,Emergency,Completed,Reception,Blood pressure check
+A1098,P254,D001,2025-07-30,22:30,Consultation,No-show,Online,Routine checkup
+A1099,P257,D001,2025-09-22,23:50,Emergency,Completed,Phone,Chest discomfort
+A1100,P110,D002,2025-09-26,11:09,Consultation,Completed,Walk-in,Fever
+A1101,P064,D003,2026-08-17,07:56,Consultation,Cancelled,Online,Diet consultation
+A1102,P073,D001,2025-06-26,19:43,Emergency,Scheduled,Reception,Diet consultation
+A1103,P033,D003,2026-03-27,19:45,Consultation,No-show,Online,Follow-up
+A1104,P265,D003,2025-05-17,04:47,Health Checkup,No-show,Reception,Child health checkup
+A1105,P232,D005,2026-03-13,19:38,Health Checkup,Cancelled,Walk-in,Child health checkup
+A1106,P134,D003,2025-06-17,21:35,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A1107,P089,D002,2025-01-19,06:23,Emergency,Completed,Walk-in,Blood pressure check
+A1108,P067,D004,2026-10-09,01:40,Consultation,Cancelled,Phone,Blood pressure check
+A1109,P092,D005,2026-08-14,12:09,Consultation,Scheduled,Reception,Chest discomfort
+A1110,P028,D003,2025-12-18,13:25,Emergency,Cancelled,Online,Chest discomfort
+A1111,P030,D002,2026-11-17,10:37,Consultation,Completed,Phone,Routine checkup
+A1112,P132,D005,2026-05-27,15:11,Emergency,Scheduled,Walk-in,Diet consultation
+A1113,P181,D002,2026-02-11,11:33,Follow-up,No-show,Online,Child health checkup
+A1114,P106,D002,2026-05-31,10:16,Emergency,Cancelled,Reception,Headache
+A1115,P236,D004,2025-03-29,09:37,Health Checkup,Scheduled,Phone,Child health checkup
+A1116,P114,D002,2025-04-12,16:31,Emergency,No-show,Walk-in,Blood pressure check
+A1117,P249,D005,2025-11-17,02:59,Health Checkup,Completed,Reception,Headache
+A1118,P211,D003,2025-11-05,11:22,Consultation,Cancelled,Reception,Child health checkup
+A1119,P212,D001,2025-01-20,12:43,Consultation,Scheduled,Online,Diet consultation
+A1120,P100,D003,2026-04-14,13:27,Follow-up,No-show,Walk-in,Chest discomfort
+A1121,P280,D002,2026-03-22,17:21,Health Checkup,Scheduled,Walk-in,Routine checkup
+A1122,P222,D005,2026-09-28,22:31,Emergency,Scheduled,Walk-in,Blood pressure check
+A1123,P094,D004,2025-11-17,10:14,Follow-up,Scheduled,Phone,Blood pressure check
+A1124,P099,D004,2025-04-20,19:09,Health Checkup,Scheduled,Reception,Child health checkup
+A1125,P254,D005,2025-02-19,04:31,Consultation,No-show,Online,Fever
+A1126,P183,D003,2026-01-03,15:33,Follow-up,No-show,Online,Fever
+A1127,P204,D003,2026-12-27,05:09,Emergency,Scheduled,Reception,Follow-up
+A1128,P259,D001,2025-02-05,13:09,Follow-up,Cancelled,Walk-in,Chest discomfort
+A1129,P008,D001,2025-01-12,08:52,Consultation,Cancelled,Online,Child health checkup
+A1130,P145,D001,2025-08-03,21:38,Follow-up,No-show,Reception,Diet consultation
+A1131,P073,D005,2025-02-09,13:29,Consultation,Cancelled,Phone,Pregnancy consultation
+A1132,P263,D003,2025-01-14,22:28,Follow-up,No-show,Reception,Headache
+A1133,P067,D003,2026-07-05,03:58,Emergency,Scheduled,Reception,Blood pressure check
+A1134,P096,D004,2025-08-23,15:09,Health Checkup,Cancelled,Phone,Pregnancy consultation
+A1135,P134,D004,2026-10-24,23:52,Consultation,Scheduled,Walk-in,Follow-up
+A1136,P224,D002,2026-07-01,03:02,Health Checkup,No-show,Phone,Chest discomfort
+A1137,P224,D005,2026-03-09,06:57,Consultation,Scheduled,Reception,Diabetes consultation
+A1138,P276,D003,2026-07-09,14:08,Consultation,Cancelled,Phone,Diabetes consultation
+A1139,P174,D004,2026-01-26,22:59,Consultation,No-show,Phone,Routine checkup
+A1140,P020,D001,2026-03-31,23:50,Health Checkup,No-show,Phone,Headache
+A1141,P271,D003,2026-07-21,03:00,Follow-up,Scheduled,Phone,Fever
+A1142,P216,D003,2026-07-21,15:25,Emergency,No-show,Walk-in,Chest discomfort
+A1143,P025,D002,2026-04-25,12:58,Health Checkup,Cancelled,Online,Routine checkup
+A1144,P123,D001,2026-09-13,00:35,Health Checkup,Scheduled,Walk-in,Follow-up
+A1145,P066,D004,2025-06-24,04:03,Follow-up,Completed,Walk-in,Diet consultation
+A1146,P016,D003,2026-08-13,17:45,Follow-up,Cancelled,Online,Blood pressure check
+A1147,P031,D001,2025-08-30,20:42,Health Checkup,Cancelled,Reception,Routine checkup
+A1148,P294,D002,2025-11-21,14:30,Consultation,No-show,Phone,Chest discomfort
+A1149,P089,D004,2026-08-31,12:30,Emergency,Completed,Walk-in,Headache
+A1150,P019,D003,2025-02-16,03:18,Emergency,Scheduled,Walk-in,Fever
+A1151,P163,D001,2025-06-28,11:29,Follow-up,Scheduled,Reception,Headache
+A1152,P115,D004,2025-09-27,20:08,Health Checkup,Completed,Online,Fever
+A1153,P039,D005,2026-05-03,20:56,Follow-up,Completed,Reception,Follow-up
+A1154,P214,D003,2025-03-18,16:07,Emergency,Completed,Online,Headache
+A1155,P150,D005,2026-07-25,09:16,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A1156,P267,D004,2026-03-09,05:15,Health Checkup,Completed,Online,Pregnancy consultation
+A1157,P043,D003,2026-01-19,08:59,Emergency,No-show,Reception,Chest discomfort
+A1158,P281,D002,2026-02-05,16:43,Emergency,No-show,Phone,Follow-up
+A1159,P143,D005,2026-01-23,05:29,Emergency,No-show,Phone,Pregnancy consultation
+A1160,P101,D003,2025-04-06,10:37,Emergency,No-show,Reception,Diet consultation
+A1161,P025,D002,2026-01-19,21:10,Health Checkup,Completed,Walk-in,Routine checkup
+A1162,P053,D005,2025-01-26,09:13,Emergency,No-show,Online,Routine checkup
+A1163,P289,D003,2025-06-21,04:59,Health Checkup,Cancelled,Online,Diabetes consultation
+A1164,P159,D001,2025-10-31,14:12,Consultation,Completed,Phone,Follow-up
+A1165,P297,D001,2025-04-25,08:45,Emergency,Scheduled,Walk-in,Diabetes consultation
+A1166,P060,D004,2026-08-03,03:59,Follow-up,No-show,Phone,Chest discomfort
+A1167,P061,D002,2026-01-12,02:32,Health Checkup,Completed,Phone,Fever
+A1168,P290,D002,2026-01-21,18:50,Emergency,Cancelled,Walk-in,Diet consultation
+A1169,P086,D003,2025-07-06,16:22,Health Checkup,No-show,Phone,Child health checkup
+A1170,P276,D003,2025-06-26,02:42,Consultation,No-show,Walk-in,Blood pressure check
+A1171,P178,D005,2025-12-05,15:28,Follow-up,Scheduled,Walk-in,Fever
+A1172,P103,D004,2026-12-10,02:34,Consultation,No-show,Online,Headache
+A1173,P007,D004,2025-04-11,19:31,Emergency,No-show,Reception,Routine checkup
+A1174,P075,D001,2026-05-30,02:06,Health Checkup,Cancelled,Online,Child health checkup
+A1175,P206,D003,2025-11-15,03:04,Health Checkup,Completed,Phone,Diet consultation
+A1176,P048,D001,2025-07-16,20:49,Health Checkup,Cancelled,Phone,Diet consultation
+A1177,P274,D005,2026-09-17,18:33,Health Checkup,Cancelled,Walk-in,Headache
+A1178,P190,D005,2026-09-22,19:19,Health Checkup,Scheduled,Reception,Diet consultation
+A1179,P243,D002,2026-11-30,15:54,Consultation,Cancelled,Phone,Headache
+A1180,P195,D005,2025-01-22,14:19,Emergency,Completed,Walk-in,Blood pressure check
+A1181,P019,D004,2026-05-25,12:27,Health Checkup,No-show,Walk-in,Headache
+A1182,P280,D003,2026-12-06,21:03,Health Checkup,No-show,Online,Diet consultation
+A1183,P081,D004,2025-07-03,19:54,Follow-up,Completed,Walk-in,Headache
+A1184,P272,D004,2025-08-17,22:57,Health Checkup,Scheduled,Phone,Follow-up
+A1185,P190,D001,2026-10-11,04:58,Emergency,No-show,Phone,Fever
+A1186,P234,D002,2026-06-18,08:59,Emergency,Cancelled,Phone,Pregnancy consultation
+A1187,P068,D002,2026-10-02,07:32,Follow-up,Scheduled,Walk-in,Blood pressure check
+A1188,P245,D001,2026-12-30,19:39,Consultation,Completed,Reception,Diet consultation
+A1189,P136,D003,2025-08-18,00:09,Follow-up,Scheduled,Online,Headache
+A1190,P066,D001,2025-01-27,18:00,Follow-up,Cancelled,Phone,Fever
+A1191,P067,D002,2025-10-26,22:33,Follow-up,Scheduled,Reception,Diabetes consultation
+A1192,P197,D003,2026-04-24,18:14,Follow-up,Completed,Walk-in,Blood pressure check
+A1193,P259,D002,2026-02-14,18:48,Health Checkup,Cancelled,Phone,Fever
+A1194,P187,D002,2025-02-25,06:34,Consultation,Completed,Reception,Diabetes consultation
+A1195,P091,D002,2026-04-24,17:52,Follow-up,Cancelled,Reception,Child health checkup
+A1196,P232,D003,2026-11-26,22:12,Consultation,Cancelled,Walk-in,Headache
+A1197,P010,D005,2025-04-17,08:36,Health Checkup,No-show,Reception,Follow-up
+A1198,P098,D002,2026-06-06,22:57,Emergency,Scheduled,Phone,Diet consultation
+A1199,P010,D002,2026-07-31,17:20,Emergency,No-show,Walk-in,Pregnancy consultation
+A1200,P232,D003,2025-02-21,19:42,Health Checkup,Completed,Phone,Child health checkup
+A1201,P191,D001,2026-04-07,21:44,Emergency,Completed,Reception,Pregnancy consultation
+A1202,P281,D003,2026-01-27,08:08,Emergency,Scheduled,Reception,Chest discomfort
+A1203,P058,D001,2026-04-17,07:01,Health Checkup,Scheduled,Phone,Pregnancy consultation
+A1204,P220,D002,2026-10-30,06:10,Emergency,Cancelled,Reception,Pregnancy consultation
+A1205,P131,D005,2026-06-09,02:58,Emergency,Cancelled,Reception,Diabetes consultation
+A1206,P093,D001,2025-02-13,13:28,Consultation,Cancelled,Phone,Pregnancy consultation
+A1207,P101,D004,2025-02-10,05:56,Health Checkup,No-show,Phone,Chest discomfort
+A1208,P182,D004,2025-06-18,13:09,Emergency,Completed,Phone,Child health checkup
+A1209,P267,D001,2026-03-26,00:17,Health Checkup,No-show,Walk-in,Follow-up
+A1210,P272,D004,2025-11-07,00:02,Health Checkup,No-show,Walk-in,Chest discomfort
+A1211,P140,D002,2025-08-19,21:17,Health Checkup,Cancelled,Phone,Fever
+A1212,P154,D003,2025-05-05,10:35,Emergency,Completed,Walk-in,Routine checkup
+A1213,P275,D003,2025-03-23,22:29,Follow-up,No-show,Phone,Child health checkup
+A1214,P261,D003,2026-11-23,15:06,Health Checkup,Completed,Online,Blood pressure check
+A1215,P044,D002,2025-05-24,08:28,Follow-up,Completed,Reception,Child health checkup
+A1216,P145,D003,2026-10-23,07:45,Health Checkup,Cancelled,Walk-in,Fever
+A1217,P019,D001,2025-11-30,21:39,Follow-up,Scheduled,Online,Child health checkup
+A1218,P144,D004,2025-06-08,19:17,Health Checkup,No-show,Walk-in,Chest discomfort
+A1219,P229,D001,2025-06-23,01:03,Consultation,No-show,Reception,Fever
+A1220,P208,D004,2025-02-17,01:16,Follow-up,Cancelled,Online,Chest discomfort
+A1221,P228,D003,2025-11-24,13:36,Consultation,No-show,Walk-in,Routine checkup
+A1222,P190,D002,2026-08-14,03:33,Follow-up,Scheduled,Phone,Follow-up
+A1223,P279,D001,2025-01-15,07:38,Health Checkup,Completed,Walk-in,Headache
+A1224,P280,D003,2026-09-09,05:02,Health Checkup,Cancelled,Phone,Child health checkup
+A1225,P123,D005,2025-05-11,18:06,Health Checkup,No-show,Walk-in,Pregnancy consultation
+A1226,P271,D003,2026-06-06,06:28,Emergency,No-show,Phone,Diet consultation
+A1227,P145,D005,2025-09-29,19:08,Emergency,Completed,Online,Routine checkup
+A1228,P094,D004,2025-12-11,18:10,Health Checkup,Completed,Walk-in,Routine checkup
+A1229,P051,D002,2026-03-15,03:47,Emergency,Scheduled,Phone,Follow-up
+A1230,P089,D004,2026-12-11,21:08,Follow-up,Completed,Walk-in,Chest discomfort
+A1231,P297,D004,2026-06-13,21:58,Follow-up,Completed,Phone,Follow-up
+A1232,P108,D001,2025-08-30,08:03,Consultation,Cancelled,Walk-in,Diabetes consultation
+A1233,P019,D001,2026-02-11,11:09,Follow-up,Scheduled,Reception,Chest discomfort
+A1234,P056,D003,2025-12-03,22:21,Consultation,Scheduled,Phone,Headache
+A1235,P082,D001,2025-05-23,09:33,Health Checkup,No-show,Online,Fever
+A1236,P042,D002,2026-09-21,05:17,Consultation,Cancelled,Reception,Blood pressure check
+A1237,P255,D001,2026-12-23,23:26,Consultation,Scheduled,Phone,Chest discomfort
+A1238,P195,D002,2026-03-28,07:12,Consultation,Scheduled,Walk-in,Diabetes consultation
+A1239,P028,D003,2026-11-18,11:43,Consultation,Scheduled,Online,Pregnancy consultation
+A1240,P040,D002,2025-01-09,11:32,Follow-up,Scheduled,Online,Fever
+A1241,P104,D001,2026-10-25,10:40,Emergency,Scheduled,Reception,Fever
+A1242,P064,D004,2026-09-24,18:43,Follow-up,Scheduled,Phone,Follow-up
+A1243,P300,D005,2026-05-25,09:38,Emergency,Scheduled,Walk-in,Diabetes consultation
+A1244,P277,D005,2025-10-02,02:54,Health Checkup,Completed,Phone,Follow-up
+A1245,P078,D002,2026-08-04,15:36,Emergency,Completed,Walk-in,Fever
+A1246,P065,D002,2026-12-18,21:59,Emergency,Cancelled,Walk-in,Pregnancy consultation
+A1247,P091,D001,2026-01-10,16:18,Emergency,No-show,Online,Follow-up
+A1248,P178,D004,2025-10-28,14:46,Emergency,Cancelled,Online,Blood pressure check
+A1249,P189,D002,2025-04-19,07:25,Follow-up,Scheduled,Reception,Fever
+A1250,P020,D002,2026-04-24,10:02,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A1251,P058,D004,2026-08-31,09:06,Health Checkup,Cancelled,Walk-in,Fever
+A1252,P026,D003,2025-07-22,14:13,Emergency,Completed,Reception,Fever
+A1253,P266,D003,2026-02-24,14:38,Health Checkup,Cancelled,Walk-in,Child health checkup
+A1254,P055,D002,2025-06-13,17:34,Emergency,Scheduled,Phone,Diabetes consultation
+A1255,P239,D005,2025-06-16,12:36,Emergency,Scheduled,Reception,Headache
+A1256,P079,D005,2025-10-05,22:41,Consultation,No-show,Online,Chest discomfort
+A1257,P086,D003,2025-08-28,19:09,Emergency,Scheduled,Online,Pregnancy consultation
+A1258,P127,D005,2025-02-26,22:37,Emergency,Scheduled,Phone,Fever
+A1259,P021,D001,2026-02-21,02:28,Follow-up,No-show,Phone,Diabetes consultation
+A1260,P123,D005,2026-08-21,07:48,Health Checkup,No-show,Online,Pregnancy consultation
+A1261,P234,D005,2026-10-03,05:29,Follow-up,Scheduled,Reception,Headache
+A1262,P107,D003,2026-11-15,01:53,Consultation,Scheduled,Walk-in,Headache
+A1263,P214,D005,2026-03-29,04:57,Health Checkup,Scheduled,Online,Blood pressure check
+A1264,P056,D003,2026-12-03,02:21,Health Checkup,Completed,Walk-in,Routine checkup
+A1265,P021,D003,2026-03-09,23:05,Health Checkup,Completed,Phone,Pregnancy consultation
+A1266,P106,D005,2026-05-07,11:23,Follow-up,Scheduled,Reception,Chest discomfort
+A1267,P101,D004,2025-11-19,07:29,Health Checkup,Completed,Online,Blood pressure check
+A1268,P049,D004,2026-10-12,05:25,Health Checkup,Scheduled,Reception,Fever
+A1269,P202,D002,2025-03-28,14:59,Consultation,Cancelled,Online,Child health checkup
+A1270,P240,D003,2026-12-26,03:53,Consultation,Cancelled,Online,Fever
+A1271,P189,D005,2026-08-16,21:16,Follow-up,No-show,Reception,Diabetes consultation
+A1272,P200,D001,2025-04-12,16:26,Follow-up,Scheduled,Online,Follow-up
+A1273,P165,D005,2025-03-09,06:45,Follow-up,Scheduled,Online,Follow-up
+A1274,P017,D004,2025-01-12,06:24,Emergency,Completed,Online,Follow-up
+A1275,P140,D003,2026-01-17,13:56,Consultation,Scheduled,Phone,Routine checkup
+A1276,P014,D001,2025-09-29,20:12,Follow-up,Completed,Reception,Child health checkup
+A1277,P150,D002,2026-05-31,03:15,Emergency,Cancelled,Online,Fever
+A1278,P131,D004,2026-10-21,11:37,Health Checkup,Cancelled,Walk-in,Pregnancy consultation
+A1279,P102,D001,2025-07-23,02:49,Health Checkup,No-show,Reception,Child health checkup
+A1280,P105,D002,2026-06-19,01:29,Health Checkup,Completed,Walk-in,Child health checkup
+A1281,P180,D004,2025-07-22,13:00,Follow-up,Completed,Phone,Follow-up
+A1282,P267,D004,2025-03-21,17:28,Health Checkup,No-show,Reception,Diabetes consultation
+A1283,P262,D004,2025-11-28,16:15,Emergency,No-show,Reception,Blood pressure check
+A1284,P195,D005,2026-09-02,02:11,Emergency,Cancelled,Online,Child health checkup
+A1285,P292,D001,2026-12-03,03:35,Consultation,No-show,Walk-in,Pregnancy consultation
+A1286,P239,D002,2026-07-14,18:41,Emergency,No-show,Walk-in,Diet consultation
+A1287,P108,D005,2025-05-10,05:46,Emergency,Cancelled,Walk-in,Diet consultation
+A1288,P022,D003,2026-08-29,23:38,Health Checkup,No-show,Reception,Chest discomfort
+A1289,P147,D004,2025-09-16,22:28,Health Checkup,Cancelled,Walk-in,Headache
+A1290,P168,D005,2025-05-01,00:39,Health Checkup,Completed,Reception,Diet consultation
+A1291,P186,D002,2025-03-12,17:58,Emergency,Completed,Walk-in,Blood pressure check
+A1292,P226,D001,2025-08-15,12:51,Health Checkup,Cancelled,Phone,Follow-up
+A1293,P051,D001,2026-07-13,11:37,Health Checkup,Cancelled,Reception,Headache
+A1294,P106,D004,2026-02-10,05:13,Consultation,Cancelled,Walk-in,Diabetes consultation
+A1295,P200,D002,2026-05-28,12:17,Health Checkup,Completed,Online,Follow-up
+A1296,P094,D002,2026-09-14,23:06,Emergency,No-show,Walk-in,Fever
+A1297,P091,D002,2025-06-19,16:46,Consultation,Cancelled,Walk-in,Headache
+A1298,P081,D001,2026-07-25,17:31,Follow-up,Cancelled,Walk-in,Blood pressure check
+A1299,P254,D005,2025-12-23,15:05,Consultation,No-show,Phone,Diet consultation
+A1300,P105,D003,2025-04-30,08:29,Follow-up,Scheduled,Online,Blood pressure check
+A1301,P282,D002,2026-08-03,09:22,Emergency,Cancelled,Online,Headache
+A1302,P179,D004,2025-08-10,08:21,Health Checkup,Scheduled,Walk-in,Diabetes consultation
+A1303,P069,D004,2026-12-05,09:00,Consultation,Completed,Online,Fever
+A1304,P176,D005,2026-01-05,03:09,Health Checkup,Cancelled,Phone,Diabetes consultation
+A1305,P164,D002,2026-10-17,20:00,Emergency,No-show,Walk-in,Chest discomfort
+A1306,P125,D005,2025-03-02,08:52,Health Checkup,Cancelled,Reception,Diet consultation
+A1307,P095,D004,2026-12-23,10:56,Emergency,No-show,Phone,Pregnancy consultation
+A1308,P180,D005,2026-09-20,22:31,Emergency,Scheduled,Reception,Chest discomfort
+A1309,P244,D002,2025-11-14,02:49,Emergency,No-show,Phone,Diabetes consultation
+A1310,P079,D002,2025-12-25,02:31,Emergency,Cancelled,Phone,Follow-up
+A1311,P270,D003,2026-07-19,00:48,Health Checkup,Cancelled,Phone,Follow-up
+A1312,P073,D001,2025-11-01,18:27,Health Checkup,Cancelled,Phone,Pregnancy consultation
+A1313,P293,D004,2025-06-30,10:03,Health Checkup,Completed,Online,Pregnancy consultation
+A1314,P037,D003,2026-12-17,04:52,Consultation,Cancelled,Reception,Routine checkup
+A1315,P078,D001,2025-04-23,06:22,Emergency,Scheduled,Walk-in,Diet consultation
+A1316,P123,D002,2026-06-11,21:34,Consultation,Scheduled,Phone,Headache
+A1317,P099,D003,2026-02-05,07:03,Health Checkup,Cancelled,Phone,Diabetes consultation
+A1318,P145,D004,2026-12-13,11:38,Consultation,No-show,Phone,Follow-up
+A1319,P118,D005,2025-11-27,21:28,Emergency,No-show,Online,Pregnancy consultation
+A1320,P291,D002,2025-10-06,02:25,Health Checkup,No-show,Walk-in,Diet consultation
+A1321,P153,D002,2026-01-19,03:15,Emergency,No-show,Online,Pregnancy consultation
+A1322,P165,D005,2026-09-23,23:57,Follow-up,Scheduled,Phone,Diabetes consultation
+A1323,P214,D003,2026-01-03,18:46,Consultation,Completed,Reception,Chest discomfort
+A1324,P143,D002,2026-08-25,03:32,Consultation,Cancelled,Online,Fever
+A1325,P125,D004,2025-01-11,21:57,Follow-up,Cancelled,Walk-in,Chest discomfort
+A1326,P223,D002,2026-03-09,07:12,Health Checkup,No-show,Phone,Pregnancy consultation
+A1327,P131,D001,2026-11-18,06:43,Emergency,Cancelled,Online,Pregnancy consultation
+A1328,P134,D003,2025-01-07,20:07,Health Checkup,Completed,Walk-in,Headache
+A1329,P127,D001,2026-03-16,16:12,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A1330,P274,D005,2026-03-07,23:59,Emergency,No-show,Walk-in,Pregnancy consultation
+A1331,P089,D005,2025-07-16,08:48,Consultation,Scheduled,Online,Chest discomfort
+A1332,P060,D004,2026-09-18,02:36,Consultation,No-show,Phone,Diet consultation
+A1333,P291,D002,2025-01-11,03:31,Consultation,Cancelled,Online,Follow-up
+A1334,P221,D004,2025-06-10,06:57,Emergency,Scheduled,Phone,Routine checkup
+A1335,P048,D005,2025-10-06,13:55,Consultation,Scheduled,Walk-in,Child health checkup
+A1336,P141,D005,2026-08-05,16:16,Consultation,Cancelled,Reception,Child health checkup
+A1337,P147,D004,2025-12-09,12:44,Consultation,Cancelled,Online,Blood pressure check
+A1338,P201,D003,2026-06-01,13:04,Consultation,Scheduled,Reception,Follow-up
+A1339,P209,D005,2026-11-16,02:33,Emergency,Completed,Walk-in,Fever
+A1340,P110,D003,2026-06-08,07:37,Follow-up,Cancelled,Phone,Pregnancy consultation
+A1341,P019,D004,2026-01-01,11:55,Health Checkup,Scheduled,Walk-in,Follow-up
+A1342,P094,D003,2025-05-30,03:58,Consultation,Cancelled,Reception,Fever
+A1343,P003,D003,2025-12-09,23:16,Emergency,No-show,Reception,Headache
+A1344,P196,D005,2025-09-16,22:26,Follow-up,Scheduled,Reception,Pregnancy consultation
+A1345,P160,D001,2025-02-20,06:40,Follow-up,No-show,Reception,Diet consultation
+A1346,P006,D005,2026-06-23,14:52,Consultation,No-show,Online,Pregnancy consultation
+A1347,P235,D002,2025-09-29,17:35,Consultation,Scheduled,Phone,Diet consultation
+A1348,P164,D001,2025-10-25,12:00,Follow-up,Scheduled,Reception,Chest discomfort
+A1349,P167,D002,2025-08-20,04:49,Consultation,Completed,Walk-in,Diet consultation
+A1350,P167,D002,2025-01-29,12:11,Emergency,No-show,Reception,Blood pressure check
+A1351,P287,D001,2025-01-11,02:46,Consultation,No-show,Walk-in,Chest discomfort
+A1352,P067,D005,2026-05-25,17:37,Follow-up,Scheduled,Walk-in,Child health checkup
+A1353,P012,D002,2025-11-29,15:52,Follow-up,Cancelled,Phone,Fever
+A1354,P086,D004,2026-12-19,23:19,Follow-up,Completed,Phone,Headache
+A1355,P202,D002,2025-05-23,23:10,Health Checkup,Completed,Reception,Blood pressure check
+A1356,P282,D005,2026-07-06,07:54,Emergency,Completed,Phone,Follow-up
+A1357,P298,D002,2025-02-23,04:21,Health Checkup,Scheduled,Reception,Routine checkup
+A1358,P076,D001,2026-05-11,20:12,Emergency,Completed,Walk-in,Child health checkup
+A1359,P240,D003,2026-10-19,04:06,Emergency,No-show,Reception,Diabetes consultation
+A1360,P152,D001,2025-05-09,07:18,Consultation,No-show,Phone,Follow-up
+A1361,P246,D005,2025-04-09,16:24,Consultation,No-show,Reception,Pregnancy consultation
+A1362,P158,D005,2025-03-04,00:55,Health Checkup,Scheduled,Online,Routine checkup
+A1363,P293,D004,2026-08-24,13:34,Emergency,Cancelled,Reception,Blood pressure check
+A1364,P268,D001,2025-10-19,20:37,Health Checkup,Scheduled,Phone,Child health checkup
+A1365,P284,D001,2026-05-11,01:09,Consultation,No-show,Walk-in,Diabetes consultation
+A1366,P091,D004,2025-06-24,06:55,Emergency,Completed,Online,Routine checkup
+A1367,P151,D004,2026-10-27,02:10,Consultation,Completed,Phone,Pregnancy consultation
+A1368,P104,D004,2026-10-22,05:21,Follow-up,Completed,Walk-in,Fever
+A1369,P211,D003,2026-05-24,13:54,Health Checkup,No-show,Reception,Child health checkup
+A1370,P012,D004,2025-06-06,16:19,Follow-up,Scheduled,Walk-in,Routine checkup
+A1371,P042,D004,2025-11-21,22:55,Emergency,Completed,Walk-in,Diabetes consultation
+A1372,P210,D005,2025-01-15,11:33,Follow-up,Scheduled,Reception,Chest discomfort
+A1373,P070,D002,2025-08-22,17:53,Health Checkup,Completed,Walk-in,Child health checkup
+A1374,P181,D002,2025-12-01,12:12,Follow-up,Scheduled,Phone,Routine checkup
+A1375,P294,D002,2026-10-16,09:55,Health Checkup,Scheduled,Reception,Pregnancy consultation
+A1376,P196,D003,2025-08-08,23:08,Consultation,Scheduled,Walk-in,Chest discomfort
+A1377,P068,D003,2025-04-30,12:10,Emergency,Scheduled,Phone,Pregnancy consultation
+A1378,P067,D005,2026-02-01,01:53,Follow-up,No-show,Walk-in,Pregnancy consultation
+A1379,P225,D001,2026-09-04,00:43,Emergency,Cancelled,Phone,Chest discomfort
+A1380,P210,D001,2026-10-26,08:02,Follow-up,No-show,Walk-in,Child health checkup
+A1381,P103,D004,2026-08-10,19:12,Follow-up,Completed,Reception,Child health checkup
+A1382,P250,D002,2025-01-24,01:33,Consultation,Scheduled,Reception,Fever
+A1383,P131,D004,2026-07-07,05:10,Emergency,No-show,Reception,Diet consultation
+A1384,P235,D001,2025-10-06,02:01,Emergency,No-show,Reception,Routine checkup
+A1385,P198,D001,2026-11-05,01:30,Consultation,Completed,Online,Blood pressure check
+A1386,P233,D002,2026-12-17,12:05,Health Checkup,No-show,Phone,Diabetes consultation
+A1387,P062,D002,2026-06-11,01:10,Health Checkup,Completed,Online,Headache
+A1388,P055,D005,2026-04-04,22:10,Consultation,Completed,Online,Fever
+A1389,P274,D004,2026-05-28,15:27,Consultation,Cancelled,Walk-in,Pregnancy consultation
+A1390,P165,D005,2026-11-16,05:24,Health Checkup,Scheduled,Phone,Child health checkup
+A1391,P126,D002,2026-07-17,23:26,Consultation,Completed,Walk-in,Diet consultation
+A1392,P267,D002,2026-05-12,00:30,Health Checkup,Completed,Phone,Child health checkup
+A1393,P090,D005,2026-11-14,09:19,Emergency,Completed,Online,Headache
+A1394,P186,D003,2025-03-07,21:49,Consultation,No-show,Reception,Blood pressure check
+A1395,P162,D001,2025-05-27,05:08,Emergency,Completed,Phone,Chest discomfort
+A1396,P066,D003,2026-08-19,14:50,Consultation,Cancelled,Walk-in,Follow-up
+A1397,P050,D002,2025-06-18,06:20,Follow-up,Completed,Walk-in,Headache
+A1398,P125,D005,2026-02-13,07:35,Consultation,Completed,Phone,Chest discomfort
+A1399,P201,D001,2026-07-16,13:57,Health Checkup,Scheduled,Online,Diet consultation
+A1400,P169,D001,2025-06-10,06:51,Health Checkup,Completed,Phone,Headache
+A1401,P145,D003,2026-02-12,11:27,Health Checkup,Cancelled,Walk-in,Pregnancy consultation
+A1402,P161,D001,2026-06-02,22:10,Emergency,No-show,Online,Routine checkup
+A1403,P116,D003,2025-07-23,03:51,Follow-up,No-show,Online,Child health checkup
+A1404,P282,D002,2025-12-23,04:10,Health Checkup,Cancelled,Online,Diet consultation
+A1405,P251,D003,2025-08-17,20:35,Emergency,No-show,Reception,Diet consultation
+A1406,P084,D005,2026-12-01,10:01,Consultation,Completed,Online,Fever
+A1407,P084,D005,2025-12-19,02:37,Emergency,Completed,Online,Headache
+A1408,P139,D003,2026-09-11,11:13,Follow-up,Scheduled,Online,Child health checkup
+A1409,P238,D001,2026-06-06,22:04,Follow-up,Completed,Reception,Diabetes consultation
+A1410,P098,D001,2025-03-10,19:36,Health Checkup,Completed,Reception,Chest discomfort
+A1411,P060,D003,2025-09-29,10:24,Consultation,Scheduled,Online,Fever
+A1412,P280,D004,2025-12-15,12:19,Follow-up,Scheduled,Online,Diabetes consultation
+A1413,P191,D003,2025-08-15,10:25,Emergency,Cancelled,Reception,Blood pressure check
+A1414,P162,D003,2026-04-11,00:12,Follow-up,Cancelled,Walk-in,Fever
+A1415,P167,D004,2026-10-27,17:39,Follow-up,Cancelled,Walk-in,Chest discomfort
+A1416,P063,D002,2026-02-08,23:23,Emergency,Completed,Phone,Headache
+A1417,P060,D001,2026-03-18,09:22,Consultation,Scheduled,Phone,Follow-up
+A1418,P281,D005,2026-04-05,01:24,Follow-up,No-show,Online,Pregnancy consultation
+A1419,P197,D002,2026-06-11,05:58,Emergency,No-show,Online,Fever
+A1420,P077,D005,2026-09-16,18:12,Consultation,Completed,Phone,Routine checkup
+A1421,P230,D002,2025-08-23,23:03,Emergency,Completed,Online,Diet consultation
+A1422,P139,D004,2025-06-04,06:07,Health Checkup,No-show,Walk-in,Blood pressure check
+A1423,P284,D004,2026-07-18,01:09,Follow-up,Completed,Phone,Pregnancy consultation
+A1424,P289,D003,2025-08-16,04:34,Follow-up,Scheduled,Phone,Follow-up
+A1425,P149,D005,2025-10-13,16:25,Follow-up,Completed,Phone,Headache
+A1426,P057,D003,2026-02-17,16:15,Consultation,Scheduled,Phone,Blood pressure check
+A1427,P220,D004,2025-06-22,22:41,Follow-up,Cancelled,Online,Diet consultation
+A1428,P232,D003,2025-09-02,12:28,Emergency,Cancelled,Online,Chest discomfort
+A1429,P098,D004,2025-03-18,03:54,Consultation,Completed,Online,Pregnancy consultation
+A1430,P027,D005,2025-06-20,16:07,Follow-up,No-show,Walk-in,Blood pressure check
+A1431,P258,D005,2026-01-09,02:41,Follow-up,Cancelled,Reception,Headache
+A1432,P117,D004,2025-08-29,04:46,Consultation,Cancelled,Reception,Diabetes consultation
+A1433,P189,D005,2026-06-27,08:53,Consultation,Completed,Online,Fever
+A1434,P149,D001,2025-08-13,00:09,Follow-up,Completed,Reception,Chest discomfort
+A1435,P156,D004,2025-08-29,06:02,Follow-up,Scheduled,Reception,Fever
+A1436,P045,D004,2026-06-26,15:18,Consultation,Scheduled,Walk-in,Blood pressure check
+A1437,P290,D004,2025-01-27,01:06,Consultation,Cancelled,Phone,Fever
+A1438,P212,D003,2026-03-18,01:34,Health Checkup,Completed,Walk-in,Routine checkup
+A1439,P037,D005,2025-09-14,03:26,Consultation,Scheduled,Reception,Pregnancy consultation
+A1440,P165,D005,2026-12-03,22:19,Consultation,No-show,Reception,Diet consultation
+A1441,P064,D003,2026-10-10,14:30,Emergency,Cancelled,Reception,Routine checkup
+A1442,P093,D002,2025-03-22,12:18,Follow-up,Cancelled,Reception,Diet consultation
+A1443,P266,D004,2026-07-30,03:13,Health Checkup,Completed,Online,Chest discomfort
+A1444,P087,D005,2025-05-28,22:48,Emergency,Scheduled,Reception,Child health checkup
+A1445,P115,D002,2025-04-04,08:05,Health Checkup,Scheduled,Phone,Blood pressure check
+A1446,P129,D001,2025-10-01,03:48,Health Checkup,Scheduled,Phone,Headache
+A1447,P174,D001,2026-08-29,07:23,Emergency,Cancelled,Walk-in,Child health checkup
+A1448,P022,D002,2026-02-19,11:59,Consultation,Cancelled,Online,Pregnancy consultation
+A1449,P300,D002,2025-11-27,11:40,Consultation,Cancelled,Phone,Follow-up
+A1450,P127,D003,2025-01-27,11:22,Consultation,Cancelled,Reception,Pregnancy consultation
+A1451,P106,D003,2025-10-17,09:36,Consultation,No-show,Reception,Diabetes consultation
+A1452,P194,D003,2025-02-18,18:46,Health Checkup,No-show,Walk-in,Blood pressure check
+A1453,P094,D002,2026-01-07,09:32,Consultation,No-show,Walk-in,Diet consultation
+A1454,P070,D003,2025-05-05,18:36,Follow-up,No-show,Phone,Follow-up
+A1455,P094,D001,2026-05-30,05:57,Emergency,Scheduled,Reception,Diabetes consultation
+A1456,P295,D003,2026-01-01,23:47,Emergency,Scheduled,Phone,Blood pressure check
+A1457,P024,D001,2025-12-01,02:10,Consultation,Scheduled,Reception,Headache
+A1458,P235,D004,2025-05-11,08:12,Health Checkup,Cancelled,Reception,Follow-up
+A1459,P045,D001,2025-04-10,21:11,Emergency,Scheduled,Phone,Diabetes consultation
+A1460,P053,D002,2025-08-29,16:21,Emergency,Completed,Phone,Child health checkup
+A1461,P158,D001,2025-12-22,03:25,Follow-up,Scheduled,Phone,Child health checkup
+A1462,P214,D001,2026-04-24,05:18,Follow-up,Completed,Reception,Chest discomfort
+A1463,P010,D002,2025-02-02,18:55,Follow-up,Cancelled,Online,Child health checkup
+A1464,P277,D003,2025-08-13,21:44,Follow-up,Scheduled,Phone,Diet consultation
+A1465,P201,D003,2025-01-07,10:09,Consultation,Completed,Online,Follow-up
+A1466,P086,D002,2025-05-27,18:54,Emergency,Cancelled,Online,Follow-up
+A1467,P033,D001,2025-03-02,04:21,Emergency,Cancelled,Walk-in,Chest discomfort
+A1468,P205,D003,2026-07-10,15:30,Emergency,Scheduled,Reception,Diabetes consultation
+A1469,P268,D003,2026-06-04,01:34,Follow-up,Completed,Walk-in,Pregnancy consultation
+A1470,P172,D003,2026-01-08,17:13,Health Checkup,Scheduled,Walk-in,Headache
+A1471,P280,D001,2025-05-28,10:00,Emergency,Completed,Online,Diabetes consultation
+A1472,P195,D003,2026-10-29,08:09,Follow-up,Scheduled,Walk-in,Chest discomfort
+A1473,P037,D005,2025-01-08,07:35,Health Checkup,No-show,Online,Diet consultation
+A1474,P091,D005,2025-05-24,12:32,Emergency,Cancelled,Walk-in,Fever
+A1475,P112,D002,2025-02-06,15:10,Health Checkup,No-show,Online,Diet consultation
+A1476,P269,D004,2025-03-31,20:26,Emergency,Cancelled,Phone,Pregnancy consultation
+A1477,P070,D003,2025-11-16,03:27,Health Checkup,Completed,Phone,Diabetes consultation
+A1478,P235,D002,2025-06-07,19:12,Health Checkup,No-show,Walk-in,Blood pressure check
+A1479,P123,D003,2025-09-24,13:28,Emergency,Completed,Reception,Diabetes consultation
+A1480,P271,D003,2025-04-08,19:07,Consultation,Scheduled,Online,Fever
+A1481,P153,D005,2025-07-30,18:51,Consultation,Scheduled,Reception,Fever
+A1482,P149,D003,2025-04-10,21:09,Health Checkup,Cancelled,Reception,Pregnancy consultation
+A1483,P204,D001,2026-01-08,01:03,Follow-up,Cancelled,Walk-in,Pregnancy consultation
+A1484,P033,D001,2026-05-23,05:57,Health Checkup,Scheduled,Reception,Pregnancy consultation
+A1485,P125,D005,2025-02-28,19:36,Follow-up,No-show,Phone,Chest discomfort
+A1486,P053,D004,2026-02-15,13:07,Follow-up,Scheduled,Reception,Headache
+A1487,P279,D004,2026-04-26,05:17,Consultation,No-show,Walk-in,Diet consultation
+A1488,P218,D005,2026-07-13,08:12,Emergency,Completed,Phone,Routine checkup
+A1489,P279,D002,2025-05-15,21:56,Follow-up,No-show,Walk-in,Routine checkup
+A1490,P155,D005,2026-08-15,09:48,Follow-up,No-show,Reception,Blood pressure check
+A1491,P012,D003,2026-08-19,12:05,Consultation,Cancelled,Reception,Blood pressure check
+A1492,P005,D005,2026-07-09,18:16,Emergency,No-show,Reception,Fever
+A1493,P182,D003,2025-08-14,04:49,Follow-up,Completed,Phone,Chest discomfort
+A1494,P234,D001,2025-02-02,18:47,Emergency,Cancelled,Reception,Diabetes consultation
+A1495,P139,D005,2026-07-07,21:58,Health Checkup,Completed,Phone,Pregnancy consultation
+A1496,P172,D002,2025-11-12,04:28,Consultation,Completed,Online,Blood pressure check
+A1497,P276,D003,2026-12-09,04:36,Follow-up,Scheduled,Phone,Chest discomfort
+A1498,P082,D005,2025-12-25,04:45,Follow-up,Scheduled,Reception,Diet consultation
+A1499,P200,D004,2025-07-08,21:47,Emergency,Scheduled,Online,Fever
+A1500,P176,D003,2025-11-22,17:47,Consultation,Cancelled,Phone,Blood pressure check
+A1501,P122,D001,2026-03-06,22:09,Emergency,No-show,Reception,Diabetes consultation
+A1502,P241,D004,2025-01-20,02:03,Health Checkup,Completed,Reception,Child health checkup
+A1503,P047,D004,2026-12-09,11:09,Consultation,Cancelled,Reception,Headache
+A1504,P260,D002,2025-10-23,08:46,Health Checkup,Cancelled,Online,Diet consultation
+A1505,P287,D002,2025-05-17,15:26,Health Checkup,Scheduled,Walk-in,Blood pressure check
+A1506,P040,D002,2025-09-18,16:53,Consultation,Scheduled,Walk-in,Diet consultation
+A1507,P133,D002,2025-12-16,04:03,Emergency,Completed,Online,Fever
+A1508,P215,D004,2025-01-01,21:15,Health Checkup,Completed,Phone,Diabetes consultation
+A1509,P238,D003,2025-10-08,18:36,Health Checkup,Scheduled,Walk-in,Diabetes consultation
+A1510,P250,D004,2026-11-15,17:16,Health Checkup,Scheduled,Online,Pregnancy consultation
+A1511,P234,D003,2025-02-28,00:33,Consultation,No-show,Phone,Fever
+A1512,P078,D003,2025-08-25,01:41,Follow-up,Scheduled,Reception,Follow-up
+A1513,P236,D005,2025-11-12,03:33,Emergency,Cancelled,Phone,Pregnancy consultation
+A1514,P097,D005,2025-12-31,10:51,Emergency,Completed,Phone,Child health checkup
+A1515,P003,D004,2026-09-02,19:05,Health Checkup,No-show,Phone,Blood pressure check
+A1516,P171,D003,2025-12-13,09:32,Follow-up,No-show,Online,Headache
+A1517,P092,D005,2025-01-30,11:11,Emergency,Cancelled,Reception,Blood pressure check
+A1518,P145,D004,2025-04-28,07:11,Health Checkup,Cancelled,Phone,Fever
+A1519,P142,D004,2026-01-22,16:08,Follow-up,Completed,Walk-in,Chest discomfort
+A1520,P133,D001,2026-07-14,12:32,Follow-up,Completed,Online,Child health checkup
+A1521,P205,D003,2025-12-09,17:16,Follow-up,No-show,Walk-in,Follow-up
+A1522,P172,D001,2025-02-22,12:44,Consultation,No-show,Reception,Pregnancy consultation
+A1523,P201,D002,2026-04-19,16:27,Emergency,Cancelled,Walk-in,Headache
+A1524,P164,D001,2026-07-08,19:03,Follow-up,No-show,Online,Child health checkup
+A1525,P274,D003,2025-10-04,13:29,Health Checkup,Scheduled,Walk-in,Diet consultation
+A1526,P258,D005,2025-06-04,05:58,Emergency,Completed,Online,Child health checkup
+A1527,P031,D003,2025-09-15,22:08,Follow-up,Cancelled,Phone,Child health checkup
+A1528,P178,D004,2025-09-11,18:01,Consultation,Cancelled,Walk-in,Headache
+A1529,P075,D004,2026-09-22,09:52,Consultation,Scheduled,Phone,Fever
+A1530,P264,D004,2025-06-29,19:21,Follow-up,Completed,Phone,Blood pressure check
+A1531,P158,D003,2026-12-13,04:05,Health Checkup,Completed,Phone,Diet consultation
+A1532,P129,D005,2025-04-04,20:43,Emergency,Cancelled,Walk-in,Follow-up
+A1533,P217,D005,2026-07-21,06:32,Consultation,Scheduled,Walk-in,Fever
+A1534,P229,D003,2026-04-24,22:27,Consultation,Cancelled,Walk-in,Diet consultation
+A1535,P193,D002,2025-07-25,15:44,Health Checkup,Scheduled,Online,Diabetes consultation
+A1536,P162,D001,2025-03-23,02:35,Consultation,Cancelled,Reception,Pregnancy consultation
+A1537,P052,D003,2026-06-04,00:41,Health Checkup,No-show,Reception,Diabetes consultation
+A1538,P229,D002,2025-03-16,22:59,Consultation,Scheduled,Reception,Pregnancy consultation
+A1539,P153,D001,2026-04-27,17:03,Emergency,Cancelled,Online,Chest discomfort
+A1540,P291,D005,2026-04-11,00:34,Emergency,No-show,Walk-in,Headache
+A1541,P232,D005,2026-02-15,10:49,Emergency,Cancelled,Reception,Child health checkup
+A1542,P171,D001,2025-01-04,22:25,Health Checkup,No-show,Online,Child health checkup
+A1543,P209,D004,2026-08-14,08:37,Consultation,No-show,Phone,Chest discomfort
+A1544,P061,D005,2026-12-23,08:34,Health Checkup,Cancelled,Online,Fever
+A1545,P138,D003,2025-07-16,22:52,Consultation,Cancelled,Phone,Fever
+A1546,P071,D002,2025-05-08,10:44,Follow-up,Completed,Online,Headache
+A1547,P298,D001,2025-03-07,19:06,Health Checkup,No-show,Reception,Blood pressure check
+A1548,P037,D003,2026-05-13,09:39,Emergency,Cancelled,Walk-in,Routine checkup
+A1549,P169,D003,2025-04-20,16:35,Health Checkup,Cancelled,Walk-in,Pregnancy consultation
+A1550,P121,D005,2025-06-11,12:31,Emergency,Cancelled,Phone,Headache
+A1551,P073,D003,2026-10-08,21:16,Consultation,Cancelled,Online,Chest discomfort
+A1552,P031,D004,2026-09-16,07:43,Health Checkup,Cancelled,Online,Diet consultation
+A1553,P154,D005,2026-10-01,06:44,Emergency,No-show,Reception,Routine checkup
+A1554,P087,D002,2025-03-31,11:31,Health Checkup,No-show,Online,Diet consultation
+A1555,P250,D005,2025-09-19,21:58,Consultation,Cancelled,Walk-in,Diet consultation
+A1556,P298,D001,2025-06-14,14:49,Follow-up,No-show,Online,Diet consultation
+A1557,P205,D003,2026-04-06,22:36,Follow-up,Completed,Reception,Child health checkup
+A1558,P215,D001,2025-04-19,03:22,Health Checkup,Scheduled,Phone,Blood pressure check
+A1559,P071,D004,2025-05-10,20:41,Emergency,No-show,Walk-in,Fever
+A1560,P034,D004,2026-08-04,04:18,Consultation,Completed,Phone,Pregnancy consultation
+A1561,P024,D001,2026-09-02,20:44,Consultation,Cancelled,Online,Routine checkup
+A1562,P114,D001,2025-03-25,17:47,Emergency,Completed,Walk-in,Diabetes consultation
+A1563,P197,D002,2025-09-26,03:28,Follow-up,No-show,Walk-in,Fever
+A1564,P096,D004,2026-08-02,23:20,Health Checkup,Cancelled,Walk-in,Child health checkup
+A1565,P077,D005,2025-12-22,16:25,Consultation,No-show,Phone,Routine checkup
+A1566,P082,D005,2026-01-04,09:18,Consultation,No-show,Reception,Blood pressure check
+A1567,P146,D005,2026-04-11,02:11,Follow-up,Cancelled,Reception,Follow-up
+A1568,P085,D001,2026-05-19,17:19,Follow-up,Cancelled,Online,Follow-up
+A1569,P155,D004,2025-11-25,13:08,Consultation,Cancelled,Phone,Fever
+A1570,P128,D005,2025-06-10,10:12,Follow-up,Scheduled,Walk-in,Pregnancy consultation
+A1571,P056,D001,2025-05-16,05:51,Follow-up,No-show,Online,Blood pressure check
+A1572,P093,D004,2026-08-21,13:32,Follow-up,Scheduled,Reception,Blood pressure check
+A1573,P015,D003,2026-12-06,15:50,Consultation,Completed,Reception,Fever
+A1574,P288,D005,2026-09-09,05:01,Emergency,Completed,Phone,Fever
+A1575,P179,D004,2025-07-22,22:25,Emergency,No-show,Walk-in,Child health checkup
+A1576,P194,D001,2025-09-24,22:36,Emergency,Scheduled,Walk-in,Routine checkup
+A1577,P016,D004,2026-08-26,01:33,Consultation,Scheduled,Walk-in,Routine checkup
+A1578,P254,D003,2026-05-23,08:44,Emergency,Scheduled,Reception,Headache
+A1579,P122,D002,2026-09-14,12:16,Emergency,No-show,Reception,Blood pressure check
+A1580,P284,D004,2025-08-02,03:52,Consultation,No-show,Online,Diet consultation
+A1581,P282,D004,2026-01-02,02:58,Consultation,Cancelled,Phone,Chest discomfort
+A1582,P044,D003,2026-02-21,12:22,Emergency,Completed,Phone,Pregnancy consultation
+A1583,P146,D004,2025-08-20,18:58,Follow-up,Scheduled,Walk-in,Routine checkup
+A1584,P294,D005,2025-09-10,03:03,Health Checkup,Completed,Online,Child health checkup
+A1585,P156,D003,2025-04-15,13:33,Consultation,No-show,Reception,Diet consultation
+A1586,P098,D005,2026-04-10,13:49,Follow-up,No-show,Phone,Chest discomfort
+A1587,P064,D005,2025-03-06,19:16,Follow-up,Scheduled,Phone,Diabetes consultation
+A1588,P066,D001,2026-03-23,20:58,Emergency,No-show,Reception,Routine checkup
+A1589,P043,D004,2025-05-29,19:08,Consultation,Cancelled,Phone,Diabetes consultation
+A1590,P190,D003,2026-05-08,12:29,Health Checkup,Completed,Phone,Pregnancy consultation
+A1591,P143,D005,2026-11-08,06:22,Emergency,Scheduled,Phone,Headache
+A1592,P118,D004,2026-04-13,04:22,Emergency,No-show,Walk-in,Pregnancy consultation
+A1593,P038,D005,2025-05-02,09:04,Emergency,Scheduled,Online,Fever
+A1594,P219,D001,2026-09-27,17:43,Emergency,Cancelled,Walk-in,Diet consultation
+A1595,P292,D002,2026-09-15,06:54,Emergency,Cancelled,Phone,Child health checkup
+A1596,P216,D002,2025-06-05,10:57,Health Checkup,Scheduled,Reception,Routine checkup
+A1597,P251,D005,2025-05-12,14:53,Consultation,Cancelled,Reception,Follow-up
+A1598,P177,D001,2025-07-26,14:34,Emergency,Cancelled,Online,Pregnancy consultation
+A1599,P280,D001,2026-02-04,16:47,Health Checkup,Completed,Reception,Child health checkup
+A1600,P260,D004,2025-10-04,20:58,Health Checkup,No-show,Walk-in,Fever
+A1601,P256,D003,2025-03-25,13:26,Emergency,Completed,Online,Pregnancy consultation
+A1602,P156,D005,2026-11-11,10:22,Health Checkup,No-show,Online,Pregnancy consultation
+A1603,P119,D004,2026-08-10,18:29,Follow-up,Completed,Reception,Child health checkup
+A1604,P081,D002,2025-09-19,15:27,Health Checkup,Cancelled,Online,Routine checkup
+A1605,P299,D005,2025-05-02,09:14,Follow-up,Cancelled,Phone,Follow-up
+A1606,P143,D002,2026-10-24,08:29,Consultation,Completed,Reception,Diabetes consultation
+A1607,P264,D005,2025-04-30,18:35,Emergency,Scheduled,Phone,Routine checkup
+A1608,P042,D004,2026-10-04,11:46,Health Checkup,No-show,Online,Chest discomfort
+A1609,P299,D002,2026-09-03,18:49,Health Checkup,Scheduled,Walk-in,Diet consultation
+A1610,P236,D003,2026-04-27,01:01,Health Checkup,No-show,Online,Child health checkup
+A1611,P023,D002,2025-10-31,04:14,Emergency,Completed,Reception,Follow-up
+A1612,P073,D002,2026-07-27,06:05,Health Checkup,Scheduled,Phone,Diet consultation
+A1613,P057,D001,2026-03-17,20:57,Consultation,No-show,Walk-in,Follow-up
+A1614,P082,D005,2026-07-27,22:08,Consultation,Completed,Walk-in,Chest discomfort
+A1615,P166,D001,2025-05-16,14:58,Emergency,Cancelled,Phone,Fever
+A1616,P217,D002,2026-10-23,02:52,Follow-up,Scheduled,Reception,Blood pressure check
+A1617,P262,D005,2026-06-21,23:25,Emergency,No-show,Online,Diet consultation
+A1618,P194,D003,2026-10-13,04:13,Consultation,No-show,Phone,Routine checkup
+A1619,P027,D003,2025-07-15,05:57,Follow-up,Scheduled,Walk-in,Child health checkup
+A1620,P212,D003,2025-03-05,08:18,Consultation,No-show,Walk-in,Headache
+A1621,P185,D004,2025-04-09,20:15,Health Checkup,Cancelled,Phone,Child health checkup
+A1622,P201,D003,2026-06-27,23:10,Health Checkup,Scheduled,Online,Blood pressure check
+A1623,P125,D004,2026-04-02,17:21,Follow-up,Completed,Reception,Child health checkup
+A1624,P286,D004,2025-10-22,16:49,Emergency,No-show,Reception,Follow-up
+A1625,P119,D002,2026-08-10,21:21,Consultation,Scheduled,Reception,Child health checkup
+A1626,P089,D001,2025-03-20,22:34,Health Checkup,No-show,Online,Diet consultation
+A1627,P079,D004,2026-10-07,08:50,Consultation,Scheduled,Walk-in,Diet consultation
+A1628,P104,D001,2025-09-17,08:23,Consultation,No-show,Walk-in,Diabetes consultation
+A1629,P150,D003,2025-07-03,19:17,Follow-up,Cancelled,Online,Child health checkup
+A1630,P206,D002,2026-03-15,13:27,Consultation,No-show,Online,Diet consultation
+A1631,P299,D001,2025-12-12,00:19,Health Checkup,No-show,Online,Pregnancy consultation
+A1632,P283,D001,2026-05-01,23:14,Follow-up,Completed,Phone,Diet consultation
+A1633,P040,D002,2025-09-05,11:48,Emergency,Completed,Reception,Blood pressure check
+A1634,P168,D004,2025-05-24,21:16,Consultation,Cancelled,Phone,Pregnancy consultation
+A1635,P074,D004,2026-08-23,11:00,Follow-up,No-show,Walk-in,Diet consultation
+A1636,P006,D002,2026-03-18,18:07,Consultation,Scheduled,Phone,Child health checkup
+A1637,P145,D003,2026-09-10,11:03,Health Checkup,No-show,Walk-in,Pregnancy consultation
+A1638,P147,D003,2025-10-06,10:08,Emergency,Cancelled,Reception,Chest discomfort
+A1639,P073,D004,2026-06-13,16:55,Emergency,Scheduled,Phone,Fever
+A1640,P214,D001,2026-02-09,06:55,Consultation,Scheduled,Walk-in,Routine checkup
+A1641,P175,D002,2025-10-09,14:49,Consultation,Scheduled,Phone,Pregnancy consultation
+A1642,P219,D005,2026-05-30,12:23,Health Checkup,Cancelled,Phone,Chest discomfort
+A1643,P223,D003,2026-02-21,19:09,Consultation,No-show,Walk-in,Child health checkup
+A1644,P086,D005,2025-10-15,03:42,Follow-up,Cancelled,Phone,Child health checkup
+A1645,P043,D003,2025-02-10,14:48,Health Checkup,Scheduled,Walk-in,Diabetes consultation
+A1646,P286,D003,2025-07-13,20:22,Health Checkup,Completed,Online,Fever
+A1647,P154,D002,2025-06-29,01:51,Consultation,No-show,Reception,Fever
+A1648,P219,D004,2025-08-10,05:05,Health Checkup,Cancelled,Phone,Blood pressure check
+A1649,P148,D001,2025-11-30,15:25,Emergency,No-show,Reception,Diet consultation
+A1650,P198,D003,2026-10-07,19:42,Emergency,Scheduled,Online,Routine checkup
+A1651,P116,D005,2026-06-06,13:07,Follow-up,Completed,Phone,Diet consultation
+A1652,P264,D003,2026-10-21,08:57,Consultation,Scheduled,Reception,Fever
+A1653,P114,D001,2026-04-14,01:33,Follow-up,No-show,Reception,Blood pressure check
+A1654,P296,D002,2025-08-14,23:33,Consultation,Cancelled,Phone,Diet consultation
+A1655,P276,D001,2026-03-31,14:55,Consultation,Cancelled,Walk-in,Follow-up
+A1656,P047,D005,2025-10-02,15:35,Emergency,No-show,Walk-in,Routine checkup
+A1657,P267,D002,2025-02-14,00:05,Health Checkup,Completed,Phone,Headache
+A1658,P282,D005,2025-04-16,22:42,Emergency,Scheduled,Reception,Child health checkup
+A1659,P082,D001,2025-03-27,06:04,Follow-up,No-show,Phone,Pregnancy consultation
+A1660,P156,D005,2026-01-22,04:08,Consultation,Cancelled,Phone,Headache
+A1661,P103,D002,2026-05-06,16:36,Consultation,No-show,Online,Diabetes consultation
+A1662,P131,D004,2026-04-16,08:14,Consultation,Cancelled,Phone,Diabetes consultation
+A1663,P133,D003,2025-10-30,19:16,Follow-up,Cancelled,Walk-in,Diabetes consultation
+A1664,P198,D002,2026-07-09,23:11,Follow-up,Completed,Phone,Pregnancy consultation
+A1665,P245,D001,2026-06-20,17:32,Follow-up,Completed,Phone,Child health checkup
+A1666,P080,D004,2025-05-22,20:53,Health Checkup,No-show,Reception,Diabetes consultation
+A1667,P205,D002,2025-07-20,21:04,Consultation,Completed,Reception,Pregnancy consultation
+A1668,P270,D004,2025-12-31,23:55,Follow-up,Completed,Walk-in,Headache
+A1669,P054,D003,2025-11-29,09:00,Consultation,Completed,Phone,Chest discomfort
+A1670,P104,D005,2025-06-09,13:18,Follow-up,Completed,Reception,Headache
+A1671,P129,D001,2025-08-18,22:49,Emergency,No-show,Online,Chest discomfort
+A1672,P080,D001,2025-10-27,12:39,Consultation,Completed,Reception,Pregnancy consultation
+A1673,P177,D003,2025-04-30,09:03,Emergency,Scheduled,Phone,Diet consultation
+A1674,P201,D005,2026-06-07,12:09,Health Checkup,Completed,Reception,Routine checkup
+A1675,P118,D002,2025-06-18,14:06,Health Checkup,Cancelled,Online,Routine checkup
+A1676,P281,D002,2025-01-05,21:25,Health Checkup,Scheduled,Online,Child health checkup
+A1677,P114,D004,2026-11-28,09:10,Follow-up,No-show,Walk-in,Follow-up
+A1678,P279,D004,2026-04-06,15:14,Consultation,Completed,Online,Fever
+A1679,P028,D002,2025-03-29,21:06,Follow-up,Completed,Phone,Diabetes consultation
+A1680,P296,D001,2025-08-04,02:07,Follow-up,Completed,Phone,Diabetes consultation
+A1681,P132,D005,2025-01-12,08:00,Emergency,No-show,Walk-in,Follow-up
+A1682,P219,D002,2026-06-26,09:07,Follow-up,Completed,Online,Chest discomfort
+A1683,P238,D001,2025-10-15,05:43,Health Checkup,Completed,Walk-in,Headache
+A1684,P032,D001,2025-09-21,15:51,Emergency,Cancelled,Online,Routine checkup
+A1685,P235,D003,2026-04-16,03:15,Emergency,Cancelled,Walk-in,Diet consultation
+A1686,P144,D003,2026-06-16,12:09,Consultation,Completed,Reception,Routine checkup
+A1687,P229,D003,2026-06-10,18:26,Health Checkup,No-show,Phone,Routine checkup
+A1688,P069,D005,2026-04-21,18:54,Consultation,Completed,Walk-in,Chest discomfort
+A1689,P006,D005,2026-12-29,23:14,Emergency,Cancelled,Reception,Chest discomfort
+A1690,P194,D001,2026-07-28,17:55,Follow-up,Scheduled,Reception,Chest discomfort
+A1691,P225,D001,2025-06-07,13:11,Emergency,No-show,Phone,Fever
+A1692,P166,D001,2026-08-07,23:35,Health Checkup,Scheduled,Phone,Chest discomfort
+A1693,P195,D004,2026-07-04,06:58,Health Checkup,No-show,Walk-in,Diet consultation
+A1694,P186,D001,2026-10-24,06:11,Follow-up,Cancelled,Online,Routine checkup
+A1695,P166,D003,2025-06-13,00:07,Follow-up,Scheduled,Reception,Routine checkup
+A1696,P022,D005,2025-05-30,08:51,Health Checkup,Cancelled,Walk-in,Pregnancy consultation
+A1697,P173,D001,2026-09-28,12:06,Consultation,Completed,Walk-in,Diet consultation
+A1698,P147,D001,2026-02-22,06:31,Health Checkup,No-show,Online,Chest discomfort
+A1699,P122,D005,2026-06-30,19:34,Health Checkup,Completed,Walk-in,Diet consultation
+A1700,P086,D001,2025-12-25,09:45,Consultation,No-show,Reception,Diabetes consultation
+A1701,P292,D001,2025-02-20,06:52,Consultation,Completed,Walk-in,Headache
+A1702,P199,D005,2026-06-11,10:16,Follow-up,No-show,Walk-in,Follow-up
+A1703,P180,D003,2025-04-01,10:43,Health Checkup,Completed,Online,Follow-up
+A1704,P273,D005,2025-01-31,22:51,Consultation,Completed,Reception,Diabetes consultation
+A1705,P002,D002,2025-01-26,21:37,Consultation,No-show,Reception,Fever
+A1706,P249,D002,2026-08-08,05:02,Health Checkup,No-show,Online,Blood pressure check
+A1707,P005,D001,2025-07-13,07:27,Follow-up,No-show,Reception,Diet consultation
+A1708,P276,D002,2025-03-27,00:21,Consultation,Completed,Walk-in,Fever
+A1709,P130,D004,2025-01-01,20:27,Follow-up,No-show,Walk-in,Headache
+A1710,P168,D001,2026-09-01,21:14,Follow-up,Completed,Online,Pregnancy consultation
+A1711,P071,D003,2025-01-16,01:31,Consultation,Completed,Walk-in,Follow-up
+A1712,P092,D002,2026-12-27,02:21,Health Checkup,Completed,Online,Routine checkup
+A1713,P271,D001,2026-10-20,22:23,Follow-up,Completed,Phone,Blood pressure check
+A1714,P238,D002,2025-06-05,01:11,Follow-up,No-show,Online,Follow-up
+A1715,P066,D003,2025-11-23,16:38,Emergency,Completed,Phone,Follow-up
+A1716,P082,D003,2026-01-24,01:58,Follow-up,No-show,Online,Chest discomfort
+A1717,P207,D003,2025-07-02,01:43,Emergency,Scheduled,Phone,Pregnancy consultation
+A1718,P260,D004,2026-09-30,07:38,Health Checkup,Completed,Reception,Chest discomfort
+A1719,P236,D001,2025-03-01,10:37,Health Checkup,Scheduled,Online,Diet consultation
+A1720,P041,D002,2026-10-20,19:09,Consultation,Completed,Online,Child health checkup
+A1721,P234,D004,2025-05-13,20:01,Emergency,Cancelled,Online,Pregnancy consultation
+A1722,P113,D004,2026-04-25,10:41,Consultation,No-show,Reception,Child health checkup
+A1723,P253,D005,2026-10-06,15:25,Follow-up,Scheduled,Online,Diet consultation
+A1724,P261,D003,2025-02-24,02:40,Emergency,No-show,Walk-in,Routine checkup
+A1725,P180,D002,2026-09-05,03:48,Health Checkup,Scheduled,Reception,Diet consultation
+A1726,P148,D003,2025-04-26,23:06,Consultation,No-show,Walk-in,Routine checkup
+A1727,P018,D005,2026-01-22,19:33,Follow-up,No-show,Phone,Diabetes consultation
+A1728,P291,D003,2026-02-15,13:15,Health Checkup,Scheduled,Walk-in,Blood pressure check
+A1729,P072,D003,2026-06-14,22:37,Consultation,Scheduled,Walk-in,Pregnancy consultation
+A1730,P031,D002,2026-10-30,04:45,Health Checkup,Scheduled,Walk-in,Diet consultation
+A1731,P258,D001,2026-08-16,23:10,Consultation,Scheduled,Reception,Headache
+A1732,P288,D001,2026-09-12,23:15,Follow-up,Completed,Walk-in,Fever
+A1733,P145,D004,2026-10-09,07:51,Health Checkup,Cancelled,Phone,Blood pressure check
+A1734,P251,D005,2025-10-07,11:35,Emergency,Scheduled,Phone,Pregnancy consultation
+A1735,P030,D002,2026-05-27,20:31,Emergency,Cancelled,Reception,Diabetes consultation
+A1736,P112,D002,2025-03-29,13:52,Follow-up,Scheduled,Online,Diabetes consultation
+A1737,P272,D004,2026-06-01,04:45,Consultation,Cancelled,Reception,Chest discomfort
+A1738,P036,D002,2026-08-22,22:51,Health Checkup,Completed,Reception,Routine checkup
+A1739,P100,D003,2026-10-21,02:19,Consultation,No-show,Online,Diet consultation
+A1740,P246,D003,2025-08-30,17:31,Consultation,Cancelled,Reception,Blood pressure check
+A1741,P294,D003,2026-07-23,08:11,Health Checkup,No-show,Phone,Chest discomfort
+A1742,P223,D001,2025-04-13,15:34,Emergency,Cancelled,Online,Blood pressure check
+A1743,P042,D003,2025-10-19,01:28,Health Checkup,Cancelled,Reception,Follow-up
+A1744,P036,D004,2025-06-08,16:40,Health Checkup,Cancelled,Reception,Fever
+A1745,P245,D001,2026-02-22,03:28,Health Checkup,Scheduled,Walk-in,Headache
+A1746,P049,D005,2025-08-31,17:04,Consultation,Cancelled,Online,Routine checkup
+A1747,P293,D002,2026-12-12,02:25,Follow-up,Cancelled,Phone,Headache
+A1748,P094,D001,2025-04-05,08:49,Follow-up,No-show,Phone,Headache
+A1749,P271,D005,2026-02-18,19:07,Consultation,No-show,Reception,Routine checkup
+A1750,P203,D005,2026-06-24,18:49,Follow-up,Cancelled,Reception,Diabetes consultation
+A1751,P036,D001,2025-08-01,00:39,Health Checkup,Scheduled,Online,Fever
+A1752,P171,D001,2026-10-23,21:35,Health Checkup,Scheduled,Walk-in,Fever
+A1753,P130,D005,2026-08-29,14:52,Follow-up,Cancelled,Phone,Follow-up
+A1754,P071,D004,2026-06-06,10:13,Emergency,No-show,Online,Chest discomfort
+A1755,P111,D004,2025-09-03,16:02,Consultation,Scheduled,Walk-in,Child health checkup
+A1756,P142,D004,2025-06-14,22:47,Health Checkup,No-show,Walk-in,Child health checkup
+A1757,P113,D003,2025-06-04,17:14,Health Checkup,Cancelled,Walk-in,Chest discomfort
+A1758,P167,D001,2026-06-07,11:05,Health Checkup,Completed,Online,Child health checkup
+A1759,P055,D002,2025-12-02,09:20,Emergency,No-show,Reception,Diet consultation
+A1760,P143,D003,2026-10-13,18:16,Emergency,No-show,Online,Diabetes consultation
+A1761,P047,D003,2026-06-29,21:30,Consultation,No-show,Phone,Child health checkup
+A1762,P276,D005,2026-04-15,01:47,Follow-up,Completed,Walk-in,Child health checkup
+A1763,P010,D005,2026-02-09,18:14,Emergency,Completed,Online,Diet consultation
+A1764,P142,D001,2026-07-28,11:20,Emergency,Completed,Reception,Diet consultation
+A1765,P067,D002,2026-07-31,14:21,Emergency,Cancelled,Reception,Diabetes consultation
+A1766,P294,D002,2025-08-23,03:59,Health Checkup,Completed,Walk-in,Diet consultation
+A1767,P023,D003,2025-06-20,06:33,Follow-up,Scheduled,Reception,Headache
+A1768,P112,D004,2026-09-11,05:45,Health Checkup,Completed,Online,Fever
+A1769,P256,D001,2026-01-04,12:33,Emergency,Scheduled,Walk-in,Chest discomfort
+A1770,P153,D001,2025-09-12,06:47,Follow-up,Scheduled,Online,Diet consultation
+A1771,P199,D002,2026-04-19,17:53,Emergency,Completed,Phone,Routine checkup
+A1772,P175,D002,2026-07-11,07:28,Follow-up,No-show,Online,Chest discomfort
+A1773,P013,D003,2026-09-01,07:05,Consultation,No-show,Walk-in,Fever
+A1774,P009,D003,2025-10-05,01:21,Follow-up,Scheduled,Reception,Chest discomfort
+A1775,P255,D003,2025-07-26,23:34,Consultation,Cancelled,Phone,Chest discomfort
+A1776,P209,D002,2025-06-17,20:55,Emergency,Cancelled,Walk-in,Chest discomfort
+A1777,P284,D003,2025-04-11,21:14,Health Checkup,No-show,Online,Diabetes consultation
+A1778,P265,D003,2026-02-09,11:39,Health Checkup,Completed,Reception,Diabetes consultation
+A1779,P095,D004,2025-06-03,04:26,Consultation,No-show,Reception,Diabetes consultation
+A1780,P222,D005,2025-12-28,03:13,Follow-up,Scheduled,Walk-in,Child health checkup
+A1781,P156,D002,2026-08-10,02:21,Emergency,Cancelled,Reception,Child health checkup
+A1782,P095,D004,2026-10-05,09:32,Health Checkup,Scheduled,Reception,Diabetes consultation
+A1783,P204,D002,2026-09-18,13:27,Health Checkup,No-show,Reception,Diabetes consultation
+A1784,P194,D002,2025-03-30,09:44,Consultation,Completed,Phone,Headache
+A1785,P118,D005,2026-01-04,00:51,Consultation,No-show,Walk-in,Blood pressure check
+A1786,P105,D001,2026-03-11,10:13,Emergency,Completed,Reception,Diet consultation
+A1787,P254,D001,2025-02-06,20:58,Emergency,No-show,Online,Headache
+A1788,P045,D004,2025-05-23,08:40,Health Checkup,Cancelled,Online,Pregnancy consultation
+A1789,P120,D001,2026-09-29,00:10,Consultation,No-show,Online,Blood pressure check
+A1790,P038,D001,2025-03-02,18:29,Emergency,Cancelled,Reception,Diet consultation
+A1791,P268,D005,2026-02-16,14:05,Health Checkup,Completed,Reception,Diabetes consultation
+A1792,P076,D004,2026-08-07,00:55,Consultation,Scheduled,Reception,Child health checkup
+A1793,P183,D004,2025-04-13,09:07,Emergency,Completed,Walk-in,Headache
+A1794,P151,D004,2026-01-12,13:59,Consultation,Completed,Phone,Child health checkup
+A1795,P037,D003,2026-05-03,15:24,Health Checkup,No-show,Online,Fever
+A1796,P205,D004,2026-12-10,11:35,Health Checkup,Completed,Reception,Pregnancy consultation
+A1797,P129,D003,2025-03-30,12:49,Health Checkup,Cancelled,Walk-in,Blood pressure check
+A1798,P148,D005,2025-04-03,04:27,Health Checkup,No-show,Online,Diet consultation
+A1799,P247,D003,2025-11-23,09:10,Health Checkup,Scheduled,Phone,Routine checkup
+A1800,P179,D003,2026-08-13,19:24,Emergency,Cancelled,Phone,Follow-up
+A1801,P275,D005,2025-05-08,01:12,Emergency,No-show,Walk-in,Fever
+A1802,P109,D004,2026-01-02,08:25,Health Checkup,No-show,Reception,Blood pressure check
+A1803,P230,D004,2026-11-27,21:19,Emergency,Cancelled,Reception,Fever
+A1804,P090,D001,2025-07-03,01:21,Emergency,Cancelled,Phone,Fever
+A1805,P260,D003,2026-03-06,03:21,Consultation,Completed,Reception,Headache
+A1806,P256,D004,2026-11-20,02:30,Consultation,Scheduled,Walk-in,Fever
+A1807,P114,D005,2025-03-06,15:24,Health Checkup,Scheduled,Walk-in,Child health checkup
+A1808,P081,D001,2026-04-04,22:26,Consultation,No-show,Online,Diet consultation
+A1809,P021,D001,2026-05-07,14:05,Follow-up,No-show,Online,Routine checkup
+A1810,P197,D002,2026-03-20,23:31,Emergency,Cancelled,Reception,Routine checkup
+A1811,P065,D005,2025-10-26,22:46,Follow-up,Cancelled,Online,Child health checkup
+A1812,P254,D004,2026-07-29,05:51,Follow-up,Cancelled,Walk-in,Fever
+A1813,P122,D003,2026-11-03,12:23,Emergency,Cancelled,Phone,Child health checkup
+A1814,P288,D001,2025-08-31,14:45,Follow-up,Scheduled,Phone,Chest discomfort
+A1815,P108,D001,2025-03-22,21:33,Emergency,Cancelled,Walk-in,Child health checkup
+A1816,P283,D005,2026-01-11,00:25,Emergency,No-show,Online,Fever
+A1817,P070,D004,2026-10-05,21:50,Consultation,No-show,Reception,Headache
+A1818,P204,D004,2025-02-24,00:50,Health Checkup,Scheduled,Phone,Child health checkup
+A1819,P085,D005,2025-12-11,05:54,Consultation,Cancelled,Phone,Diabetes consultation
+A1820,P032,D003,2025-08-02,01:27,Follow-up,Cancelled,Reception,Fever
+A1821,P164,D002,2025-03-26,09:11,Emergency,Completed,Walk-in,Routine checkup
+A1822,P106,D003,2026-04-12,22:08,Consultation,Scheduled,Online,Routine checkup
+A1823,P225,D004,2025-11-20,01:29,Health Checkup,Cancelled,Online,Chest discomfort
+A1824,P207,D001,2025-12-24,12:52,Health Checkup,No-show,Online,Diet consultation
+A1825,P070,D005,2026-12-04,00:27,Consultation,Completed,Phone,Blood pressure check
+A1826,P166,D004,2026-03-03,20:09,Follow-up,No-show,Reception,Blood pressure check
+A1827,P190,D004,2026-11-14,02:08,Consultation,Scheduled,Reception,Chest discomfort
+A1828,P098,D002,2025-06-30,19:27,Health Checkup,No-show,Online,Child health checkup
+A1829,P300,D004,2026-01-07,00:16,Consultation,Completed,Online,Follow-up
+A1830,P014,D003,2025-01-09,12:20,Follow-up,No-show,Phone,Diabetes consultation
+A1831,P193,D002,2025-02-13,13:33,Follow-up,Cancelled,Reception,Diabetes consultation
+A1832,P138,D003,2025-04-21,12:27,Health Checkup,Cancelled,Online,Fever
+A1833,P275,D001,2026-01-02,07:57,Follow-up,Completed,Online,Diabetes consultation
+A1834,P277,D002,2025-05-27,12:02,Consultation,Completed,Walk-in,Routine checkup
+A1835,P230,D001,2026-06-14,07:27,Follow-up,Scheduled,Phone,Diabetes consultation
+A1836,P143,D004,2026-07-16,02:46,Emergency,No-show,Online,Headache
+A1837,P068,D005,2025-04-14,16:00,Consultation,No-show,Online,Fever
+A1838,P267,D005,2025-10-21,11:49,Emergency,No-show,Reception,Fever
+A1839,P086,D002,2026-06-08,16:58,Emergency,Cancelled,Reception,Follow-up
+A1840,P017,D001,2026-11-04,17:23,Emergency,Scheduled,Walk-in,Follow-up
+A1841,P159,D002,2026-09-09,22:03,Follow-up,Cancelled,Walk-in,Diabetes consultation
+A1842,P010,D003,2026-04-21,01:51,Emergency,Completed,Walk-in,Diet consultation
+A1843,P093,D001,2025-06-17,15:08,Consultation,Scheduled,Online,Diet consultation
+A1844,P219,D003,2025-03-08,11:14,Consultation,Completed,Phone,Follow-up
+A1845,P058,D003,2025-10-25,05:20,Health Checkup,Completed,Phone,Child health checkup
+A1846,P262,D005,2025-10-23,07:52,Emergency,Completed,Walk-in,Diabetes consultation
+A1847,P160,D004,2026-01-15,16:06,Health Checkup,Cancelled,Reception,Blood pressure check
+A1848,P245,D002,2026-02-16,12:25,Emergency,Scheduled,Walk-in,Follow-up
+A1849,P075,D002,2025-03-09,23:22,Consultation,Cancelled,Phone,Headache
+A1850,P269,D002,2026-04-13,11:25,Emergency,No-show,Phone,Follow-up
+A1851,P089,D002,2025-10-16,10:56,Emergency,Scheduled,Reception,Fever
+A1852,P103,D004,2025-07-29,13:34,Emergency,Cancelled,Online,Fever
+A1853,P199,D005,2026-11-13,10:13,Consultation,Cancelled,Walk-in,Fever
+A1854,P259,D005,2025-01-19,04:03,Follow-up,No-show,Phone,Diet consultation
+A1855,P191,D003,2026-08-20,14:08,Emergency,Completed,Phone,Child health checkup
+A1856,P282,D005,2025-04-19,19:30,Emergency,Completed,Reception,Diet consultation
+A1857,P090,D003,2025-09-17,13:34,Health Checkup,Cancelled,Online,Diet consultation
+A1858,P049,D003,2025-08-11,00:01,Follow-up,Scheduled,Reception,Routine checkup
+A1859,P234,D005,2025-12-11,19:34,Health Checkup,Cancelled,Online,Diet consultation
+A1860,P250,D001,2026-10-09,09:12,Follow-up,Completed,Reception,Headache
+A1861,P228,D005,2025-08-03,09:22,Follow-up,Scheduled,Reception,Chest discomfort
+A1862,P157,D002,2025-11-10,05:51,Consultation,Scheduled,Phone,Headache
+A1863,P272,D004,2026-05-05,01:30,Follow-up,No-show,Reception,Diabetes consultation
+A1864,P284,D003,2025-03-12,22:16,Follow-up,Cancelled,Phone,Fever
+A1865,P289,D004,2026-10-27,06:00,Follow-up,Completed,Online,Follow-up
+A1866,P190,D001,2025-03-07,16:18,Health Checkup,Cancelled,Online,Headache
+A1867,P074,D005,2026-06-17,05:36,Follow-up,Cancelled,Walk-in,Pregnancy consultation
+A1868,P060,D001,2026-08-07,13:18,Follow-up,Scheduled,Walk-in,Blood pressure check
+A1869,P162,D005,2026-06-21,09:14,Consultation,Completed,Online,Chest discomfort
+A1870,P257,D002,2026-11-27,00:51,Health Checkup,Completed,Walk-in,Blood pressure check
+A1871,P173,D004,2025-10-19,02:36,Health Checkup,No-show,Reception,Chest discomfort
+A1872,P226,D003,2025-12-16,02:46,Health Checkup,Completed,Walk-in,Routine checkup
+A1873,P009,D001,2026-07-29,19:54,Consultation,No-show,Walk-in,Headache
+A1874,P034,D001,2026-11-10,21:02,Health Checkup,Completed,Reception,Chest discomfort
+A1875,P069,D005,2025-10-25,21:18,Follow-up,Completed,Phone,Child health checkup
+A1876,P019,D002,2025-10-11,03:56,Health Checkup,Completed,Phone,Pregnancy consultation
+A1877,P226,D003,2026-08-27,20:03,Consultation,No-show,Walk-in,Child health checkup
+A1878,P162,D004,2025-04-28,01:13,Health Checkup,No-show,Walk-in,Routine checkup
+A1879,P019,D002,2026-04-24,01:36,Follow-up,No-show,Walk-in,Blood pressure check
+A1880,P268,D005,2026-12-29,02:21,Health Checkup,Scheduled,Phone,Pregnancy consultation
+A1881,P173,D002,2025-02-05,04:03,Emergency,No-show,Online,Routine checkup
+A1882,P028,D005,2025-05-21,05:41,Emergency,Completed,Phone,Chest discomfort
+A1883,P181,D005,2025-04-26,23:44,Consultation,No-show,Walk-in,Headache
+A1884,P078,D004,2025-02-11,13:31,Consultation,Cancelled,Reception,Diet consultation
+A1885,P082,D004,2026-04-14,07:07,Consultation,Scheduled,Online,Fever
+A1886,P260,D001,2026-06-28,05:03,Follow-up,Completed,Walk-in,Child health checkup
+A1887,P276,D002,2026-08-08,22:47,Follow-up,No-show,Walk-in,Chest discomfort
+A1888,P078,D002,2025-08-02,16:03,Emergency,Cancelled,Phone,Diet consultation
+A1889,P075,D005,2025-03-25,11:47,Emergency,No-show,Online,Routine checkup
+A1890,P051,D001,2026-11-08,22:13,Consultation,No-show,Reception,Blood pressure check
+A1891,P198,D002,2025-09-24,03:38,Health Checkup,No-show,Walk-in,Pregnancy consultation
+A1892,P273,D005,2025-08-02,09:51,Emergency,Completed,Walk-in,Diabetes consultation
+A1893,P105,D002,2026-07-25,11:20,Follow-up,No-show,Phone,Child health checkup
+A1894,P173,D001,2026-12-22,15:37,Emergency,No-show,Walk-in,Diabetes consultation
+A1895,P299,D004,2025-06-23,21:33,Consultation,Cancelled,Online,Child health checkup
+A1896,P236,D004,2025-07-31,01:35,Follow-up,No-show,Walk-in,Diet consultation
+A1897,P299,D004,2025-04-20,08:38,Consultation,Scheduled,Online,Diabetes consultation
+A1898,P157,D003,2026-02-25,06:51,Consultation,Cancelled,Phone,Headache
+A1899,P274,D005,2026-07-18,08:32,Follow-up,No-show,Reception,Chest discomfort
+A1900,P123,D003,2025-05-09,23:35,Health Checkup,Completed,Reception,Diet consultation
+A1901,P077,D004,2025-07-21,07:06,Follow-up,Scheduled,Walk-in,Follow-up
+A1902,P077,D005,2025-12-05,11:03,Consultation,Completed,Reception,Diet consultation
+A1903,P092,D004,2025-02-17,11:57,Consultation,Cancelled,Walk-in,Chest discomfort
+A1904,P173,D002,2025-03-16,01:57,Emergency,No-show,Walk-in,Blood pressure check
+A1905,P170,D001,2026-09-14,00:00,Follow-up,Completed,Reception,Fever
+A1906,P257,D001,2025-12-25,07:49,Follow-up,Cancelled,Phone,Diet consultation
+A1907,P184,D004,2025-07-06,18:15,Health Checkup,Cancelled,Online,Diet consultation
+A1908,P120,D001,2026-10-29,20:41,Health Checkup,Cancelled,Online,Diet consultation
+A1909,P214,D002,2025-07-27,12:27,Consultation,No-show,Walk-in,Headache
+A1910,P042,D005,2026-04-01,19:09,Health Checkup,No-show,Online,Child health checkup
+A1911,P105,D002,2026-11-06,19:36,Follow-up,Cancelled,Reception,Diabetes consultation
+A1912,P290,D002,2025-05-12,09:09,Health Checkup,Scheduled,Walk-in,Routine checkup
+A1913,P088,D005,2026-03-04,14:25,Health Checkup,No-show,Reception,Child health checkup
+A1914,P029,D003,2025-11-03,14:23,Emergency,Completed,Walk-in,Fever
+A1915,P040,D002,2025-07-31,13:13,Health Checkup,Completed,Online,Pregnancy consultation
+A1916,P126,D005,2026-03-09,19:33,Follow-up,Cancelled,Walk-in,Follow-up
+A1917,P093,D003,2026-10-16,19:31,Consultation,Scheduled,Phone,Diabetes consultation
+A1918,P236,D001,2026-06-06,01:17,Health Checkup,Completed,Phone,Follow-up
+A1919,P115,D002,2025-11-20,15:36,Consultation,Scheduled,Online,Headache
+A1920,P022,D003,2026-04-10,23:44,Follow-up,Cancelled,Reception,Follow-up
+A1921,P146,D003,2026-11-07,19:20,Consultation,Cancelled,Phone,Diet consultation
+A1922,P234,D005,2025-02-25,12:01,Consultation,Scheduled,Walk-in,Chest discomfort
+A1923,P156,D001,2026-01-05,06:27,Follow-up,Completed,Phone,Blood pressure check
+A1924,P276,D004,2025-08-06,04:30,Health Checkup,Scheduled,Phone,Diet consultation
+A1925,P011,D002,2025-12-21,21:27,Emergency,No-show,Online,Follow-up
+A1926,P115,D001,2025-10-31,00:25,Health Checkup,No-show,Online,Pregnancy consultation
+A1927,P197,D005,2025-05-25,04:29,Health Checkup,Cancelled,Phone,Follow-up
+A1928,P131,D004,2026-05-04,20:35,Emergency,No-show,Online,Blood pressure check
+A1929,P248,D004,2025-02-04,01:28,Emergency,No-show,Walk-in,Headache
+A1930,P091,D002,2025-11-03,00:49,Consultation,Scheduled,Online,Blood pressure check
+A1931,P103,D005,2025-09-21,20:50,Consultation,Scheduled,Walk-in,Diabetes consultation
+A1932,P119,D005,2026-06-01,20:42,Follow-up,Completed,Online,Blood pressure check
+A1933,P061,D002,2025-01-05,07:57,Follow-up,Completed,Reception,Child health checkup
+A1934,P274,D004,2026-03-27,04:13,Consultation,Completed,Online,Diet consultation
+A1935,P222,D003,2025-09-14,22:31,Follow-up,Completed,Online,Pregnancy consultation
+A1936,P106,D005,2025-10-18,10:26,Health Checkup,Cancelled,Walk-in,Diet consultation
+A1937,P028,D002,2026-02-13,09:07,Follow-up,Completed,Walk-in,Headache
+A1938,P031,D004,2026-04-17,09:18,Health Checkup,No-show,Online,Diabetes consultation
+A1939,P280,D005,2026-05-18,01:35,Consultation,Cancelled,Phone,Child health checkup
+A1940,P215,D004,2026-04-03,15:44,Follow-up,No-show,Phone,Pregnancy consultation
+A1941,P011,D005,2026-03-15,14:27,Health Checkup,Cancelled,Reception,Follow-up
+A1942,P085,D004,2025-07-21,19:15,Consultation,Completed,Reception,Pregnancy consultation
+A1943,P158,D001,2026-10-07,10:47,Health Checkup,Scheduled,Phone,Diet consultation
+A1944,P183,D002,2025-08-08,16:39,Follow-up,Cancelled,Walk-in,Fever
+A1945,P118,D003,2025-06-02,16:29,Health Checkup,Completed,Reception,Pregnancy consultation
+A1946,P016,D002,2026-01-14,17:32,Emergency,Completed,Reception,Chest discomfort
+A1947,P239,D002,2025-07-03,05:58,Health Checkup,Cancelled,Reception,Headache
+A1948,P267,D001,2026-09-23,16:24,Health Checkup,Cancelled,Walk-in,Routine checkup
+A1949,P107,D003,2025-12-01,16:57,Follow-up,Completed,Phone,Chest discomfort
+A1950,P177,D002,2026-04-28,00:41,Emergency,Scheduled,Walk-in,Child health checkup
+A1951,P160,D002,2025-05-24,12:26,Follow-up,Completed,Phone,Follow-up
+A1952,P025,D002,2025-12-23,14:14,Emergency,No-show,Phone,Diet consultation
+A1953,P194,D001,2025-01-15,03:59,Health Checkup,No-show,Phone,Headache
+A1954,P049,D001,2026-07-30,13:41,Health Checkup,Cancelled,Online,Pregnancy consultation
+A1955,P024,D003,2025-11-27,16:21,Emergency,Cancelled,Online,Fever
+A1956,P094,D002,2025-02-22,05:00,Consultation,No-show,Reception,Routine checkup
+A1957,P154,D005,2025-12-04,00:06,Consultation,Cancelled,Phone,Follow-up
+A1958,P029,D005,2026-11-12,20:26,Consultation,Completed,Reception,Headache
+A1959,P134,D002,2025-01-13,06:19,Consultation,Cancelled,Reception,Follow-up
+A1960,P043,D001,2025-04-21,01:19,Consultation,Completed,Walk-in,Routine checkup
+A1961,P203,D003,2025-08-16,09:36,Consultation,Cancelled,Reception,Routine checkup
+A1962,P188,D003,2026-08-12,22:27,Emergency,Cancelled,Walk-in,Chest discomfort
+A1963,P066,D001,2025-03-23,15:05,Follow-up,Scheduled,Phone,Fever
+A1964,P262,D004,2025-03-05,09:40,Follow-up,Scheduled,Reception,Follow-up
+A1965,P004,D005,2025-10-23,08:44,Emergency,Cancelled,Walk-in,Diet consultation
+A1966,P016,D004,2025-05-04,00:51,Consultation,Cancelled,Walk-in,Fever
+A1967,P212,D004,2025-11-26,21:51,Consultation,Cancelled,Online,Routine checkup
+A1968,P191,D003,2026-08-04,13:55,Emergency,Completed,Reception,Follow-up
+A1969,P296,D005,2026-09-11,17:12,Consultation,Completed,Reception,Fever
+A1970,P146,D003,2026-11-01,21:04,Follow-up,No-show,Walk-in,Diet consultation
+A1971,P046,D005,2025-05-14,20:38,Health Checkup,Cancelled,Online,Routine checkup
+A1972,P106,D005,2026-01-17,11:02,Follow-up,Scheduled,Walk-in,Headache
+A1973,P090,D002,2026-05-30,20:34,Health Checkup,Scheduled,Reception,Diabetes consultation
+A1974,P272,D002,2025-01-20,23:29,Emergency,Completed,Phone,Fever
+A1975,P068,D004,2026-07-16,17:57,Health Checkup,Completed,Phone,Child health checkup
+A1976,P284,D003,2026-06-17,06:56,Consultation,Scheduled,Reception,Diet consultation
+A1977,P220,D004,2025-01-04,04:22,Emergency,Completed,Phone,Headache
+A1978,P197,D005,2026-08-22,11:29,Health Checkup,No-show,Reception,Diabetes consultation
+A1979,P289,D002,2026-10-25,05:00,Emergency,Completed,Phone,Diabetes consultation
+A1980,P153,D003,2026-05-20,11:28,Follow-up,Completed,Walk-in,Child health checkup
+A1981,P234,D003,2026-08-31,04:22,Follow-up,Scheduled,Reception,Child health checkup
+A1982,P023,D003,2025-06-06,02:19,Consultation,Cancelled,Phone,Follow-up
+A1983,P016,D005,2025-03-19,15:03,Consultation,Scheduled,Online,Pregnancy consultation
+A1984,P018,D004,2025-06-19,16:07,Health Checkup,Completed,Walk-in,Blood pressure check
+A1985,P100,D005,2026-12-23,22:06,Emergency,Completed,Reception,Headache
+A1986,P293,D003,2025-01-04,07:40,Emergency,Scheduled,Phone,Follow-up
+A1987,P241,D002,2025-01-05,22:38,Emergency,Scheduled,Online,Fever
+A1988,P183,D001,2025-08-30,03:58,Follow-up,No-show,Walk-in,Child health checkup
+A1989,P027,D004,2025-10-01,08:57,Consultation,No-show,Walk-in,Child health checkup
+A1990,P284,D002,2025-05-06,16:22,Health Checkup,Completed,Walk-in,Diabetes consultation
+A1991,P061,D001,2026-10-27,19:36,Follow-up,Completed,Reception,Diet consultation
+A1992,P252,D004,2026-07-07,01:29,Follow-up,Completed,Phone,Child health checkup
+A1993,P028,D004,2026-12-09,22:38,Consultation,No-show,Online,Chest discomfort
+A1994,P203,D002,2025-08-30,05:53,Health Checkup,Completed,Phone,Child health checkup
+A1995,P066,D005,2025-11-20,07:50,Emergency,Scheduled,Phone,Blood pressure check
+A1996,P071,D004,2026-04-30,07:12,Health Checkup,No-show,Walk-in,Routine checkup
+A1997,P298,D002,2026-07-18,19:25,Follow-up,Scheduled,Online,Chest discomfort
+A1998,P201,D001,2026-06-18,15:30,Health Checkup,Scheduled,Reception,Pregnancy consultation
+A1999,P091,D003,2026-06-14,10:25,Consultation,Scheduled,Phone,Diet consultation
+A2000,P059,D001,2026-03-15,09:37,Emergency,No-show,Walk-in,Chest discomfort

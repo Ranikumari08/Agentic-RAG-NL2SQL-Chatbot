@@ -1,0 +1,101 @@
+medication_id,medication_name,category,manufacturer,unit_price,stock_quantity
+MED001,Cetirizine 1,Allergy,Lupin,228.95,696
+MED002,Azithromycin 2,Antibiotic,Sun Pharma,388.76,127
+MED003,Iron Supplement 3,Anemia,Lupin,375.04,207
+MED004,Cetirizine 4,Allergy,Abbott,250.71,250
+MED005,Metformin 5,Diabetes,Cipla,220.13,494
+MED006,Iron Supplement 6,Anemia,Mankind Pharma,206.9,892
+MED007,Amlodipine 7,Hypertension,Dr. Reddy's,287.48,110
+MED008,Pantoprazole 8,Gastric,Mankind Pharma,133.71,143
+MED009,Paracetamol 9,Pain Relief,Dr. Reddy's,258.86,246
+MED010,Iron Supplement 10,Anemia,Sun Pharma,17.23,746
+MED011,Azithromycin 11,Antibiotic,Lupin,426.35,148
+MED012,Montelukast 12,Asthma,Mankind Pharma,187.45,998
+MED013,Vitamin D3 13,Vitamin Supplement,Abbott,211.08,967
+MED014,Cetirizine 14,Allergy,Dr. Reddy's,261.26,211
+MED015,Amlodipine 15,Hypertension,Sun Pharma,342.58,95
+MED016,Losartan 16,Hypertension,Cipla,152.44,832
+MED017,Cetirizine 17,Allergy,Sun Pharma,202.27,862
+MED018,Levothyroxine 18,Thyroid,Dr. Reddy's,322.55,443
+MED019,Levothyroxine 19,Thyroid,Sun Pharma,152.66,462
+MED020,Amlodipine 20,Hypertension,Lupin,96.36,703
+MED021,Azithromycin 21,Antibiotic,Mankind Pharma,90.14,57
+MED022,Levothyroxine 22,Thyroid,Sun Pharma,361.7,753
+MED023,Azithromycin 23,Antibiotic,Lupin,38.73,423
+MED024,Pantoprazole 24,Gastric,Mankind Pharma,227.11,901
+MED025,Glimepiride 25,Diabetes,Sun Pharma,244.13,795
+MED026,Atorvastatin 26,Cholesterol,Lupin,176.01,193
+MED027,Glimepiride 27,Diabetes,Dr. Reddy's,174.89,233
+MED028,Omeprazole 28,Gastric,Sun Pharma,373.21,741
+MED029,Ibuprofen 29,Pain Relief,Lupin,422.0,116
+MED030,Levothyroxine 30,Thyroid,Dr. Reddy's,138.74,295
+MED031,Metformin 31,Diabetes,Sun Pharma,273.45,710
+MED032,Vitamin D3 32,Vitamin Supplement,Cipla,308.35,300
+MED033,Amlodipine 33,Hypertension,Abbott,103.35,259
+MED034,Omeprazole 34,Gastric,Dr. Reddy's,50.32,750
+MED035,Ibuprofen 35,Pain Relief,Lupin,34.77,94
+MED036,Glimepiride 36,Diabetes,Lupin,327.25,342
+MED037,Levothyroxine 37,Thyroid,Abbott,459.05,212
+MED038,Iron Supplement 38,Anemia,Lupin,475.94,744
+MED039,Paracetamol 39,Pain Relief,Abbott,80.77,314
+MED040,Levothyroxine 40,Thyroid,Cipla,431.43,810
+MED041,Glimepiride 41,Diabetes,Sun Pharma,114.09,96
+MED042,Cetirizine 42,Allergy,Lupin,377.92,260
+MED043,Paracetamol 43,Pain Relief,Abbott,463.06,102
+MED044,Pantoprazole 44,Gastric,Lupin,412.24,559
+MED045,Vitamin D3 45,Vitamin Supplement,Abbott,62.42,147
+MED046,Metformin 46,Diabetes,Sun Pharma,124.48,957
+MED047,Montelukast 47,Asthma,Sun Pharma,446.62,652
+MED048,Cetirizine 48,Allergy,Sun Pharma,180.78,839
+MED049,Atorvastatin 49,Cholesterol,Lupin,285.3,335
+MED050,Glimepiride 50,Diabetes,Cipla,105.99,67
+MED051,Amlodipine 51,Hypertension,Cipla,422.47,624
+MED052,Amlodipine 52,Hypertension,Mankind Pharma,233.75,441
+MED053,Montelukast 53,Asthma,Dr. Reddy's,271.5,406
+MED054,Amlodipine 54,Hypertension,Abbott,415.09,505
+MED055,Metformin 55,Diabetes,Lupin,368.46,502
+MED056,Vitamin D3 56,Vitamin Supplement,Lupin,388.61,313
+MED057,Paracetamol 57,Pain Relief,Dr. Reddy's,197.03,50
+MED058,Amlodipine 58,Hypertension,Dr. Reddy's,350.57,660
+MED059,Cetirizine 59,Allergy,Abbott,273.45,969
+MED060,Atorvastatin 60,Cholesterol,Cipla,291.76,657
+MED061,Cetirizine 61,Allergy,Abbott,58.7,523
+MED062,Cetirizine 62,Allergy,Dr. Reddy's,351.82,157
+MED063,Metformin 63,Diabetes,Dr. Reddy's,17.36,395
+MED064,Cetirizine 64,Allergy,Cipla,9.9,836
+MED065,Glimepiride 65,Diabetes,Dr. Reddy's,325.35,361
+MED066,Cetirizine 66,Allergy,Sun Pharma,263.73,489
+MED067,Ibuprofen 67,Pain Relief,Mankind Pharma,296.54,871
+MED068,Vitamin D3 68,Vitamin Supplement,Cipla,191.64,527
+MED069,Ibuprofen 69,Pain Relief,Cipla,309.95,678
+MED070,Glimepiride 70,Diabetes,Sun Pharma,302.0,795
+MED071,Metformin 71,Diabetes,Cipla,287.16,85
+MED072,Amlodipine 72,Hypertension,Abbott,250.58,313
+MED073,Metformin 73,Diabetes,Abbott,378.97,210
+MED074,Cetirizine 74,Allergy,Cipla,124.19,718
+MED075,Amlodipine 75,Hypertension,Dr. Reddy's,462.98,894
+MED076,Montelukast 76,Asthma,Abbott,143.96,493
+MED077,Cetirizine 77,Allergy,Mankind Pharma,35.25,156
+MED078,Montelukast 78,Asthma,Abbott,475.38,93
+MED079,Atorvastatin 79,Cholesterol,Sun Pharma,352.99,304
+MED080,Paracetamol 80,Pain Relief,Dr. Reddy's,388.3,103
+MED081,Glimepiride 81,Diabetes,Lupin,481.98,721
+MED082,Losartan 82,Hypertension,Lupin,157.06,141
+MED083,Iron Supplement 83,Anemia,Dr. Reddy's,37.07,799
+MED084,Glimepiride 84,Diabetes,Sun Pharma,209.49,951
+MED085,Metformin 85,Diabetes,Lupin,174.17,876
+MED086,Pantoprazole 86,Gastric,Lupin,214.4,653
+MED087,Atorvastatin 87,Cholesterol,Abbott,343.28,105
+MED088,Ibuprofen 88,Pain Relief,Lupin,106.77,417
+MED089,Pantoprazole 89,Gastric,Cipla,262.0,693
+MED090,Iron Supplement 90,Anemia,Dr. Reddy's,352.61,830
+MED091,Levothyroxine 91,Thyroid,Abbott,342.04,576
+MED092,Montelukast 92,Asthma,Mankind Pharma,222.16,172
+MED093,Pantoprazole 93,Gastric,Sun Pharma,434.84,367
+MED094,Amlodipine 94,Hypertension,Abbott,426.25,242
+MED095,Montelukast 95,Asthma,Sun Pharma,436.33,431
+MED096,Iron Supplement 96,Anemia,Abbott,86.38,736
+MED097,Paracetamol 97,Pain Relief,Sun Pharma,200.59,710
+MED098,Montelukast 98,Asthma,Abbott,235.85,908
+MED099,Montelukast 99,Asthma,Cipla,145.83,694
+MED100,Azithromycin 100,Antibiotic,Abbott,395.0,168

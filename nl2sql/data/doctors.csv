@@ -1,0 +1,6 @@
+doctor_id,doctor_name,specialization,qualification,experience_years,consultation_fee,department_id,joining_date
+D001,Dr. Ayesha Kapoor,Internal Medicine,MD,12,800,DEP001,2021-04-10
+D002,Dr. Rohan Mehta,Pediatrics,MD,8,600,DEP002,2022-06-15
+D003,Dr. Priya Nair,Obstetrics & Gynecology,MD,10,900,DEP003,2020-08-20
+D004,Dr. Anil Deshmukh,Cardiology,DM,15,1200,DEP004,2019-02-12
+D005,Dr. Sneha Rao,Nutrition & Dietetics,PhD,7,700,DEP005,2023-01-18
