@@ -187,7 +187,9 @@ def summarize_results(question: str, sql: str, rows) -> str:
             {"role": "system", "content": (
                 "You answer the user's question using ONLY the query results "
                 "given. Be concise and natural — don't mention SQL or the "
-                "database. If the results are empty, say so plainly."
+                "database. If the results are empty, say so plainly. "
+                "All monetary amounts in this database are in Indian Rupees — "
+                "always format them with the ₹ symbol (e.g. ₹800.00), never $."
             )},
             {"role": "user", "content": (
                 f"Question: {question}\nQuery results: {rows_json}"

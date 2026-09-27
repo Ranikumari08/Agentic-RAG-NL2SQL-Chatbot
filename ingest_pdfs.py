@@ -140,7 +140,14 @@ def build_collection(pdf_dir: str, persist_dir: str,
     except Exception:
         pass
     collection = client.create_collection(
-        name=collection_name, embedding_function=embed_fn
+        name=collection_name, embedding_function=embed_fn,
+        # ChromaDB defaults to "l2" (unbounded squared Euclidean distance)
+        # if not set explicitly. rag_agent.py's confidence check assumes
+        # cosine distance (bounded 0-2, so 1-distance is a meaningful
+        # similarity score) — without this, that check silently rejects
+        # even strong matches because raw L2 distances are much larger
+        # than 1, making 1-distance deeply negative.
+        metadata={"hnsw:space": "cosine"},
     )
 
     all_ids, all_docs, all_metadatas = [], [], []
